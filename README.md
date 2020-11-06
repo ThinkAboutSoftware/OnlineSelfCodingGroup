@@ -28,6 +28,15 @@ https://sites.google.com/view/code-with-gdgkr/home
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - XX 때문에 못와서 죄송하다. 다음에 꼭 오겠다 등등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+1. [2020-11-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/1)
+
+</p>
+</details>
+
 ## Known rewards
 
 - 보통 인맥 네트워킹이 가장 크고
