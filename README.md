@@ -1,6 +1,8 @@
 # OnlineSelfCodingGroup
 
-Online coding and study group at every saturday 10 am.
+Online coding and study group at every saturday at 10 am.
+
+Join link: [Google meet](meet.google.com/hup-esri-zms)
 
 ## Inspired at GDG relay online mogagko(모각코)
 
@@ -26,7 +28,7 @@ https://sites.google.com/view/code-with-gdgkr/home
 
 - 참여는 자율입니다. 즉, 하기로 했는데 안와도 상관 없고, 아무 얘기도 안했는데 토요일 오전 10시에 들어오셔도 상관 없습니다.
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
-- XX 때문에 못와서 죄송하다. 다음에 꼭 오겠다 등등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
+- "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
 <details>
 <summary>Online meet up history</summary>
@@ -61,7 +63,7 @@ https://sites.google.com/view/code-with-gdgkr/home
 
 - 매주 토요일 오전 10시에 아래 google meet 링크를 통해 접속
   - [Google meet](meet.google.com/hup-esri-zms)
-  - 스피커, 마이크는 꺼야 함
+  - 마이크는 반드시 꺼야 함
 - 10시에서 10시 10분 사이 카메라를 켜고 자신의 모습 혹은 자신이 맞다는 증거 스크린샷 찍기
   - 자기 얼굴이 정확하지만 그게 싫은 분들은 로그인한 블로그, github 메인 페이지도 되고 자기 휴대폰 화면 같은 것도 됩니다. 물론 google meet 접속 후 카메라를 통해서 찍어야 합니다. 이 부분에서 다양한 창의력 발휘를 하면 좋습니다.
   - 스크린샷에 현재 시간이 없거나 정해진 시간이 아닐 경우 인증 안됨
