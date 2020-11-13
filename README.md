@@ -2,11 +2,11 @@
 
 Online coding and study group at every saturday at 10 am.
 
-Join link: [Google meet](meet.google.com/hup-esri-zms)
+Join link: [Google meet](https://meet.google.com/hup-esri-zms)
 
 ## Inspired at GDG relay online mogagko(모각코)
 
-https://sites.google.com/view/code-with-gdgkr/home
+[GDG Online 모각코](https://sites.google.com/view/code-with-gdgkr/home)
 
 모각코는 "모여서 각자 코딩"의 줄임말입니다.
 
@@ -62,7 +62,7 @@ https://sites.google.com/view/code-with-gdgkr/home
 ### Joined
 
 - 매주 토요일 오전 10시에 아래 google meet 링크를 통해 접속
-  - [Google meet](meet.google.com/hup-esri-zms)
+  - [Google meet](https://meet.google.com/hup-esri-zms)
   - 마이크는 반드시 꺼야 함
 - 10시에서 10시 10분 사이 카메라를 켜고 자신의 모습 혹은 자신이 맞다는 증거 스크린샷 찍기
   - 자기 얼굴이 정확하지만 그게 싫은 분들은 로그인한 블로그, github 메인 페이지도 되고 자기 휴대폰 화면 같은 것도 됩니다. 물론 google meet 접속 후 카메라를 통해서 찍어야 합니다. 이 부분에서 다양한 창의력 발휘를 하면 좋습니다.
