@@ -34,7 +34,8 @@ Join link: [Google meet](https://meet.google.com/hup-esri-zms)
 <summary>Online meet up history</summary>
 <p>
 
-1. [2020-11-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/1)
+- [2020-11-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/2)
+- [2020-11-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/1), 5명 참가
 
 </p>
 </details>
