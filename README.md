@@ -2,7 +2,7 @@
 
 Online coding and study group at every saturday at 10 am.
 
-Join link: [Google meet](https://meet.google.com/hup-esri-zms)
+Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## Inspired at GDG relay online mogagko(모각코)
 
@@ -90,6 +90,7 @@ Join link: [Google meet](https://meet.google.com/hup-esri-zms)
 ## Remind
 
 - 매주 같은 시간에 안할 경우가 있으므로 그 때는 미리 issue를 통해 변경 시간 확인
+- github에서 참여가 확인되면 최대한 빨리 메일을 통해 구글 캘린더 일정에 추가해 드립니다, 이후 참여할 때 저의 참여요청 승인을 받지 않아도 자유롭게 입장할 수 있습니다.
 
 ## Questions
 
