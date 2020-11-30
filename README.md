@@ -34,7 +34,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 <summary>Online meet up history</summary>
 <p>
 
-- [2020-11-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/5)
+- [2020-12-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/7), 개최 예정
+- [2020-11-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/5), 7명 참가
 - [2020-11-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/2), 3명 참가
 - [2020-11-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/1), 5명 참가
 
@@ -51,6 +52,11 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 - 2시간을 다 채우고 인증이 완료된 분에게 참석 스탬프 1장을 드립니다.
 - 스탬프 4장을 모으신 분은 저의 사비를 털어 스타벅스 아메리카노 쿠폰을 드립니다.
+- 인증 절차
+  - 아래 모든 내용은 제가 확인하고 진행합니다.
+  - 10시 ~ 10시 10분 사이 입장, 각자 자기 소개 혹은 할 일 소개 하신 분
+  - 11시 50분 ~ 12시 사이 꺼뒀던 마이크를 켜 둔게 확인 되신 분
+  - 이후 공부한 내용 링크 업데이트 된 부분이 확인 된 분 
 
 ## Process
 
@@ -65,15 +71,11 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 - 매주 토요일 오전 10시에 아래 google meet 링크를 통해 접속
   - [Google meet](https://meet.google.com/hup-esri-zms)
-  - 마이크는 반드시 꺼야 함
+  - 공부 진행중에는 마이크는 반드시 꺼야 함
   - 모인 사람들이 해야 할 일에 대한 얘기를 하는 걸 듣기 위해 스피커를 켜 둬야 함.
 - 간단히 할 일에 대한 소개 진행
   - 자기 소개 포함
-  - 새로온 멤버가 없고 지난 멤버와 변동이 없다면 자기소개는 넘어갈 수 있음
-- 10시에서 10시 10분 사이 카메라를 켜고 자신의 모습 혹은 자신이 맞다는 증거 스크린샷 찍기
-  - 자기 얼굴이 정확하지만 그게 싫은 분들은 로그인한 블로그, github 메인 페이지도 되고 자기 휴대폰 화면 같은 것도 됩니다. 물론 google meet 접속 후 카메라를 통해서 찍어야 합니다. 이 부분에서 다양한 창의력 발휘를 하면 좋습니다.
-  - 스크린샷에 현재 시간이 없거나 정해진 시간이 아닐 경우 인증 안됨
-- 스크린샷을 이번주 온라인 모각코 공지 issue 글에 자기가 할일을 적은 코멘트 부분에 수정해서 이미지 첨부
+  - 새로온 멤버가 없다면 자기소개는 넘어갈 수 있음
 - 각자 알아서 작업 진행
 
 ### Finish
