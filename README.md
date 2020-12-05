@@ -10,7 +10,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 모각코는 "모여서 각자 코딩"의 줄임말입니다.
 
-## Overview
+## Motivation
 
 2020년 9월 GDG 온라인 모각코를 몇 차례 참여하고 난 후에 여러가지 생각을 하게 됐습니다.
 
@@ -19,6 +19,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 내 멘토링의 철학인 시간 계획 + 목표 + 수행 + 결과 정리와 크게 다르지 않다.
 
 그래서 저도 온라인 모각코 모임을 만들어 보게 되었습니다.
+
+## Overview
 
 매주 토요일 오전 10시에서 12시 까지 2시간 집중해서 오전에 공부를 하는 모임입니다.
 공부를 해도 좋고 코딩을 해도 좋고 뭘 해도 좋습니다.
@@ -34,7 +36,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 <summary>Online meet up history</summary>
 <p>
 
-- [2020-12-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/7), 개최 예정
+- [2020-12-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/8), 개최 예정
+- [2020-12-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/7), 6명 참가
 - [2020-11-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/5), 7명 참가
 - [2020-11-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/2), 3명 참가
 - [2020-11-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/1), 5명 참가
@@ -56,7 +59,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
   - 아래 모든 내용은 제가 확인하고 진행합니다.
   - 10시 ~ 10시 10분 사이 입장, 각자 자기 소개 혹은 할 일 소개 하신 분
   - 11시 50분 ~ 12시 사이 꺼뒀던 마이크를 켜 둔게 확인 되신 분
-  - 이후 공부한 내용 링크 업데이트 된 부분이 확인 된 분 
+  - 이후 공부한 내용 링크 업데이트 된 부분이 확인 된 분
 
 ## Process
 
