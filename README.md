@@ -36,11 +36,12 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 <summary>Online meet up history</summary>
 <p>
 
-- [2020-12-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/11), 개최 예정
+- [2020-12-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/12), 개최 예정
+- [2020-12-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/11), 5명 참가
 - [2020-12-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/8), 3명 참가
 - [2020-12-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/7), 6명 참가
 - [2020-11-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/5), 7명 참가
-- [2020-11-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/2), 3명 참가
+- [2020-11-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/3), 4명 참가
 - [2020-11-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/1), 5명 참가
 
 </p>
@@ -74,7 +75,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 ### Joined
 
 - 매주 토요일 오전 10시에 아래 google meet 링크를 통해 접속
-  - [Google meet](https://meet.google.com/hup-esri-zms)
+  - [Google meet](https://meet.google.com/jyx-mxnq-kpk)
   - 공부 진행중에는 마이크는 반드시 꺼야 함
   - 모인 사람들이 해야 할 일에 대한 얘기를 하는 걸 듣기 위해 스피커를 켜 둬야 함.
 - 간단히 할 일에 대한 소개 진행
