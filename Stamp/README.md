@@ -28,3 +28,10 @@ https://pngtree.com/freepng/approved-stamp-round-grunge-approved-sign-sticker-se
 |[kiJiyeon](https://github.com/kiJiyeon/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/1#issuecomment-727096267"><img src="approved.png" width="33.2" height="33.2" /></a> | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/5#issuecomment-734824316"><img src="approved.png" width="33.2" height="33.2" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/7#issuecomment-738564158"><img src="approved.png" width="33.2" height="33.2" /></a> | | | |
 |[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)| | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/5#issuecomment-734524827"><img src="approved.png" width="33.2" height="33.2" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/7#issuecomment-738607170"><img src="approved.png" width="33.2" height="33.2" /></a> | | | |
 |[JSY8869](https://github.com/JSY8869/)| | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/5#issuecomment-734862583"><img src="approved.png" width="33.2" height="33.2" /></a> | | | | |
+
+
+## Stamp e-Gift Item 
+
+* 멘토님께 받은 기프트콘 이미지 첨부합니다. (조윤우)
+
+![스타벅스 기프티콘 이미지!](Starbucks_americano_e-Gift_Item.jpg)
