@@ -15,9 +15,29 @@ https://pngtree.com/freepng/approved-stamp-round-grunge-approved-sign-sticker-se
 
 <img src="approved.png" width="83" height="83" />
 
+그리고 매 분기(Q)마다 다른 이미지를 적용해 보려고 합니다.
+
+아래는 2021년 1분기에 사용할 이미지입니다.
+
+https://pngtree.com/freepng/approved-stamp-round-grunge-approved-sign-sticker-seal_5221288.html
+
+<img src="approved_2021.png" width="83" height="83" />
+
 ## Stamp status
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
+
+### 2021 1Q, 01-02 ~ 03-27
+
+| Name    | 01-02 | 01-09 | 01-16 | 01-23 | 01-30 | 02-06 | 02-20 | 02-27 | 03-06 | 03-13 | 03-20 | 03-27 |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+|[jongfeel](https://github.com/jongfeel/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-753644152"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | | | | | | | | | | | |
+|[hi-hyein](https://github.com/hi-hyein/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-753326788"><img src="approved_2021.png" width="33.2" height="33.2" /></a> <img src="Starbucks_americano.JPG" width="33.2" height="33.2" /> | | | | | | | | | | | |
+|[yoonucho](https://github.com/yoonucho/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-752889039"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | | | | | | | | | | | |
+|[fora22](https://github.com/fora22/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-753321936"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | | | | | | | | | | | |
+|[JSY8869](https://github.com/JSY8869/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-752959242"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | | | | | | | | | | | |
+
+### 2020 4Q, 11-14 ~ 12-26
 
 | Name    | 11-14 | 11-21 | 11-28 | 12-05 | 12-12 | 12-19 | 12-26 |
 |---------|-------|-------|-------|-------|-------|-------|-------|
