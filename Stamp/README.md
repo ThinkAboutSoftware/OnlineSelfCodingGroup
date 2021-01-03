@@ -31,7 +31,7 @@ https://pngtree.com/freepng/approved-stamp-round-grunge-approved-sign-sticker-se
 
 | Name    | 01-02 | 01-09 | 01-16 | 01-23 | 01-30 | 02-06 | 02-20 | 02-27 | 03-06 | 03-13 | 03-20 | 03-27 |
 |---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-|[jongfeel](https://github.com/jongfeel/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-753644152"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | | | | | | | | | | | |
+|[jongfeel](https://github.com/jongfeel/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-753413849"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | | | | | | | | | | | |
 |[hi-hyein](https://github.com/hi-hyein/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-753326788"><img src="approved_2021.png" width="33.2" height="33.2" /></a> <img src="Starbucks_americano.JPG" width="33.2" height="33.2" /> | | | | | | | | | | | |
 |[yoonucho](https://github.com/yoonucho/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-752889039"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | | | | | | | | | | | |
 |[fora22](https://github.com/fora22/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-753321936"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | | | | | | | | | | | |
