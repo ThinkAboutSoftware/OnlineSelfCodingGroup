@@ -36,7 +36,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 <summary>Online meet up history</summary>
 <p>
 
-- [2021-01-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/17), 개최 예정
+- [2021-01-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18), 개최예정
+- [2021-01-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/17), 4명 참가
 - [2021-01-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15), 5명 참가
 - [2020-12-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/12), 4명 참가
 - [2020-12-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/11), 5명 참가
