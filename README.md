@@ -15,7 +15,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 2020년 9월 GDG 온라인 모각코를 몇 차례 참여하고 난 후에 여러가지 생각을 하게 됐습니다.
 
 - 역시 계획적인 시간 보내기는 뿌듯하다.
-- 언젠가 해야 하는 일들에 대한 자신의 게으름을 탓하지 않게 된다.
+- 언젠가 해야 하는 것들에 대한 자신의 게으름을 탓하지 않게 된다.
 - 내 멘토링의 철학인 시간 계획 + 목표 + 수행 + 결과 정리와 크게 다르지 않다.
 
 그래서 저도 온라인 모각코 모임을 만들어 보게 되었습니다.
@@ -23,8 +23,9 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 ## Overview
 
 매주 토요일 오전 10시에서 12시 까지 2시간 집중해서 오전에 공부를 하는 모임입니다.
-공부를 해도 좋고 코딩을 해도 좋고 뭘 해도 좋습니다.
-안하는 것 보다 계획된 시간에 뭔가 한다는게 중요한 것이죠.
+공부를 해도 좋고 코딩을 해도 좋고 뭘 해도 좋습니다. 다만 회사일이나 개인적으로 마감 때문에 급하게 처리해야 하는 일은 최대한 자제해 주시면 좋겠습니다.
+
+그런데 일로 하는건 둘째 치고 아무것도 안하는 것 보다 계획된 시간에 뭔가 한다는게 중요합니다. 그래서 이 모임이 의미가 있다고 생각하고 있습니다.
 
 ## Features
 
@@ -36,9 +37,15 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 <summary>Online meet up history</summary>
 <p>
 
-- [2021-01-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18), 개최예정
+- [2021-01-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/19), 개최 예정
+- [2021-01-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18), 6명 참가
 - [2021-01-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/17), 4명 참가
 - [2021-01-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15), 5명 참가
+
+<details>
+<summary>2020년 4Q</summary>
+<p>
+
 - [2020-12-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/12), 4명 참가
 - [2020-12-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/11), 5명 참가
 - [2020-12-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/8), 3명 참가
@@ -46,6 +53,9 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [2020-11-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/5), 7명 참가
 - [2020-11-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/3), 4명 참가
 - [2020-11-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/1), 5명 참가
+
+</p>
+</details>
 
 </p>
 </details>
@@ -60,10 +70,11 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 - 2시간을 다 채우고 인증이 완료된 분에게 참석 스탬프 1장을 드립니다.
 - 스탬프 4장을 모으신 분은 저의 사비를 털어 스타벅스 아메리카노 쿠폰을 드립니다.
+- 기념이 될 만한 회차 (10회, 50회, 100회 등)에 참여하신 분은 쿠폰이 업그레이드 됩니다!
 - 인증 절차
   - 아래 모든 내용은 제가 확인하고 진행합니다.
-  - 10시 ~ 10시 10분 사이 입장, 각자 자기 소개 혹은 할 일 소개 하신 분
-  - 11시 50분 ~ 12시 사이 꺼뒀던 마이크를 켜 둔게 확인 되신 분
+  - 10시 ~ 10시 10분 사이 입장, 각자 자기 소개 혹은 할 내용에 대해 소개 하신 분
+  - 12시 ~ 12시 10분 사이 꺼뒀던 마이크를 켜고 자유로운 대화에 참여하신 분
   - 이후 공부한 내용 링크 업데이트 된 부분이 확인 된 분
 
 ## Process
@@ -80,17 +91,18 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 매주 토요일 오전 10시에 아래 google meet 링크를 통해 접속
   - [Google meet](https://meet.google.com/jyx-mxnq-kpk)
   - 공부 진행중에는 마이크는 반드시 꺼야 함
-  - 모인 사람들이 해야 할 일에 대한 얘기를 하는 걸 듣기 위해 스피커를 켜 둬야 함.
-- 간단히 할 일에 대한 소개 진행
+  - 모인 사람들이 진행할 내용에 대한 얘기를 듣기 위해 스피커를 켜 둬야 함.
+- 간단히 자기가 진행할 공부 내용에 대한 소개 진행
   - 자기 소개 포함
   - 새로온 멤버가 없다면 자기소개는 넘어갈 수 있음
-- 각자 알아서 작업 진행
+- 각자 알아서 공부 진행
 
 ### Finish
 
-- 끝나기 10분 전 쯤 발언 시간 진행
-  - 각자 한 일에 대해 얘기하고 싶으신 분, 없으면 생략 가능
-  - 다른 사람이 한 일에 대해 관심 있거나 물어보고 싶으신 분 질문/답변 시간, 없으면 생략 가능
+- 12시 이후 10분 정도 발언 시간 진행
+  - 각자 진행했던 내용에 대해 공유나 얘기하고 싶으신 분, 없으면 생략 가능
+  - 다른 사람이 한 내용 대해 관심 있거나 물어보고 싶으신 분 질문/답변 시간, 없으면 생략 가능
+  - 제가 TMI 여서 10분이 너무 빨리 지나갑니다. 어색할 틈이 없어요.
 - 2시간 동안 한 분량에 대해 이번주 모각코 issue 글에 추가 코멘트로 정리, 모각코가 끝난 12시 이후에 해도 상관 없음.
   - 작업 내용이 자신의 개인 github이나 블로그 등 다른 곳에 있다면 그 부분에 대한 링크 첨부
   - 책읽기의 경우 페이지 분량 표시
@@ -101,8 +113,9 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 ## Remind
 
 - 매주 같은 시간에 안할 경우가 있으므로 그 때는 미리 issue를 통해 변경 시간 확인
-- github에서 참여가 확인되면 최대한 빨리 메일을 통해 구글 캘린더 일정에 추가해 드립니다, 이후 참여할 때 저의 참여요청 승인을 받지 않아도 자유롭게 입장할 수 있습니다.
+- github에서 참여가 확인되면 최대한 빨리 메일을 통해 구글 캘린더 일정에 추가해 드립니다
+- 참여 수락한 이후, 해당 시간에 참여할 때 저의 참여요청 승인을 받지 않아도 자유롭게 입장할 수 있습니다.
 
 ## Questions
 
-- Issue에 자유롭게 질문
+- [discussions](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/discussions)에 자유롭게 질문
