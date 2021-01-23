@@ -37,7 +37,7 @@ https://pngtree.com/freepng/approved-stamp-round-grunge-approved-sign-sticker-se
 |[fora22](https://github.com/fora22/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-753321936"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/17#issuecomment-756892628"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18#issuecomment-760595443"><img src="approved_2021.png" width="33.2" height="33.2" /></a> <img src="Starbucks_cafelatte.png" width="33.2" height="33.2" /> | | | | | | | | | |
 |[JSY8869](https://github.com/JSY8869/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15#issuecomment-752959242"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | | | | | | | | | | | |
 |[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)| | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18#issuecomment-760630753"><img src="approved_2021.png" width="33.2" height="33.2" /></a> <img src="Starbucks_cafelatte.png" width="33.2" height="33.2" /> | | | | | | | | | |
-|[ytw9699](https://github.com/ytw9699)| | | | | | | | | | | | |
+|[ytw9699](https://github.com/ytw9699)| | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18#issuecomment-761250838"><img src="approved_2021.png" width="33.2" height="33.2" /></a> | | | | | | | | | |
 
 ### 2020 4Q, 11-14 ~ 12-26
 
