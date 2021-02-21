@@ -118,6 +118,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 매주 같은 시간에 안할 경우가 있으므로 그 때는 미리 issue를 통해 변경 시간 확인
 - github에서 참여가 확인되면 최대한 빨리 메일을 통해 구글 캘린더 일정에 추가해 드립니다
 - 참여 수락한 이후, 해당 시간에 참여할 때 저의 참여요청 승인을 받지 않아도 자유롭게 입장할 수 있습니다.
+- 2021-02-21 추가) 만약 제가 10시 5분 이후에도 참석하지 않으면 늦잠을 자고 있는 것이므로 여러분들끼리 긴급 google meet 링크를 생성 후 진행해 주시면 좋겠습니다.
+  - 이미 [사고](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/23) 사례가 있기 때문에 미리 죄송하다는 말씀 드립니다.
 
 ## Questions
 
