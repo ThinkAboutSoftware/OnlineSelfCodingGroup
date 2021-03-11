@@ -1,4 +1,4 @@
-# 객체지향의 사실과 오해 (The Essense of Object-Orientation) Discussions
+# 객체지향의 사실과 오해 (The Essense of Object-Orientation) Discussions 
 
 ## Chapter 01
 
