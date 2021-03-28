@@ -37,30 +37,39 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 <summary>Online meet up history</summary>
 <p>
 
-- [2021-03-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/46), 개최 예정
-- [2021-03-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/41), 3명 참가
-- [2021-03-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/38), 3명 참가
-- [2021-03-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/32), 4명 참가
-- [2021-02-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/26), 4명 참가
-- [2021-02-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/23), 6명 참가
-- [2021-02-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/21), 3명 참가
-- [2021-01-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/20), 4명 참가
-- [2021-01-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/19), 3명 참가
-- [2021-01-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18), 6명 참가
-- [2021-01-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/17), 4명 참가
-- [2021-01-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15), 5명 참가
+- [20th, 2021-03-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/47), 개최예정
+
+<details>
+<summary>2021년 1Q</summary>
+<p>
+
+- [19th, 2021-03-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/46), 4명 참가
+- [18th, 2021-03-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/41), 3명 참가
+- [17th, 2021-03-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/38), 3명 참가
+- [16th, 2021-03-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/32), 4명 참가
+- [15th, 2021-02-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/26), 4명 참가
+- [14th, 2021-02-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/23), 6명 참가
+- [13th, 2021-02-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/21), 3명 참가
+- [12th, 2021-01-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/20), 4명 참가
+- [11th, 2021-01-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/19), 3명 참가
+- [10th, 2021-01-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18), 6명 참가
+- [9th, 2021-01-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/17), 4명 참가
+- [8th, 2021-01-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/15), 5명 참가
+
+</p>
+</details>
 
 <details>
 <summary>2020년 4Q</summary>
 <p>
 
-- [2020-12-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/12), 4명 참가
-- [2020-12-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/11), 5명 참가
-- [2020-12-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/8), 3명 참가
-- [2020-12-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/7), 6명 참가
-- [2020-11-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/5), 7명 참가
-- [2020-11-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/3), 4명 참가
-- [2020-11-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/1), 5명 참가
+- [7th, 2020-12-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/12), 4명 참가
+- [6th ,2020-12-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/11), 5명 참가
+- [5th, 2020-12-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/8), 3명 참가
+- [4th, 2020-12-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/7), 6명 참가
+- [3rd, 2020-11-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/5), 7명 참가
+- [2nd, 2020-11-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/3), 4명 참가
+- [1st, 2020-11-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/1), 5명 참가
 
 </p>
 </details>
