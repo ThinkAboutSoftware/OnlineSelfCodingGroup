@@ -37,7 +37,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 <summary>Online meet up history</summary>
 <p>
 
-- [20th, 2021-03-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/47), 개최예정
+- [20th, 2021-04-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/47), 개최예정
 
 <details>
 <summary>2021년 1Q</summary>
