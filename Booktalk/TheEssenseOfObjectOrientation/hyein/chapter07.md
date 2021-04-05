@@ -1,5 +1,5 @@
 # 객체지향의 사실과 오해 (The Essense of Object-Orientation) Discussions
-## Chapter 07 책임과 메시지
+## Chapter 07 함께 모으기
 ### Discussions 01. 커피 전문점 Class
 작은 범위의 모델이 구현되는데 Class가 5개가 나왔다. 뭔가 Class는 대빵 개념의 느낌이라
 많아도 괜찮은걸까? 생각이 들었다. Class가 많은게 중요한게 아니라, Class의 책임이 한개씩이라는 것에 중점을 두고 봐야하는 것인가?
