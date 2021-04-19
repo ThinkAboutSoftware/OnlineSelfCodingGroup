@@ -9,23 +9,28 @@
 
 ## Stamp image
 
-우선 무료 스탬프 이미지를 구해서 적용해볼 예정입니다.
-흔한 승인 스탬프 이미지를 아래 출처 및 라이선스를 통해 무료로 얻어왔습니다.
-https://pngtree.com/freepng/approved-stamp-round-grunge-approved-sign-sticker-seal_5221291.html
-
-<img src="approved.png" width="83" height="83" />
-
-그리고 매 분기(Q)마다 다른 이미지를 적용해 보려고 합니다.
-
-아래는 2021년 1분기에 사용할 이미지입니다.
-
-https://pngtree.com/freepng/approved-stamp-round-grunge-approved-sign-sticker-seal_5221288.html
-
-<img src="approved_2021.png" width="83" height="83" />
+- 2021 2Q
+  - https://pngtree.com/freepng/gradient-circle-approved-seal-badge-with-border-icon_4871478.html
+  - <img src="approved_2021_2Q.png" width="84" height="84" />
+- 2021 1Q
+  - https://pngtree.com/freepng/approved-stamp-round-grunge-approved-sign-sticker-seal_5221288.html
+  - <img src="approved_2021.png" width="83" height="83" />
+- 2020 4Q
+  - https://pngtree.com/freepng/approved-stamp-round-grunge-approved-sign-sticker-seal_5221291.html
+  - <img src="approved.png" width="83" height="83" />
 
 ## Stamp status
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
+
+### 2021 2Q, 04-03(20th) ~ 06-26(32th)
+
+| Name    | 04-03 | 04-10 | 04-17 | 04-24 | 05-01 | 05-08 | 05-15 | 05-22 | 05-29 | 06-05 | 06-12 | 06-19 | 06-26 |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+|[hi-hyein](https://github.com/hi-hyein/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/47#issuecomment-812768363"><img src="approved_2021_2Q.png" width="36" height="36" /></a> <img src="Starbucks_cafemocha.png" width="32" height="32" /> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/56#issuecomment-817044209"><img src="approved_2021_2Q.png" width="36" height="36" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/57#issuecomment-822443809"><img src="approved_2021_2Q.png" width="36" height="36" /></a> |
+|[Joseph-Cha](https://github.com/Joseph-Cha)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/47#issuecomment-812761882"><img src="approved_2021_2Q.png" width="36" height="36" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/56#issuecomment-817044838"><img src="approved_2021_2Q.png" width="36" height="36" /></a> <img src="Starbucks_cafemocha.png" width="32" height="32" /> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/57#issuecomment-821738490"><img src="approved_2021_2Q.png" width="36" height="36" /></a> |
+|[jongfeel](https://github.com/jongfeel/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/47#issuecomment-812772679"><img src="approved_2021_2Q.png" width="36" height="36" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/56#issuecomment-817055768"><img src="approved_2021_2Q.png" width="36" height="36" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/57#issuecomment-815536060"><img src="approved_2021_2Q.png" width="36" height="36" /></a> |
+|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)| <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/47#issuecomment-812499720"><img src="approved_2021_2Q.png" width="36" height="36" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/56#issuecomment-817045777"><img src="approved_2021_2Q.png" width="36" height="36" /></a> <img src="Starbucks_cafemocha.png" width="32" height="32" /> |
 
 ### 2021 1Q, 01-02(8th) ~ 03-27(19th)
 
