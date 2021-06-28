@@ -33,9 +33,19 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
-## 2021 2Q meet up list
+## 2021 3Q meet up list
 
-- [32th, 2021-06-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/68), 개최 예정
+- [33th, 2021-07-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/69), 개최 예정
+
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2021년 2Q</summary>
+<p>
+
+- [32th, 2021-06-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/68), 4명 참가
 - [31th, 2021-06-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/67), 4명 참가
 - [30th, 2021-06-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/66), 3명 참가
 - [29th, 2021-06-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/64), 5명 참가
@@ -49,9 +59,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [21th, 2021-04-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/56), 4명 참가
 - [20th, 2021-04-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/47), 4명 참가
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2021년 1Q</summary>
