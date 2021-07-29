@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2021 3Q meet up list
 
-- [36th, 2021-07-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/72), 개최 예정
+- [37th, 2021-07-31](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/73), 개최예정
+- [36th, 2021-07-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/72), 4명 참가
 - [35th, 2021-07-17](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/71), 3명 참가
 - [34th, 2021-07-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/70), 3명 참가
 - [33th, 2021-07-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/69), 3명 참가
@@ -116,9 +117,9 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 기념이 될 만한 회차 (10회, 50회, 100회 등)에 참여하신 분은 쿠폰이 업그레이드 됩니다!
 - 인증 절차
   - 아래 모든 내용은 제가 확인하고 진행합니다.
-  - 10시 ~ 10시 10분 사이 입장, 각자 자기 소개 혹은 할 내용에 대해 소개 하신 분
-  - 12시 ~ 12시 10분 사이 꺼뒀던 마이크를 켜고 자유로운 대화에 참여하신 분
-  - 이후 공부한 내용 링크 업데이트 된 부분이 확인 된 분
+  - 10시 30분 ~ 10시 40분 사이 입장, 각자 자기 소개 혹은 할 내용에 대해 소개 하신 분
+  - 12시 30분 ~ 12시 40분 사이 꺼뒀던 마이크를 켜고 자유로운 대화에 참여하신 분
+  - 이후 진행한 내용에 대한 링크를 시작하기 전 작성한 issue에 업데이트: 다음 모각코 전까지 확인되어야 함
 
 ## Process
 
@@ -142,11 +143,11 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ### Finish
 
-- 12시 이후 10분 정도 발언 시간 진행
+- 12시 30분 이후 10분 정도 발언 시간 진행
   - 각자 진행했던 내용에 대해 공유나 얘기하고 싶으신 분, 없으면 생략 가능
   - 다른 사람이 한 내용 대해 관심 있거나 물어보고 싶으신 분 질문/답변 시간, 없으면 생략 가능
   - 제가 TMI 여서 10분이 너무 빨리 지나갑니다. 어색할 틈이 없어요.
-- 2시간 동안 한 분량에 대해 이번주 모각코 issue 글에 추가 코멘트로 정리, 모각코가 끝난 12시 이후에 해도 상관 없음.
+- 2시간 동안 한 분량에 대해 이번주 모각코 issue 글에 추가 코멘트로 정리, 모각코가 끝난 12시 30분 이후에 해도 상관 없음.
   - 작업 내용이 자신의 개인 github이나 블로그 등 다른 곳에 있다면 그 부분에 대한 링크 첨부
   - 책읽기의 경우 페이지 분량 표시
   - 유튜브 강의 시청이면 어떤 영상을 봤는지 링크 첨부 등
