@@ -107,6 +107,28 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 </p>
 </details>
 
+## Ranking
+
+참여자별 역대 참여횟수를 기록해 봅니다.
+
+|Ranking|Name|Count|
+|-------|----|-----|
+|1|[jongfeel](https://github.com/jongfeel/)|39|
+|2|[hi-hyein](https://github.com/hi-hyein/)|29|
+|3|[Joseph-Cha](https://github.com/Joseph-Cha)|23|
+|4|[yoonucho](https://github.com/yoonucho/)|14|
+|5|[fora22](https://github.com/fora22/)|13|
+|6|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|10|
+|7|[eunyeong-so](https://github.com/eunyeong-so/)|9|
+|8|[ErigoLee](https://github.com/ErigoLee)|5|
+|9|[JSY8869](https://github.com/JSY8869/)|5|
+|10|[ytw9699](https://github.com/ytw9699)|4|
+|11|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|12|[ellen310](https://github.com/ellen310/)|2|
+|13|[kimpitang](https://github.com/kimpitang)|2|
+|14|[mhjoon99](https://github.com/mhjoon99/)|1|
+|15|[zoops](https://github.com/zoops)|0|
+
 ## Known rewards
 
 - 보통 인맥 네트워킹이 가장 크고
