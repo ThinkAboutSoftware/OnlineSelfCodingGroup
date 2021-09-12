@@ -35,7 +35,10 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2021 3Q meet up list
 
-- [41th, 2021-08-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/77), 개최 예정
+- [44th, 2021-09-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/80), 개최 예정
+- [43th, 2021-09-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/79), 4명 참가
+- [42th, 2021-09-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/78), 6명 참가
+- [41th, 2021-08-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/77), 3명 참가
 - [40th, 2021-08-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/76), 7명 참가
 - [39th, 2021-08-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/75), 8명 참가
 - [38th, 2021-08-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/74), 6명 참가
@@ -114,19 +117,19 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|40|
+|1|[jongfeel](https://github.com/jongfeel/)|43|
 |2|[hi-hyein](https://github.com/hi-hyein/)|29|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|24|
 |4|[yoonucho](https://github.com/yoonucho/)|14|
 |5|[fora22](https://github.com/fora22/)|13|
-|6|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|11|
-|7|[eunyeong-so](https://github.com/eunyeong-so/)|10|
-|8|[ErigoLee](https://github.com/ErigoLee/)|6|
-|9|[JSY8869](https://github.com/JSY8869/)|5|
-|10|[ytw9699](https://github.com/ytw9699/)|4|
-|11|[ShimWooJeong](https://github.com/ShimWooJeong/)|3|
-|12|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|13|[ellen310](https://github.com/ellen310/)|3|
+|6|[eunyeong-so](https://github.com/eunyeong-so/)|12|
+|7|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|11|
+|8|[ErigoLee](https://github.com/ErigoLee/)|8|
+|9|[JSY8869](https://github.com/JSY8869/)|7|
+|10|[ShimWooJeong](https://github.com/ShimWooJeong/)|6|
+|11|[ytw9699](https://github.com/ytw9699/)|4|
+|12|[ellen310](https://github.com/ellen310/)|4|
+|13|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |14|[kimpitang](https://github.com/kimpitang/)|2|
 |15|[mhjoon99](https://github.com/mhjoon99/)|1|
 |16|[zoops](https://github.com/zoops/)|0|
