@@ -22,20 +22,21 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## Overview
 
-매주 토요일 오전 10시에서 12시 까지 2시간 집중해서 오전에 공부를 하는 모임입니다.
+매주 토요일 오전 10시 30분에서 12시 30분 까지 2시간 집중해서 오전에 공부를 하는 모임입니다.
 공부를 해도 좋고 코딩을 해도 좋고 뭘 해도 좋습니다. 다만 회사일이나 개인적으로 마감 때문에 급하게 처리해야 하는 일은 최대한 자제해 주시면 좋겠습니다.
 
 그런데 일로 하는건 둘째 치고 아무것도 안하는 것 보다 계획된 시간에 뭔가 한다는게 중요합니다. 그래서 이 모임이 의미가 있다고 생각하고 있습니다.
 
 ## Features
 
-- 참여는 자율입니다. 즉, 하기로 했는데 안와도 상관 없고, 아무 얘기도 안했는데 토요일 오전 10시에 들어오셔도 상관 없습니다.
+- 참여는 자율입니다. 즉, 하기로 했는데 안와도 상관 없고, 아무 얘기도 안했는데 토요일 오전 10시 30분에 들어오셔도 상관 없습니다.
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
 ## 2021 3Q meet up list
 
-- [44th, 2021-09-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/80), 개최 예정
+- [45th, 2021-09-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/81), 개최 예정
+- [44th, 2021-09-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/80), 3명 참가
 - [43th, 2021-09-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/79), 4명 참가
 - [42th, 2021-09-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/78), 6명 참가
 - [41th, 2021-08-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/77), 3명 참가
@@ -117,14 +118,14 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|43|
+|1|[jongfeel](https://github.com/jongfeel/)|44|
 |2|[hi-hyein](https://github.com/hi-hyein/)|29|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|24|
 |4|[yoonucho](https://github.com/yoonucho/)|14|
 |5|[fora22](https://github.com/fora22/)|13|
 |6|[eunyeong-so](https://github.com/eunyeong-so/)|12|
 |7|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|11|
-|8|[ErigoLee](https://github.com/ErigoLee/)|8|
+|8|[ErigoLee](https://github.com/ErigoLee/)|9|
 |9|[JSY8869](https://github.com/JSY8869/)|7|
 |10|[ShimWooJeong](https://github.com/ShimWooJeong/)|6|
 |11|[ytw9699](https://github.com/ytw9699/)|4|
@@ -132,7 +133,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 |13|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |14|[kimpitang](https://github.com/kimpitang/)|2|
 |15|[mhjoon99](https://github.com/mhjoon99/)|1|
-|16|[zoops](https://github.com/zoops/)|0|
+|16|[wisdom08]](https://github.com/wisdom08/)|1|
+|17|[zoops](https://github.com/zoops/)|0|
 
 ## Known rewards
 
@@ -162,7 +164,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ### Joined
 
-- 매주 토요일 오전 10시에 아래 google meet 링크를 통해 접속
+- 매주 토요일 오전 10시 30분에 아래 google meet 링크를 통해 접속
   - [Google meet](https://meet.google.com/jyx-mxnq-kpk)
   - 공부 진행중에는 마이크는 반드시 꺼야 함
   - 모인 사람들이 진행할 내용에 대한 얘기를 듣기 위해 스피커를 켜 둬야 함.
