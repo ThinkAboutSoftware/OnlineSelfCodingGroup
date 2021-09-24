@@ -133,7 +133,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 |13|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |14|[kimpitang](https://github.com/kimpitang/)|2|
 |15|[mhjoon99](https://github.com/mhjoon99/)|1|
-|16|[wisdom08]](https://github.com/wisdom08/)|1|
+|16|[wisdom08](https://github.com/wisdom08/)|1|
 |17|[zoops](https://github.com/zoops/)|0|
 
 ## Known rewards
