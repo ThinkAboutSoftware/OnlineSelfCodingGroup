@@ -33,9 +33,19 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
-## 2021 3Q meet up list
+## 2021 4Q meet up list
 
-- [45th, 2021-09-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/81), 개최 예정
+- [46th, 2021-10-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/83), 개최 예정
+
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2021년 3Q</summary>
+<p>
+
+- [45th, 2021-09-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/81), 2명 참가
 - [44th, 2021-09-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/80), 3명 참가
 - [43th, 2021-09-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/79), 4명 참가
 - [42th, 2021-09-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/78), 6명 참가
@@ -49,9 +59,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [34th, 2021-07-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/70), 3명 참가
 - [33th, 2021-07-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/69), 3명 참가
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2021년 2Q</summary>
@@ -118,7 +127,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|44|
+|1|[jongfeel](https://github.com/jongfeel/)|45|
 |2|[hi-hyein](https://github.com/hi-hyein/)|29|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|24|
 |4|[yoonucho](https://github.com/yoonucho/)|14|
@@ -126,8 +135,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 |6|[eunyeong-so](https://github.com/eunyeong-so/)|12|
 |7|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|11|
 |8|[ErigoLee](https://github.com/ErigoLee/)|9|
-|9|[JSY8869](https://github.com/JSY8869/)|7|
-|10|[ShimWooJeong](https://github.com/ShimWooJeong/)|6|
+|9|[ShimWooJeong](https://github.com/ShimWooJeong/)|7|
+|10|[JSY8869](https://github.com/JSY8869/)|7|
 |11|[ytw9699](https://github.com/ytw9699/)|4|
 |12|[ellen310](https://github.com/ellen310/)|4|
 |13|[kiJiyeon](https://github.com/kiJiyeon/)|3|
