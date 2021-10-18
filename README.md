@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2021 4Q meet up list
 
-- [48th, 2021-10-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/85), 개최 예정
+- [49th, 2021-10-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/86), 개최 예정
+- [48th, 2021-10-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/85), 2명 참가
 - [47th, 2021-10-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/84), 4명 참가
 - [46th, 2021-10-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/83), 6명 참가
 
@@ -129,7 +130,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|47|
+|1|[jongfeel](https://github.com/jongfeel/)|48|
 |2|[hi-hyein](https://github.com/hi-hyein/)|29|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|24|
 |4|[eunyeong-so](https://github.com/eunyeong-so/)|14|
@@ -137,8 +138,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 |6|[fora22](https://github.com/fora22/)|13|
 |7|[ErigoLee](https://github.com/ErigoLee/)|11|
 |8|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|11|
-|9|[JSY8869](https://github.com/JSY8869/)|9|
-|10|[ShimWooJeong](https://github.com/ShimWooJeong/)|8|
+|9|[ShimWooJeong](https://github.com/ShimWooJeong/)|9|
+|10|[JSY8869](https://github.com/JSY8869/)|9|
 |11|[ytw9699](https://github.com/ytw9699/)|4|
 |12|[ellen310](https://github.com/ellen310/)|4|
 |13|[kimpitang](https://github.com/kimpitang/)|3|
@@ -156,6 +157,9 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 ## Special rewards
 
 - 2시간을 다 채우고 인증이 완료된 분에게 참석 스탬프 1장을 드립니다.
+  - [추가 업데이트) 2021-10-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/86)
+  - 참석 하신 분이 한분 뿐이라면 그 분에게는 스탬프를 2장 드립니다!
+  - 
 - 스탬프 4장을 모으신 분은 저의 사비를 털어 스타벅스 아메리카노 쿠폰을 드립니다.
 - 기념이 될 만한 회차 (10회, 50회, 100회 등)에 참여하신 분은 쿠폰이 업그레이드 됩니다!
 - 인증 절차
