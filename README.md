@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2021 4Q meet up list
 
-- [50th, 2021-10-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/88), 개최 예정
+- [51th, 2021-11-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/89), 개최 예정
+- [50th, 2021-10-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/88), 2명 참가
 - [49th, 2021-10-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/86), 3명 참가
 - [48th, 2021-10-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/85), 2명 참가
 - [47th, 2021-10-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/84), 4명 참가
@@ -134,12 +135,12 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 |1|[jongfeel](https://github.com/jongfeel/)|49|
 |2|[hi-hyein](https://github.com/hi-hyein/)|29|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|24|
-|4|[eunyeong-so](https://github.com/eunyeong-so/)|15|
+|4|[eunyeong-so](https://github.com/eunyeong-so/)|16|
 |5|[yoonucho](https://github.com/yoonucho/)|14|
 |6|[fora22](https://github.com/fora22/)|13|
-|7|[ErigoLee](https://github.com/ErigoLee/)|11|
-|8|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|11|
-|9|[ShimWooJeong](https://github.com/ShimWooJeong/)|10|
+|7|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
+|8|[ErigoLee](https://github.com/ErigoLee/)|11|
+|9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|11|
 |10|[JSY8869](https://github.com/JSY8869/)|9|
 |11|[ytw9699](https://github.com/ytw9699/)|4|
 |12|[ellen310](https://github.com/ellen310/)|4|
@@ -159,9 +160,9 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 - 2시간을 다 채우고 인증이 완료된 분에게 참석 스탬프 1장을 드립니다.
   - [추가 업데이트) 2021-10-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/86)
-  - 참석 하신 분이 한분 뿐이라면 그 분에게는 스탬프를 2장 드립니다!
+  - 참석 하신 분이 한 분 혹은 두 분 이라면 그 분에게는 스탬프를 2장 드립니다!
 - 스탬프 4장을 모으신 분은 저의 사비를 털어 스타벅스 아메리카노 쿠폰을 드립니다.
-- 기념이 될 만한 회차 (10회, 50회, 100회 등)에 참여하신 분은 쿠폰이 업그레이드 됩니다!
+- 기념이 될 만한 회차 ([10회](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18), [50회](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/88), 100회 등)에 참여하신 분은 쿠폰이 업그레이드 됩니다!
 - 인증 절차
   - 아래 모든 내용은 제가 확인하고 진행합니다.
   - 10시 30분 ~ 10시 40분 사이 입장, 각자 자기 소개 혹은 할 내용에 대해 소개 하신 분
