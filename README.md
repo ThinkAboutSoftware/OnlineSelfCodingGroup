@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2021 4Q meet up list
 
-- [51th, 2021-11-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/89), 개최 예정
+- [52th, 2021-11-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/90), 개최 예정
+- [51th, 2021-11-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/89), 3명 참가
 - [50th, 2021-10-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/88), 2명 참가
 - [49th, 2021-10-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/86), 3명 참가
 - [48th, 2021-10-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/85), 2명 참가
@@ -132,18 +133,18 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|49|
+|1|[jongfeel](https://github.com/jongfeel/)|51|
 |2|[hi-hyein](https://github.com/hi-hyein/)|29|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|24|
-|4|[eunyeong-so](https://github.com/eunyeong-so/)|16|
+|4|[eunyeong-so](https://github.com/eunyeong-so/)|17|
 |5|[yoonucho](https://github.com/yoonucho/)|14|
 |6|[fora22](https://github.com/fora22/)|13|
 |7|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |8|[ErigoLee](https://github.com/ErigoLee/)|11|
 |9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|11|
-|10|[JSY8869](https://github.com/JSY8869/)|9|
-|11|[ytw9699](https://github.com/ytw9699/)|4|
-|12|[ellen310](https://github.com/ellen310/)|4|
+|10|[JSY8869](https://github.com/JSY8869/)|10|
+|11|[ellen310](https://github.com/ellen310/)|5|
+|12|[ytw9699](https://github.com/ytw9699/)|4|
 |13|[kimpitang](https://github.com/kimpitang/)|3|
 |14|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |15|[mhjoon99](https://github.com/mhjoon99/)|1|
