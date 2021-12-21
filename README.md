@@ -35,6 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2021 4Q meet up list
 
+- [57th, 2021-12-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/95), joined 4
 - [56th, 2021-12-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/94), 2명 참가
 - [55th, 2021-12-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/93), 2명 참가
 - [54th, 2021-11-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/92), 3명 참가
@@ -133,27 +134,63 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## Ranking
 
-참여자별 역대 참여횟수를 기록해 봅니다.
+### Ranking 2022, 59th to 111th
+
+Will be soon...
+Top 3 ranked winner get prize from home coming day 2022, except jongfeel
+
+### Ranking 2021, 1th to 58th
+
+hi-hyein, Joseph-Cha, eunyeong-so get prize starbucks e-gift item.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|56|
+|1|[jongfeel](https://github.com/jongfeel/)|57|
 |2|[hi-hyein](https://github.com/hi-hyein/)|30|
-|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|24|
+|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|25|
 |4|[eunyeong-so](https://github.com/eunyeong-so/)|18|
-|5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|14|
+|5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|15|
 |6|[yoonucho](https://github.com/yoonucho/)|14|
 |7|[fora22](https://github.com/fora22/)|13|
 |8|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |9|[ErigoLee](https://github.com/ErigoLee/)|11|
 |10|[JSY8869](https://github.com/JSY8869/)|10|
-|11|[ellen310](https://github.com/ellen310/)|8|
+|11|[ellen310](https://github.com/ellen310/)|9|
 |12|[ytw9699](https://github.com/ytw9699/)|4|
 |13|[kimpitang](https://github.com/kimpitang/)|3|
 |14|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |15|[mhjoon99](https://github.com/mhjoon99/)|1|
 |16|[wisdom08](https://github.com/wisdom08/)|1|
 |17|[zoops](https://github.com/zoops/)|0|
+
+### All from first to present
+
+<details>
+<summary>Ranked count for each joined member</summary>
+<p>
+
+|Ranking|Name|Count|
+|-------|----|-----|
+|1|[jongfeel](https://github.com/jongfeel/)|57|
+|2|[hi-hyein](https://github.com/hi-hyein/)|30|
+|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|25|
+|4|[eunyeong-so](https://github.com/eunyeong-so/)|18|
+|5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|15|
+|6|[yoonucho](https://github.com/yoonucho/)|14|
+|7|[fora22](https://github.com/fora22/)|13|
+|8|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
+|9|[ErigoLee](https://github.com/ErigoLee/)|11|
+|10|[JSY8869](https://github.com/JSY8869/)|10|
+|11|[ellen310](https://github.com/ellen310/)|9|
+|12|[ytw9699](https://github.com/ytw9699/)|4|
+|13|[kimpitang](https://github.com/kimpitang/)|3|
+|14|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|15|[mhjoon99](https://github.com/mhjoon99/)|1|
+|16|[wisdom08](https://github.com/wisdom08/)|1|
+|17|[zoops](https://github.com/zoops/)|0|
+
+</p>
+</details>
 
 ## Known rewards
 
