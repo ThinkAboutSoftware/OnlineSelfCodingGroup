@@ -33,9 +33,19 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
-## 2021 4Q meet up list
+## 2022 1Q meet up list
 
-- [58th, 2021-12-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/96), will be open
+- [59th, 2022-01-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/97), will be open
+
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2021년 4Q</summary>
+<p>
+
+- [58th, 2021-12-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/96), nobody
 - [57th, 2021-12-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/95), joined 4
 - [56th, 2021-12-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/94), 2명 참가
 - [55th, 2021-12-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/93), 2명 참가
@@ -49,9 +59,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [47th, 2021-10-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/84), 4명 참가
 - [46th, 2021-10-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/83), 6명 참가
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2021년 3Q</summary>
@@ -137,10 +146,17 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ### Ranking 2022, 59th to 111th
 
-Will be soon...
 Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
+|Ranking|Name|Count|
+|-------|----|-----|
+|1|[jongfeel](https://github.com/jongfeel/)|0|
+
 ### Ranking 2021, 1th to 58th
+
+<details>
+<summary>Ranked count for each joined member</summary>
+<p>
 
 hi-hyein, Joseph-Cha, eunyeong-so get prize starbucks e-gift item.
 
@@ -164,11 +180,10 @@ hi-hyein, Joseph-Cha, eunyeong-so get prize starbucks e-gift item.
 |16|[wisdom08](https://github.com/wisdom08/)|1|
 |17|[zoops](https://github.com/zoops/)|0|
 
-### All from first to present
+</p>
+</details>
 
-<details>
-<summary>Ranked count for each joined member</summary>
-<p>
+### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
@@ -189,9 +204,6 @@ hi-hyein, Joseph-Cha, eunyeong-so get prize starbucks e-gift item.
 |15|[mhjoon99](https://github.com/mhjoon99/)|1|
 |16|[wisdom08](https://github.com/wisdom08/)|1|
 |17|[zoops](https://github.com/zoops/)|0|
-
-</p>
-</details>
 
 ## Known rewards
 
