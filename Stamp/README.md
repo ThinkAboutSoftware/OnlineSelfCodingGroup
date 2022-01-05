@@ -22,6 +22,14 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2022 1Q, 01-01(59th) ~ 03-26(71th)
+
+| Name    | 01-01 (59th) | 01-08 (60th) | 01-15 (61th) | 01-22 (62th) | 01-29 (63th) | 02-05 (64th) | 02-12 (65th) | 02-19 (66th) | 02-26 (67th) | 03-05 (68th) | 03-12 (69th) | 03-19 (70th) | 03-26 (71th) |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| [jongfeel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/97#issuecomment-1005745869"><img src="approved_2021.png" width="33.2" height="33.2" /></a> |
+| [JSY8869](https://github.com/JSY8869/)  | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/97#issuecomment-1003481302"><img src="approved_2021.png" width="33.2" height="33.2" /><img src="approved_2021.png" width="33.2" height="33.2" /><img src="Starbucks_americano.JPG" width="33.2" height="33.2" /></a> |
+| [Joseph-Cha](https://github.com/Joseph-Cha) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/97#issuecomment-1003480573"><img src="approved_2021.png" width="33.2" height="33.2" /><img src="approved_2021.png" width="33.2" height="33.2" /></a> |
+
 ### 2021 4Q, 10-02(46th) ~ 12-25(58th)
 
 | Name    | 10-02 (46th) | 10-09 (47th) | 10-16 (48th) | 10-23 (49th) | 10-30 (50th) | 11-06 (51th) | 11-13 (52th) | 11-20 (53th) | 11-27 (54th) | 12-04 (55th) | 12-11 (56th) | [12-18 (57th)](https://github.com/ThinkAboutSoftware/HomeComingDay) | 12-25 (58th) |
