@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 1Q meet up list
 
-- [59th, 2022-01-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/97), will be open
+- [60th, 2022-01-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/98), will be open
+- [59th, 2022-01-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/97), joined 3
 
 <details>
 <summary>Online meet up history</summary>
@@ -150,7 +151,31 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|0|
+|1|[jongfeel](https://github.com/jongfeel/)|1|
+|2|[JSY8869](https://github.com/JSY8869/)|1|
+|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|1|
+
+### All from first to present
+
+|Ranking|Name|Count|
+|-------|----|-----|
+|1|[jongfeel](https://github.com/jongfeel/)|58|
+|2|[hi-hyein](https://github.com/hi-hyein/)|30|
+|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|26|
+|4|[eunyeong-so](https://github.com/eunyeong-so/)|18|
+|5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|15|
+|6|[yoonucho](https://github.com/yoonucho/)|14|
+|7|[fora22](https://github.com/fora22/)|13|
+|8|[JSY8869](https://github.com/JSY8869/)|11|
+|9|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
+|10|[ErigoLee](https://github.com/ErigoLee/)|11|
+|11|[ellen310](https://github.com/ellen310/)|9|
+|12|[ytw9699](https://github.com/ytw9699/)|4|
+|13|[kimpitang](https://github.com/kimpitang/)|3|
+|14|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|15|[mhjoon99](https://github.com/mhjoon99/)|1|
+|16|[wisdom08](https://github.com/wisdom08/)|1|
+|17|[zoops](https://github.com/zoops/)|0|
 
 ### Ranking 2021, 1th to 58th
 
@@ -182,28 +207,6 @@ hi-hyein, Joseph-Cha, eunyeong-so get prize starbucks e-gift item.
 
 </p>
 </details>
-
-### All from first to present
-
-|Ranking|Name|Count|
-|-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|57|
-|2|[hi-hyein](https://github.com/hi-hyein/)|30|
-|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|25|
-|4|[eunyeong-so](https://github.com/eunyeong-so/)|18|
-|5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|15|
-|6|[yoonucho](https://github.com/yoonucho/)|14|
-|7|[fora22](https://github.com/fora22/)|13|
-|8|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
-|9|[ErigoLee](https://github.com/ErigoLee/)|11|
-|10|[JSY8869](https://github.com/JSY8869/)|10|
-|11|[ellen310](https://github.com/ellen310/)|9|
-|12|[ytw9699](https://github.com/ytw9699/)|4|
-|13|[kimpitang](https://github.com/kimpitang/)|3|
-|14|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|15|[mhjoon99](https://github.com/mhjoon99/)|1|
-|16|[wisdom08](https://github.com/wisdom08/)|1|
-|17|[zoops](https://github.com/zoops/)|0|
 
 ## Known rewards
 
