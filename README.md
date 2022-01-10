@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 1Q meet up list
 
-- [60th, 2022-01-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/98), will be open
+- [61th, 2022-01-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/99), will be open
+- [60th, 2022-01-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/98), joined 4
 - [59th, 2022-01-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/97), joined 3
 
 <details>
@@ -151,22 +152,23 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|1|
-|2|[JSY8869](https://github.com/JSY8869/)|1|
-|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|1|
+|1|[jongfeel](https://github.com/jongfeel/)|2|
+|2|[JSY8869](https://github.com/JSY8869/)|2|
+|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|2|
+|4|[wisdom08](https://github.com/wisdom08/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|58|
+|1|[jongfeel](https://github.com/jongfeel/)|59|
 |2|[hi-hyein](https://github.com/hi-hyein/)|30|
-|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|26|
+|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|27|
 |4|[eunyeong-so](https://github.com/eunyeong-so/)|18|
 |5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|15|
 |6|[yoonucho](https://github.com/yoonucho/)|14|
 |7|[fora22](https://github.com/fora22/)|13|
-|8|[JSY8869](https://github.com/JSY8869/)|11|
+|8|[JSY8869](https://github.com/JSY8869/)|12|
 |9|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |10|[ErigoLee](https://github.com/ErigoLee/)|11|
 |11|[ellen310](https://github.com/ellen310/)|9|
@@ -174,7 +176,7 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |13|[kimpitang](https://github.com/kimpitang/)|3|
 |14|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |15|[mhjoon99](https://github.com/mhjoon99/)|1|
-|16|[wisdom08](https://github.com/wisdom08/)|1|
+|16|[wisdom08](https://github.com/wisdom08/)|2|
 |17|[zoops](https://github.com/zoops/)|0|
 
 ### Ranking 2021, 1th to 58th
