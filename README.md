@@ -35,7 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 1Q meet up list
 
-- [64th, 2022-02-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/102), will be open
+- [64th, 2022-02-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/102), joined 7
 - [63th, 2022-01-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/101), joined 5
 - [62th, 2022-01-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/100), joined 5
 - [61th, 2022-01-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/99), joined 5
@@ -155,40 +155,43 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|5|
-|2|[wisdom08](https://github.com/wisdom08/)|3|
-|3|[soobak](https://github.com/soo-bak)|3|
-|4|[exgs](https://github.com/exgs)|3|
-|5|[JSY8869](https://github.com/JSY8869/)|3|
+|1|[jongfeel](https://github.com/jongfeel/)|6|
+|2|[soobak](https://github.com/soo-bak)|4|
+|3|[exgs](https://github.com/exgs)|4|
+|4|[JSY8869](https://github.com/JSY8869/)|4|
+|5|[wisdom08](https://github.com/wisdom08/)|3|
 |6|[Joseph-Cha](https://github.com/Joseph-Cha/)|2|
-|7|[chichoon](https://github.com/chichoon)|1|
+|7|[chichoon](https://github.com/chichoon)|2|
 |8|[eunyeong-so](https://github.com/eunyeong-so/)|1|
 |9|[ellen310](https://github.com/ellen310/)|1|
+|10|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|1|
+|11|[seoyoungit](https://github.com/seoyoungit/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|62|
+|1|[jongfeel](https://github.com/jongfeel/)|63|
 |2|[hi-hyein](https://github.com/hi-hyein/)|30|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|27|
 |4|[eunyeong-so](https://github.com/eunyeong-so/)|19|
-|5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|15|
+|5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|16|
 |6|[yoonucho](https://github.com/yoonucho/)|14|
-|7|[JSY8869](https://github.com/JSY8869/)|13|
+|7|[JSY8869](https://github.com/JSY8869/)|14|
 |8|[fora22](https://github.com/fora22/)|13|
 |9|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |10|[ErigoLee](https://github.com/ErigoLee/)|11|
 |11|[ellen310](https://github.com/ellen310/)|10|
 |12|[wisdom08](https://github.com/wisdom08/)|4|
 |13|[ytw9699](https://github.com/ytw9699/)|4|
-|14|[soobak](https://github.com/soo-bak)|3|
-|15|[exgs](https://github.com/exgs)|3|
+|14|[soobak](https://github.com/soo-bak)|4|
+|15|[exgs](https://github.com/exgs)|4|
 |16|[kimpitang](https://github.com/kimpitang/)|3|
 |17|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|18|[chichoon](https://github.com/chichoon)|1|
+|18|[chichoon](https://github.com/chichoon)|2|
 |19|[mhjoon99](https://github.com/mhjoon99/)|1|
-|20|[zoops](https://github.com/zoops/)|0|
+|20|[seoyoungit](https://github.com/seoyoungit/)|1|
+|21|[zoops](https://github.com/zoops/)|0|
 
 ### Ranking 2021, 1th to 58th
 
