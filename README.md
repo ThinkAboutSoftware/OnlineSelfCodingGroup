@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 1Q meet up list
 
-- [66th, 2022-02-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/104), will be open
+- [67th, 2022-02-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/105), will be open
+- [66th, 2022-02-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/104), joined 6
 - [65th, 2022-02-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/103), joined 5
 - [64th, 2022-02-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/102), joined 7
 - [63th, 2022-01-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/101), joined 5
@@ -157,42 +158,43 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|7|
-|2|[soobak](https://github.com/soo-bak)|5|
+|1|[jongfeel](https://github.com/jongfeel/)|8|
+|2|[soobak](https://github.com/soo-bak)|6|
 |3|[exgs](https://github.com/exgs)|5|
 |4|[JSY8869](https://github.com/JSY8869/)|4|
 |5|[wisdom08](https://github.com/wisdom08/)|4|
-|6|[chichoon](https://github.com/chichoon)|3|
-|7|[Joseph-Cha](https://github.com/Joseph-Cha/)|2|
-|8|[eunyeong-so](https://github.com/eunyeong-so/)|1|
-|9|[ellen310](https://github.com/ellen310/)|1|
-|10|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|1|
-|11|[seoyoungit](https://github.com/seoyoungit/)|1|
+|6|[chichoon](https://github.com/chichoon)|4|
+|7|[Joseph-Cha](https://github.com/Joseph-Cha/)|3|
+|8|[seoyoungit](https://github.com/seoyoungit/)|2|
+|9|[eunyeong-so](https://github.com/eunyeong-so/)|1|
+|10|[ellen310](https://github.com/ellen310/)|1|
+|11|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|1|
+|12|[fora22](https://github.com/fora22/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|64|
+|1|[jongfeel](https://github.com/jongfeel/)|65|
 |2|[hi-hyein](https://github.com/hi-hyein/)|30|
-|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|27|
+|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|28|
 |4|[eunyeong-so](https://github.com/eunyeong-so/)|19|
 |5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|16|
 |6|[yoonucho](https://github.com/yoonucho/)|14|
 |7|[JSY8869](https://github.com/JSY8869/)|14|
-|8|[fora22](https://github.com/fora22/)|13|
+|8|[fora22](https://github.com/fora22/)|14|
 |9|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |10|[ErigoLee](https://github.com/ErigoLee/)|11|
 |11|[ellen310](https://github.com/ellen310/)|10|
-|12|[wisdom08](https://github.com/wisdom08/)|5|
-|13|[soobak](https://github.com/soo-bak)|5|
+|12|[soobak](https://github.com/soo-bak)|6|
+|13|[wisdom08](https://github.com/wisdom08/)|5|
 |14|[exgs](https://github.com/exgs)|5|
 |15|[ytw9699](https://github.com/ytw9699/)|4|
-|16|[kimpitang](https://github.com/kimpitang/)|3|
-|17|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|18|[chichoon](https://github.com/chichoon)|3|
-|19|[mhjoon99](https://github.com/mhjoon99/)|1|
-|20|[seoyoungit](https://github.com/seoyoungit/)|1|
+|16|[chichoon](https://github.com/chichoon)|4|
+|17|[kimpitang](https://github.com/kimpitang/)|3|
+|18|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|19|[seoyoungit](https://github.com/seoyoungit/)|2|
+|20|[mhjoon99](https://github.com/mhjoon99/)|1|
 |21|[zoops](https://github.com/zoops/)|0|
 
 ### Ranking 2021, 1th to 58th
