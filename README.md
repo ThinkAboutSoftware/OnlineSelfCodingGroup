@@ -35,7 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 1Q meet up list
 
-- [68th, 2022-03-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/105), will be open
+- [68th, 2022-03-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/106), will be open
 - [67th, 2022-02-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/105), joined 3
 - [66th, 2022-02-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/104), joined 6
 - [65th, 2022-02-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/103), joined 5
