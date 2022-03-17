@@ -35,7 +35,9 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 1Q meet up list
 
-- [68th, 2022-03-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/106), will be open
+- [70th, 2022-03-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/108), will be open
+- [69th, 2022-03-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/107), joined 1
+- [68th, 2022-03-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/106), joined 3
 - [67th, 2022-02-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/105), joined 3
 - [66th, 2022-02-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/104), joined 6
 - [65th, 2022-02-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/103), joined 5
@@ -159,13 +161,13 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|9|
-|2|[soobak](https://github.com/soo-bak)|7|
+|1|[jongfeel](https://github.com/jongfeel/)|11|
+|2|[soobak](https://github.com/soo-bak)|8|
 |3|[exgs](https://github.com/exgs)|5|
 |4|[JSY8869](https://github.com/JSY8869/)|4|
 |5|[wisdom08](https://github.com/wisdom08/)|4|
 |6|[chichoon](https://github.com/chichoon)|4|
-|7|[Joseph-Cha](https://github.com/Joseph-Cha/)|3|
+|7|[Joseph-Cha](https://github.com/Joseph-Cha/)|4|
 |8|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|2|
 |9|[seoyoungit](https://github.com/seoyoungit/)|2|
 |10|[eunyeong-so](https://github.com/eunyeong-so/)|1|
@@ -176,9 +178,9 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|66|
+|1|[jongfeel](https://github.com/jongfeel/)|68|
 |2|[hi-hyein](https://github.com/hi-hyein/)|30|
-|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|28|
+|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|29|
 |4|[eunyeong-so](https://github.com/eunyeong-so/)|19|
 |5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|17|
 |6|[yoonucho](https://github.com/yoonucho/)|14|
@@ -187,7 +189,7 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |9|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |10|[ErigoLee](https://github.com/ErigoLee/)|11|
 |11|[ellen310](https://github.com/ellen310/)|10|
-|12|[soobak](https://github.com/soo-bak)|7|
+|12|[soobak](https://github.com/soo-bak)|8|
 |13|[wisdom08](https://github.com/wisdom08/)|5|
 |14|[exgs](https://github.com/exgs)|5|
 |15|[ytw9699](https://github.com/ytw9699/)|4|
