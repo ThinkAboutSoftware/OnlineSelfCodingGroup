@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 1Q meet up list
 
-- [72th, 2022-04-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/112), will be open
+- [73th, 2022-04-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/114), will be open
+- [72th, 2022-04-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/112), joined 2
 - [71th, 2022-03-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/110), joined 5
 - [70th, 2022-03-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/108), joined 5
 - [69th, 2022-03-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/107), joined 1
@@ -163,11 +164,11 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|13|
+|1|[jongfeel](https://github.com/jongfeel/)|14|
 |2|[soobak](https://github.com/soo-bak)|9|
-|3|[exgs](https://github.com/exgs)|7|
+|3|[exgs](https://github.com/exgs)|8|
 |4|[JSY8869](https://github.com/JSY8869/)|6|
-|5|[chichoon](https://github.com/chichoon)|5|
+|5|[chichoon](https://github.com/chichoon)|6|
 |6|[wisdom08](https://github.com/wisdom08/)|4|
 |7|[Joseph-Cha](https://github.com/Joseph-Cha/)|4|
 |8|[seoyoungit](https://github.com/seoyoungit/)|3|
@@ -180,7 +181,7 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|70|
+|1|[jongfeel](https://github.com/jongfeel/)|71|
 |2|[hi-hyein](https://github.com/hi-hyein/)|30|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|29|
 |4|[eunyeong-so](https://github.com/eunyeong-so/)|19|
@@ -192,8 +193,8 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |10|[ErigoLee](https://github.com/ErigoLee/)|11|
 |11|[ellen310](https://github.com/ellen310/)|10|
 |12|[soobak](https://github.com/soo-bak)|9|
-|13|[exgs](https://github.com/exgs)|7|
-|14|[chichoon](https://github.com/chichoon)|5|
+|13|[exgs](https://github.com/exgs)|8|
+|14|[chichoon](https://github.com/chichoon)|6|
 |15|[wisdom08](https://github.com/wisdom08/)|5|
 |16|[ytw9699](https://github.com/ytw9699/)|4|
 |17|[kimpitang](https://github.com/kimpitang/)|3|
