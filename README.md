@@ -33,10 +33,20 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
-## 2022 1Q meet up list
+## 2022 2Q meet up list
 
-- [73th, 2022-04-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/114), will be open
+- [74th, 2022-04-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/116), will be open
+- [73th, 2022-04-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/114), joined 6
 - [72th, 2022-04-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/112), joined 2
+
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2022년 1Q</summary>
+<p>
+
 - [71th, 2022-03-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/110), joined 5
 - [70th, 2022-03-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/108), joined 5
 - [69th, 2022-03-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/107), joined 1
@@ -51,9 +61,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [60th, 2022-01-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/98), joined 4
 - [59th, 2022-01-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/97), joined 3
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2021년 4Q</summary>
@@ -164,44 +173,46 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|14|
+|1|[jongfeel](https://github.com/jongfeel/)|15|
 |2|[soobak](https://github.com/soo-bak)|9|
 |3|[exgs](https://github.com/exgs)|8|
-|4|[JSY8869](https://github.com/JSY8869/)|6|
-|5|[chichoon](https://github.com/chichoon)|6|
-|6|[wisdom08](https://github.com/wisdom08/)|4|
-|7|[Joseph-Cha](https://github.com/Joseph-Cha/)|4|
+|4|[chichoon](https://github.com/chichoon)|7|
+|5|[JSY8869](https://github.com/JSY8869/)|6|
+|6|[Joseph-Cha](https://github.com/Joseph-Cha/)|5|
+|7|[wisdom08](https://github.com/wisdom08/)|4|
 |8|[seoyoungit](https://github.com/seoyoungit/)|3|
 |9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|3|
-|10|[eunyeong-so](https://github.com/eunyeong-so/)|1|
-|11|[ellen310](https://github.com/ellen310/)|1|
-|12|[fora22](https://github.com/fora22/)|1|
+|10|[fora22](https://github.com/fora22/)|2|
+|11|[eunyeong-so](https://github.com/eunyeong-so/)|2|
+|12|[ellen310](https://github.com/ellen310/)|1|
+|13|[CokeLee777](https://github.com/CokeLee777/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|71|
-|2|[hi-hyein](https://github.com/hi-hyein/)|30|
-|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|29|
-|4|[eunyeong-so](https://github.com/eunyeong-so/)|19|
+|1|[jongfeel](https://github.com/jongfeel/)|72|
+|2|[Joseph-Cha](https://github.com/Joseph-Cha/)|30|
+|3|[hi-hyein](https://github.com/hi-hyein/)|30|
+|4|[eunyeong-so](https://github.com/eunyeong-so/)|20|
 |5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|18|
 |6|[JSY8869](https://github.com/JSY8869/)|16|
-|7|[yoonucho](https://github.com/yoonucho/)|14|
-|8|[fora22](https://github.com/fora22/)|14|
+|7|[fora22](https://github.com/fora22/)|15|
+|8|[yoonucho](https://github.com/yoonucho/)|14|
 |9|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |10|[ErigoLee](https://github.com/ErigoLee/)|11|
 |11|[ellen310](https://github.com/ellen310/)|10|
 |12|[soobak](https://github.com/soo-bak)|9|
 |13|[exgs](https://github.com/exgs)|8|
-|14|[chichoon](https://github.com/chichoon)|6|
+|14|[chichoon](https://github.com/chichoon)|7|
 |15|[wisdom08](https://github.com/wisdom08/)|5|
 |16|[ytw9699](https://github.com/ytw9699/)|4|
 |17|[kimpitang](https://github.com/kimpitang/)|3|
 |18|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |19|[seoyoungit](https://github.com/seoyoungit/)|3|
 |20|[mhjoon99](https://github.com/mhjoon99/)|1|
-|21|[zoops](https://github.com/zoops/)|0|
+|21|[CokeLee777](https://github.com/CokeLee777/)|1|
+|22|[zoops](https://github.com/zoops/)|0|
 
 ### Ranking 2021, 1th to 58th
 
