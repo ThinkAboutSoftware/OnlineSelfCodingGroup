@@ -27,8 +27,8 @@
 | Name    | 04-02 (72th) | 04-09 (73th) | 04-16 (74th) | 04-23 (75th) | 04-30 (76th) | 05-07 (77th) | 05-14 (78th) | 05-21 (79th) | 05-28 (80th) | 06-04 (81th) | 06-11 (82th) | 06-18 (83th) | 06-25 (84th) |
 |---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | [jongfeel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/112#issuecomment-1079865701"><img src="approved_2021_2Q.png" width="36" height="36" /></a> | 
-| [chichoon](https://github.com/chichoon/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/112#issuecomment-1081945709"><img src="approved_2021_2Q.png" width="36" height="36" /></a> | 
-| [exgs](https://github.com/exgs) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/112#issuecomment-1086495204"><img src="approved_2021_2Q.png" width="36" height="36" /><img src="Starbucks_Strawberry_Dream_Malcha_Latte.jpg" width="30" height="31.3" /></a> | 
+| [chichoon](https://github.com/chichoon/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/112#issuecomment-1081945709"><img src="approved_2021_2Q.png" width="36" height="36" /><img src="approved_2021_2Q.png" width="36" height="36" /></a> | 
+| [exgs](https://github.com/exgs) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/112#issuecomment-1086495204"><img src="approved_2021_2Q.png" width="36" height="36" /><img src="Starbucks_Strawberry_Dream_Malcha_Latte.jpg" width="30" height="31.3" /><img src="approved_2021_2Q.png" width="36" height="36" /></a> | 
 
 ### 2022 1Q, 01-01(59th) ~ 03-26(71th)
 
