@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 2Q meet up list
 
-- [74th, 2022-04-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/116), will be open
+- [75th, 2022-04-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/120), will be open
+- [74th, 2022-04-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/116), joined 4
 - [73th, 2022-04-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/114), joined 6
 - [72th, 2022-04-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/112), joined 2
 
@@ -173,12 +174,12 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|15|
+|1|[jongfeel](https://github.com/jongfeel/)|16|
 |2|[soobak](https://github.com/soo-bak)|9|
-|3|[exgs](https://github.com/exgs)|8|
-|4|[chichoon](https://github.com/chichoon)|7|
+|3|[exgs](https://github.com/exgs)|9|
+|4|[chichoon](https://github.com/chichoon)|8|
 |5|[JSY8869](https://github.com/JSY8869/)|6|
-|6|[Joseph-Cha](https://github.com/Joseph-Cha/)|5|
+|6|[Joseph-Cha](https://github.com/Joseph-Cha/)|6|
 |7|[wisdom08](https://github.com/wisdom08/)|4|
 |8|[seoyoungit](https://github.com/seoyoungit/)|3|
 |9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|3|
@@ -191,8 +192,8 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|72|
-|2|[Joseph-Cha](https://github.com/Joseph-Cha/)|30|
+|1|[jongfeel](https://github.com/jongfeel/)|73|
+|2|[Joseph-Cha](https://github.com/Joseph-Cha/)|31|
 |3|[hi-hyein](https://github.com/hi-hyein/)|30|
 |4|[eunyeong-so](https://github.com/eunyeong-so/)|20|
 |5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|18|
@@ -203,8 +204,8 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |10|[ErigoLee](https://github.com/ErigoLee/)|11|
 |11|[ellen310](https://github.com/ellen310/)|10|
 |12|[soobak](https://github.com/soo-bak)|9|
-|13|[exgs](https://github.com/exgs)|8|
-|14|[chichoon](https://github.com/chichoon)|7|
+|13|[exgs](https://github.com/exgs)|9|
+|14|[chichoon](https://github.com/chichoon)|8|
 |15|[wisdom08](https://github.com/wisdom08/)|5|
 |16|[ytw9699](https://github.com/ytw9699/)|4|
 |17|[kimpitang](https://github.com/kimpitang/)|3|
