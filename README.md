@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 2Q meet up list
 
-- [82th, 2022-06-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/134), will be open
+- [83th, 2022-06-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/136), joined 3
+- [82th, 2022-06-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/134), joined 3
 - [81th, 2022-06-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/132), joined 3
 - [80th, 2022-05-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/130), joined 2
 - [79th, 2022-05-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/128), joined 2
@@ -181,8 +182,8 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|23|
-|2|[chichoon](https://github.com/chichoon)|14|
+|1|[jongfeel](https://github.com/jongfeel/)|24|
+|2|[chichoon](https://github.com/chichoon)|15|
 |3|[exgs](https://github.com/exgs)|13|
 |4|[soobak](https://github.com/soo-bak)|9|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|8|
@@ -190,7 +191,7 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |7|[wisdom08](https://github.com/wisdom08/)|4|
 |8|[seoyoungit](https://github.com/seoyoungit/)|3|
 |9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|3|
-|10|[fora22](https://github.com/fora22/)|2|
+|10|[fora22](https://github.com/fora22/)|3|
 |11|[eunyeong-so](https://github.com/eunyeong-so/)|2|
 |12|[kapitalismho](https://github.com/kapitalismho/)|2|
 |13|[ellen310](https://github.com/ellen310/)|1|
@@ -200,15 +201,15 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|80|
+|1|[jongfeel](https://github.com/jongfeel/)|81|
 |2|[Joseph-Cha](https://github.com/Joseph-Cha/)|33|
 |3|[hi-hyein](https://github.com/hi-hyein/)|30|
 |4|[eunyeong-so](https://github.com/eunyeong-so/)|20|
 |5|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|18|
 |6|[JSY8869](https://github.com/JSY8869/)|16|
-|7|[fora22](https://github.com/fora22/)|15|
-|8|[yoonucho](https://github.com/yoonucho/)|14|
-|9|[chichoon](https://github.com/chichoon)|14|
+|7|[fora22](https://github.com/fora22/)|16|
+|8|[chichoon](https://github.com/chichoon)|15|
+|9|[yoonucho](https://github.com/yoonucho/)|14|
 |10|[exgs](https://github.com/exgs)|13|
 |11|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |12|[ErigoLee](https://github.com/ErigoLee/)|11|
