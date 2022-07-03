@@ -22,6 +22,15 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2022 3Q, 07-02 (85th) ~ 09-24 (97th)
+
+| Name    | 07-02 (85th) | 07-09 (86th) | 07-16 (87th) | 07-23 (88th) | 07-30 (89th) | 08-06 (90th) | 08-13 (91th) | 08-20 (92th) | 08-27 (93th) | 09-03 (94th) | 09-10 (95th) | 09-17 (96th) | 09-24 (97th) |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| [jongfeel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1168212943"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | 
+| [chichoon](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1171866156"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | 
+| [exgs](https://github.com/exgs) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1166966373"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | 
+| [Joseph-Cha](https://github.com/Joseph-Cha) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1172795022"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | 
+
 ### 2022 2Q, 04-02(72th) ~ 06-25(84th)
 
 | Name    | 04-02 (72th) | 04-09 (73th) | 04-16 (74th) | 04-23 (75th) | 04-30 (76th) | 05-07 (77th) | 05-14 (78th) | 05-21 (79th) | 05-28 (80th) | 06-04 (81th) | 06-11 (82th) | 06-18 (83th) | 06-25 (84th) |
