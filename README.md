@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 2Q meet up list
 
-- [88th, 2022-07-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/145), will be open
+- [89th, 2022-07-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/148), will be open
+- [88th, 2022-07-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/145), joined 3
 - [87th, 2022-07-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/144), joined 3
 - [86th, 2022-07-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/142), joined 2
 - [85th, 2022-07-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140), joined 4
@@ -187,8 +188,8 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|29|
-|2|[chichoon](https://github.com/chichoon)|20|
+|1|[jongfeel](https://github.com/jongfeel/)|30|
+|2|[chichoon](https://github.com/chichoon)|21|
 |3|[exgs](https://github.com/exgs)|17|
 |4|[soobak](https://github.com/soo-bak)|9|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|9|
@@ -201,16 +202,17 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |12|[kapitalismho](https://github.com/kapitalismho/)|2|
 |13|[ellen310](https://github.com/ellen310/)|1|
 |14|[CokeLee777](https://github.com/CokeLee777/)|1|
+|15|[fkdl0048](https://github.com/fkdl0048/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|86|
+|1|[jongfeel](https://github.com/jongfeel/)|87|
 |2|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |3|[hi-hyein](https://github.com/hi-hyein/)|30|
-|4|[eunyeong-so](https://github.com/eunyeong-so/)|20|
-|5|[chichoon](https://github.com/chichoon)|20|
+|4|[chichoon](https://github.com/chichoon)|21|
+|5|[eunyeong-so](https://github.com/eunyeong-so/)|20|
 |6|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|18|
 |7|[exgs](https://github.com/exgs)|17|
 |8|[JSY8869](https://github.com/JSY8869/)|16|
@@ -228,7 +230,8 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |20|[kapitalismho](https://github.com/kapitalismho/)|2|
 |21|[mhjoon99](https://github.com/mhjoon99/)|1|
 |22|[CokeLee777](https://github.com/CokeLee777/)|1|
-|23|[zoops](https://github.com/zoops/)|0|
+|23|[fkdl0048](https://github.com/fkdl0048/)|1|
+|24|[zoops](https://github.com/zoops/)|0|
 
 ### Ranking 2021, 1th to 58th
 
