@@ -3,9 +3,9 @@
 온라인 모각코 진행 후 인증 확인 페이지입니다.\
 인증 기준은 아래와 같습니다.
 
-- 10시 ~ 10시 10분 사이에 자기 소개 혹은 진행 내용 소개하신 분
-- 12시 ~ 12시 10분 사이에 마이크 켜고 자유로운 대화에 참여하신 분
-- 12시 10분 이후 진행했던 내용이 이번 모각코 issue 글에 추가되고 난 이후 이 페이지에서 인증 stamp 확인
+- 10시 30분 ~ 10시 40분 사이에 자기 소개 혹은 진행 내용 소개하신 분
+- 12시 30분 ~ 12시 40분 사이에 마이크 켜고 자유로운 대화에 참여하신 분
+- 12시 40분 이후 부터 다음 모각코가 시작되기 전 까지 진행했던 내용을 issue comment에 업데이트 되고 난 이후 stamp 업데이트 진행
 
 ## Stamp image
 
@@ -26,9 +26,10 @@
 
 | Name    | 07-02 (85th) | 07-09 (86th) | 07-16 (87th) | 07-23 (88th) | 07-30 (89th) | 08-06 (90th) | 08-13 (91th) | 08-20 (92th) | 08-27 (93th) | 09-03 (94th) | 09-10 (95th) | 09-17 (96th) | 09-24 (97th) |
 |---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| [jongfeel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1168212943"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/142#issuecomment-1173100370"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/144#issuecomment-1183279681"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | 
-| [chichoon](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1171866156"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/142#issuecomment-1178575813"><img src="approved_2021_3Q.png" width="40" height="40" /><img src="approved_2021_3Q.png" width="40" height="40" /><img src="Starbucks_iceamericano.png" width="30" height="31.3"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/144#issuecomment-1184574721"><img src="approved_2021_3Q.png" width="40" height="40" /><img src="approved_2021_3Q.png" width="40" height="40" /></a> | 
-| [exgs](https://github.com/exgs) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1166966373"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/144#issuecomment-1185517281"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | 
+| [jongfeel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1168212943"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/142#issuecomment-1173100370"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/144#issuecomment-1183279681"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/145#issuecomment-1192124354"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | 
+| [chichoon](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1171866156"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/142#issuecomment-1178575813"><img src="approved_2021_3Q.png" width="40" height="40" /><img src="approved_2021_3Q.png" width="40" height="40" /><img src="Starbucks_iceamericano.png" width="30" height="31.3"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/144#issuecomment-1184574721"><img src="approved_2021_3Q.png" width="40" height="40" /><img src="approved_2021_3Q.png" width="40" height="40" /></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/145#issuecomment-1192626893"><img src="approved_2021_3Q.png" width="40" height="40" /><img src="approved_2021_3Q.png" width="40" height="40" /><img src="Starbucks_iceamericano.png" width="30" height="31.3"/></a> | 
+| [fkdl0048](https://github.com/fkdl0048/) | | | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/145#issuecomment-1193023757"><img src="approved_2021_3Q.png" width="40" height="40" /><img src="approved_2021_3Q.png" width="40" height="40" /></a> |
+| [exgs](https://github.com/exgs) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1166966373"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/144#issuecomment-1185517281"><img src="approved_2021_3Q.png" width="40" height="40" /><img src="approved_2021_3Q.png" width="40" height="40" /></a> | 
 | [Joseph-Cha](https://github.com/Joseph-Cha) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140#issuecomment-1172795022"><img src="approved_2021_3Q.png" width="40" height="40" /></a> | 
 
 ### 2022 2Q, 04-02(72th) ~ 06-25(84th)
