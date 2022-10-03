@@ -33,9 +33,20 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
-## 2022 3Q meet up list
+## 2022 4Q meet up list
 
-- [97th, 2022-09-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/161), will be open
+- [98th, 2022-10-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/166), will be open
+
+
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2022년 3Q</summary>
+<p>
+
+- [97th, 2022-09-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/161), joined 4
 - [96th, 2022-09-17](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/160), joined 2
 - [95th, 2022-09-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/158), joined 2
 - [94th, 2022-09-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/156), joined 2
@@ -49,9 +60,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [86th, 2022-07-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/142), joined 2
 - [85th, 2022-07-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/140), joined 4
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2022년 2Q</summary>
@@ -204,14 +214,14 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|38|
-|2|[chichoon](https://github.com/chichoon)|29|
+|1|[jongfeel](https://github.com/jongfeel/)|39|
+|2|[chichoon](https://github.com/chichoon)|30|
 |3|[exgs](https://github.com/exgs)|18|
 |4|[soobak](https://github.com/soo-bak)|9|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|9|
 |6|[JSY8869](https://github.com/JSY8869/)|6|
-|7|[wisdom08](https://github.com/wisdom08/)|4|
-|8|[fkdl0048](https://github.com/fkdl0048/)|4
+|7|[fkdl0048](https://github.com/fkdl0048/)|5|
+|8|[wisdom08](https://github.com/wisdom08/)|4|
 |9|[seoyoungit](https://github.com/seoyoungit/)|3|
 |10|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|3|
 |11|[fora22](https://github.com/fora22/)|3||
@@ -220,15 +230,16 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |14|[kapitalismho](https://github.com/kapitalismho/)|2|
 |15|[ellen310](https://github.com/ellen310/)|1|
 |16|[CokeLee777](https://github.com/CokeLee777/)|1|
+|17|[yeslee-v](https://github.com/yeslee-v/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|95|
+|1|[jongfeel](https://github.com/jongfeel/)|96|
 |2|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |3|[hi-hyein](https://github.com/hi-hyein/)|30|
-|4|[chichoon](https://github.com/chichoon)|29|
+|4|[chichoon](https://github.com/chichoon)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|20|
 |6|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|18|
 |7|[exgs](https://github.com/exgs)|18|
@@ -240,8 +251,8 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |13|[ellen310](https://github.com/ellen310/)|10|
 |14|[soobak](https://github.com/soo-bak)|9|
 |15|[wisdom08](https://github.com/wisdom08/)|5|
-|16|[ytw9699](https://github.com/ytw9699/)|4|
-|17|[fkdl0048](https://github.com/fkdl0048/)|4|
+|16|[fkdl0048](https://github.com/fkdl0048/)|5|
+|17|[ytw9699](https://github.com/ytw9699/)|4|
 |18|[kimpitang](https://github.com/kimpitang/)|3|
 |19|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |20|[seoyoungit](https://github.com/seoyoungit/)|3|
@@ -250,6 +261,7 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |23|[mhjoon99](https://github.com/mhjoon99/)|1|
 |24|[CokeLee777](https://github.com/CokeLee777/)|1|
 |25|[zoops](https://github.com/zoops/)|1|
+|26|[yeslee-v](https://github.com/yeslee-v/)|1|
 
 ### Ranking 2021, 1th to 58th
 
