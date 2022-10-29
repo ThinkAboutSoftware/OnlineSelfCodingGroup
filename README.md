@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 4Q meet up list
 
-- [98th, 2022-10-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/166), will be open
+- [99th, 2022-10-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/167), will be open
+- [98th, 2022-10-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/166), joined 2
 
 
 <details>
@@ -214,8 +215,8 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|39|
-|2|[chichoon](https://github.com/chichoon)|30|
+|1|[jongfeel](https://github.com/jongfeel/)|40|
+|2|[chichoon](https://github.com/chichoon)|31|
 |3|[exgs](https://github.com/exgs)|18|
 |4|[soobak](https://github.com/soo-bak)|9|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|9|
@@ -236,10 +237,10 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|96|
+|1|[jongfeel](https://github.com/jongfeel/)|97|
 |2|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
+|4|[chichoon](https://github.com/chichoon)|31|
 |3|[hi-hyein](https://github.com/hi-hyein/)|30|
-|4|[chichoon](https://github.com/chichoon)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|20|
 |6|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|18|
 |7|[exgs](https://github.com/exgs)|18|
