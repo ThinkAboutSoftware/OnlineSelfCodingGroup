@@ -26,8 +26,8 @@
 
 | Name    | 10-01 (98th) | 10-08 (99th) | 10-15 (100th) | 10-22 (101th) | 10-29 (102th) | 11-05 (103th) | 11-12 (104th) | 11-19 (105th) | 11-26 (106th) | 12-03 (107th) | 12-10 (108th) | 12-17 (109th) | 12-24 (110th) | 12-31 (111th)|
 |---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| [jongfeel](https://github.com/jongfeel/) |  |
-| [chichoon](https://github.com/chichoon) | |
+| [jongfeel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/166#issuecomment-1264200621"><img src="approved.png" width="33.2" height="33.2" /></a> |
+| [chichoon](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/166#issuecomment-1258973837"><img src="approved.png" width="33.2" height="33.2" /><img src="Starbucks_iceamericano.png" width="30" height="31.3"/></a> |
 
 ### 2022 3Q, 07-02 (85th) ~ 09-24 (97th)
 
