@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 4Q meet up list
 
-- [99th, 2022-10-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/167), will be open
+- [100th, 2022-10-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/169), will be open
+- [99th, 2022-10-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/167), joined 4
 - [98th, 2022-10-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/166), joined 2
 
 
@@ -215,16 +216,16 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|40|
-|2|[chichoon](https://github.com/chichoon)|31|
-|3|[exgs](https://github.com/exgs)|18|
+|1|[jongfeel](https://github.com/jongfeel/)|41|
+|2|[chichoon](https://github.com/chichoon)|32|
+|3|[exgs](https://github.com/exgs)|19|
 |4|[soobak](https://github.com/soo-bak)|9|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|9|
 |6|[JSY8869](https://github.com/JSY8869/)|6|
 |7|[fkdl0048](https://github.com/fkdl0048/)|5|
 |8|[wisdom08](https://github.com/wisdom08/)|4|
-|9|[seoyoungit](https://github.com/seoyoungit/)|3|
-|10|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|3|
+|9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|4|
+|10|[seoyoungit](https://github.com/seoyoungit/)|3|
 |11|[fora22](https://github.com/fora22/)|3||
 |12|[aquamagic9](https://github.com/aquamagic9/)|3|
 |13|[eunyeong-so](https://github.com/eunyeong-so/)|2|
@@ -237,13 +238,13 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|97|
+|1|[jongfeel](https://github.com/jongfeel/)|98|
 |2|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|4|[chichoon](https://github.com/chichoon)|31|
+|4|[chichoon](https://github.com/chichoon)|32|
 |3|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|20|
-|6|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|18|
-|7|[exgs](https://github.com/exgs)|18|
+|6|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|19|
+|7|[exgs](https://github.com/exgs)|19|
 |8|[JSY8869](https://github.com/JSY8869/)|16|
 |9|[fora22](https://github.com/fora22/)|16|
 |10|[yoonucho](https://github.com/yoonucho/)|14|
