@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2022 4Q meet up list
 
-- [102th, 2022-10-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/171), will be open
+- [103th, 2022-11-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/177), will be open
+- [102th, 2022-10-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/171), joined 4
 - [101th, 2022-10-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/170), joined 3
 - [100th, 2022-10-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/169), joined 5
 - [99th, 2022-10-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/167), joined 4
@@ -218,32 +219,32 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|43|
-|2|[chichoon](https://github.com/chichoon)|34|
+|1|[jongfeel](https://github.com/jongfeel/)|44|
+|2|[chichoon](https://github.com/chichoon)|35|
 |3|[exgs](https://github.com/exgs)|19|
 |4|[soobak](https://github.com/soo-bak)|9|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|9|
 |6|[JSY8869](https://github.com/JSY8869/)|6|
 |7|[fkdl0048](https://github.com/fkdl0048/)|6|
 |8|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|5|
-|9|[wisdom08](https://github.com/wisdom08/)|4|
+|9|[wisdom08](https://github.com/wisdom08/)|5|
 |10|[seoyoungit](https://github.com/seoyoungit/)|3|
 |11|[fora22](https://github.com/fora22/)|3||
 |12|[aquamagic9](https://github.com/aquamagic9/)|3|
-|13|[eunyeong-so](https://github.com/eunyeong-so/)|2|
-|14|[kapitalismho](https://github.com/kapitalismho/)|2|
-|15|[ellen310](https://github.com/ellen310/)|2|
-|16|[yeslee-v](https://github.com/yeslee-v/)|2|
+|13|[yeslee-v](https://github.com/yeslee-v/)|3|
+|14|[eunyeong-so](https://github.com/eunyeong-so/)|2|
+|15|[kapitalismho](https://github.com/kapitalismho/)|2|
+|16|[ellen310](https://github.com/ellen310/)|2|
 |17|[CokeLee777](https://github.com/CokeLee777/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|100|
-|2|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|4|[chichoon](https://github.com/chichoon)|34|
-|3|[hi-hyein](https://github.com/hi-hyein/)|30|
+|1|[jongfeel](https://github.com/jongfeel/)|101|
+|2|[chichoon](https://github.com/chichoon)|35|
+|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
+|4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|20|
 |6|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |7|[exgs](https://github.com/exgs)|19|
@@ -261,8 +262,8 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |19|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |20|[seoyoungit](https://github.com/seoyoungit/)|3|
 |21|[aquamagic9](https://github.com/aquamagic9/)|3|
-|22|[kapitalismho](https://github.com/kapitalismho/)|2|
-|23|[yeslee-v](https://github.com/yeslee-v/)|2|
+|22|[yeslee-v](https://github.com/yeslee-v/)|3|
+|23|[kapitalismho](https://github.com/kapitalismho/)|2|
 |24|[mhjoon99](https://github.com/mhjoon99/)|1|
 |25|[CokeLee777](https://github.com/CokeLee777/)|1|
 |26|[zoops](https://github.com/zoops/)|1|
