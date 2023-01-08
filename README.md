@@ -35,11 +35,12 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2023 1Q meet up list
 
-- 112th, 2023-01-07, will be open
+- 113th, 2023-01-14, will be open
+- [112th, 2023-01-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195), will be open
 
 ## 2022 4Q meet up list
 
-- [111th, 2022-12-31](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/193), will be open
+- [111th, 2022-12-31](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/193), joined 5
 - [110th, 2022-12-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/191), joined 4
 - [109th, 2022-12-17 with home coming day 2022](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/189), joined 4
 - [108th, 2022-12-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/187), joined 4
@@ -231,14 +232,14 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|52|
-|2|[chichoon](https://github.com/chichoon)|41|
+|1|[jongfeel](https://github.com/jongfeel/)|53|
+|2|[chichoon](https://github.com/chichoon)|42|
 |3|[exgs](https://github.com/exgs)|19|
-|4|[wisdom08](https://github.com/wisdom08/)|12|
+|4|[wisdom08](https://github.com/wisdom08/)|13|
 |5|[soobak](https://github.com/soo-bak)|9|
 |6|[Joseph-Cha](https://github.com/Joseph-Cha/)|9|
-|7|[fkdl0048](https://github.com/fkdl0048/)|8|
-|8|[yeslee-v](https://github.com/yeslee-v/)|8|
+|7|[yeslee-v](https://github.com/yeslee-v/)|9|
+|8|[fkdl0048](https://github.com/fkdl0048/)|8|
 |9|[JSY8869](https://github.com/JSY8869/)|6|
 |10|[fora22](https://github.com/fora22/)|6|
 |11|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|5|
@@ -250,13 +251,14 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |17|[yiy829](https://github.com/yiy829/)|2|
 |18|[CokeLee777](https://github.com/CokeLee777/)|1|
 |19|[ohdair](https://github.com/ohdair/)|1|
+|20|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|109|
-|2|[chichoon](https://github.com/chichoon)|41|
+|1|[jongfeel](https://github.com/jongfeel/)|110|
+|2|[chichoon](https://github.com/chichoon)|42|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
@@ -265,13 +267,13 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |8|[fora22](https://github.com/fora22/)|19|
 |9|[JSY8869](https://github.com/JSY8869/)|16|
 |10|[yoonucho](https://github.com/yoonucho/)|14|
-|11|[wisdom08](https://github.com/wisdom08/)|12|
+|11|[wisdom08](https://github.com/wisdom08/)|13|
 |12|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |13|[ErigoLee](https://github.com/ErigoLee/)|11|
 |14|[ellen310](https://github.com/ellen310/)|11|
 |15|[soobak](https://github.com/soo-bak)|9|
-|16|[fkdl0048](https://github.com/fkdl0048/)|8|
-|17|[yeslee-v](https://github.com/yeslee-v/)|8|
+|16|[yeslee-v](https://github.com/yeslee-v/)|9|
+|17|[fkdl0048](https://github.com/fkdl0048/)|8|
 |18|[ytw9699](https://github.com/ytw9699/)|4|
 |19|[kimpitang](https://github.com/kimpitang/)|3|
 |20|[kiJiyeon](https://github.com/kiJiyeon/)|3|
@@ -283,6 +285,7 @@ Top 3 ranked winner get prize from home coming day 2022, except jongfeel
 |26|[CokeLee777](https://github.com/CokeLee777/)|1|
 |27|[zoops](https://github.com/zoops/)|1|
 |28|[ohdair](https://github.com/ohdair/)|1|
+|29|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|1|
 
 ### Ranking 2021, 1th to 58th
 
