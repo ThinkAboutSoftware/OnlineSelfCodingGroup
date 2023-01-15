@@ -26,6 +26,13 @@
 
 | Name    | 01-07 (112th) | 01-14 (113th) | 01-21 (114th) | 10-28 (115th) | 02-04 (116th) | 02-11 (117th) | 02-18 (118th) | 02-25 (119th) | 03-04 (120th) | 03-11 (121th) | 03-18 (122th) | 03-25 (123th) |
 |---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195#issuecomment-1374311384"><img src="approved_2021.png"/></a> | 
+| [Ji Yoon Choi](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195#issuecomment-1368777663"><img src="approved_2021.png"/></a> | 
+| [Byun Jihye](https://github.com/wisdom08/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195#issuecomment-1374286268"><img src="approved_2021.png"/></a> | 
+| [Jeongan Lee](https://github.com/fkdl0048/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195#issuecomment-1373564285"><img src="approved_2021.png"/></a> | 
+| [ohdair](https://github.com/ohdair/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195#issuecomment-1374333709"><img src="approved_2021.png"/></a> | 
+| [TaeHyoung Kwon](https://github.com/TaeHyoungKwon/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195#issuecomment-1374350358"><img src="approved_2021.png"/></a> | 
+| [hyunhye](https://github.com/zoepark21/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195#issuecomment-1374343388"><img src="approved_2021.png"/></a> | 
 
 ### 2022 4Q, 10-01 (98th) ~ 12-31 (111th)
 
