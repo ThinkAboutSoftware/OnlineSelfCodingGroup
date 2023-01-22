@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2023 1Q meet up list
 
-- [114th, 2023-01-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/199), will be open
+- [115th, 2023-01-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/201), will be open
+- [114th, 2023-01-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/199), joined 5
 - [113th, 2023-01-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/197), joined 8
 - [112th, 2023-01-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195), joined 7
 
@@ -233,48 +234,52 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|1|
-|2|[Ji Yoon Choi](https://github.com/chichoon)|1|
-|3|[Byun Jihye](https://github.com/wisdom08/)|1|
-|4|[Jeongan Lee](https://github.com/fkdl0048/)|1|
-|5|[ohdair](https://github.com/ohdair/)|1|
-|6|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|1|
-|7|[hyunhye](https://github.com/zoepark21/)|1|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|2|
+|2|[Ji Yoon Choi](https://github.com/chichoon)|2|
+|3|[Jeongan Lee](https://github.com/fkdl0048/)|2|
+|4|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|2|
+|5|[hyunhye](https://github.com/zoepark21/)|2|
+|6|[Byun Jihye](https://github.com/wisdom08/)|1|
+|7|[ohdair](https://github.com/ohdair/)|1|
+|8|[yeslee-v](https://github.com/yeslee-v/)|1|
+|9|[silqwer](https://github.com/silqwer)|1|
+|10|[JSY8869](https://github.com/JSY8869/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|111|
-|2|[chichoon](https://github.com/chichoon)|43|
+|1|[jongfeel](https://github.com/jongfeel/)|112|
+|2|[chichoon](https://github.com/chichoon)|44|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |6|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |7|[exgs](https://github.com/exgs)|19|
 |8|[fora22](https://github.com/fora22/)|19|
-|9|[JSY8869](https://github.com/JSY8869/)|16|
+|9|[JSY8869](https://github.com/JSY8869/)|17|
 |10|[yoonucho](https://github.com/yoonucho/)|14|
 |11|[wisdom08](https://github.com/wisdom08/)|14|
 |12|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |13|[ErigoLee](https://github.com/ErigoLee/)|11|
 |14|[ellen310](https://github.com/ellen310/)|11|
-|15|[soobak](https://github.com/soo-bak)|9|
-|16|[yeslee-v](https://github.com/yeslee-v/)|9|
-|17|[fkdl0048](https://github.com/fkdl0048/)|9|
+|15|[yeslee-v](https://github.com/yeslee-v/)|10|
+|16|[fkdl0048](https://github.com/fkdl0048/)|10|
+|17|[soobak](https://github.com/soo-bak)|9|
 |18|[ytw9699](https://github.com/ytw9699/)|4|
 |19|[kimpitang](https://github.com/kimpitang/)|3|
 |20|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |21|[seoyoungit](https://github.com/seoyoungit/)|3|
 |22|[aquamagic9](https://github.com/aquamagic9/)|3|
-|23|[kapitalismho](https://github.com/kapitalismho/)|2|
-|24|[yiy829](https://github.com/yiy829/)|2|
-|25|[ohdair](https://github.com/ohdair/)|2|
+|23|[ohdair](https://github.com/ohdair/)|3|
+|24|[kapitalismho](https://github.com/kapitalismho/)|2|
+|25|[yiy829](https://github.com/yiy829/)|2|
 |26|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|2|
-|27|[mhjoon99](https://github.com/mhjoon99/)|1|
-|28|[CokeLee777](https://github.com/CokeLee777/)|1|
-|29|[zoops](https://github.com/zoops/)|1|
-|30|[hyunhye](https://github.com/zoepark21/)|1|
+|27|[hyunhye](https://github.com/zoepark21/)|2|
+|28|[mhjoon99](https://github.com/mhjoon99/)|1|
+|29|[CokeLee777](https://github.com/CokeLee777/)|1|
+|30|[zoops](https://github.com/zoops/)|1|
+|31|[silqwer](https://github.com/silqwer)|1|
 
 ### Ranking history
 
