@@ -234,13 +234,13 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|2|
-|2|[Ji Yoon Choi](https://github.com/chichoon)|2|
-|3|[Jeongan Lee](https://github.com/fkdl0048/)|2|
-|4|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|2|
-|5|[hyunhye](https://github.com/zoepark21/)|2|
-|6|[Byun Jihye](https://github.com/wisdom08/)|1|
-|7|[ohdair](https://github.com/ohdair/)|1|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|3|
+|2|[Ji Yoon Choi](https://github.com/chichoon)|3|
+|3|[Jeongan Lee](https://github.com/fkdl0048/)|3|
+|4|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|3|
+|5|[ohdair](https://github.com/ohdair/)|2|
+|6|[hyunhye](https://github.com/zoepark21/)|2|
+|7|[Byun Jihye](https://github.com/wisdom08/)|1|
 |8|[yeslee-v](https://github.com/yeslee-v/)|1|
 |9|[silqwer](https://github.com/silqwer)|1|
 |10|[JSY8869](https://github.com/JSY8869/)|1|
@@ -249,8 +249,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|112|
-|2|[chichoon](https://github.com/chichoon)|44|
+|1|[jongfeel](https://github.com/jongfeel/)|113|
+|2|[chichoon](https://github.com/chichoon)|45|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
@@ -263,18 +263,18 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |12|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |13|[ErigoLee](https://github.com/ErigoLee/)|11|
 |14|[ellen310](https://github.com/ellen310/)|11|
-|15|[yeslee-v](https://github.com/yeslee-v/)|10|
-|16|[fkdl0048](https://github.com/fkdl0048/)|10|
+|15|[fkdl0048](https://github.com/fkdl0048/)|11|
+|16|[yeslee-v](https://github.com/yeslee-v/)|10|
 |17|[soobak](https://github.com/soo-bak)|9|
 |18|[ytw9699](https://github.com/ytw9699/)|4|
-|19|[kimpitang](https://github.com/kimpitang/)|3|
-|20|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|21|[seoyoungit](https://github.com/seoyoungit/)|3|
-|22|[aquamagic9](https://github.com/aquamagic9/)|3|
-|23|[ohdair](https://github.com/ohdair/)|3|
-|24|[kapitalismho](https://github.com/kapitalismho/)|2|
-|25|[yiy829](https://github.com/yiy829/)|2|
-|26|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|2|
+|19|[ohdair](https://github.com/ohdair/)|4|
+|20|[kimpitang](https://github.com/kimpitang/)|3|
+|21|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|22|[seoyoungit](https://github.com/seoyoungit/)|3|
+|23|[aquamagic9](https://github.com/aquamagic9/)|3|
+|24|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|3|
+|25|[kapitalismho](https://github.com/kapitalismho/)|2|
+|26|[yiy829](https://github.com/yiy829/)|2|
 |27|[hyunhye](https://github.com/zoepark21/)|2|
 |28|[mhjoon99](https://github.com/mhjoon99/)|1|
 |29|[CokeLee777](https://github.com/CokeLee777/)|1|
