@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2023 1Q meet up list
 
-- [119th, 2023-02-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/209), will be open
+- [120th, 2023-03-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/211), will be open
+- [119th, 2023-02-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/209), joined 5
 - [118th, 2023-02-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/207), joined 5
 - [117th, 2023-02-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/205), joined 5
 - [116th, 2023-02-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/203), joined 5
@@ -238,13 +239,13 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|6|
-|2|[Ji Yoon Choi](https://github.com/chichoon)|6|
-|3|[Jeongan Lee](https://github.com/fkdl0048/)|6|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|7|
+|2|[Ji Yoon Choi](https://github.com/chichoon)|7|
+|3|[Jeongan Lee](https://github.com/fkdl0048/)|7|
 |4|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|5|
-|5|[ohdair](https://github.com/ohdair/)|4|
-|6|[yeslee-v](https://github.com/yeslee-v/)|3|
-|7|[hyunhye](https://github.com/zoepark21/)|3|
+|5|[ohdair](https://github.com/ohdair/)|5|
+|6|[hyunhye](https://github.com/zoepark21/)|4|
+|7|[yeslee-v](https://github.com/yeslee-v/)|3|
 |8|[Byun Jihye](https://github.com/wisdom08/)|1|
 |9|[silqwer](https://github.com/silqwer)|1|
 |10|[JSY8869](https://github.com/JSY8869/)|1|
@@ -253,8 +254,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|116|
-|2|[chichoon](https://github.com/chichoon)|48|
+|1|[jongfeel](https://github.com/jongfeel/)|117|
+|2|[chichoon](https://github.com/chichoon)|49|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
@@ -262,22 +263,22 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |7|[exgs](https://github.com/exgs)|19|
 |8|[fora22](https://github.com/fora22/)|19|
 |9|[JSY8869](https://github.com/JSY8869/)|17|
-|10|[yoonucho](https://github.com/yoonucho/)|14|
-|11|[wisdom08](https://github.com/wisdom08/)|14|
-|12|[fkdl0048](https://github.com/fkdl0048/)|14|
+|10|[fkdl0048](https://github.com/fkdl0048/)|15|
+|11|[yoonucho](https://github.com/yoonucho/)|14|
+|12|[wisdom08](https://github.com/wisdom08/)|14|
 |13|[yeslee-v](https://github.com/yeslee-v/)|12|
 |14|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |15|[ErigoLee](https://github.com/ErigoLee/)|11|
 |16|[ellen310](https://github.com/ellen310/)|11|
 |17|[soobak](https://github.com/soo-bak)|9|
 |18|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|6|
-|19|[ohdair](https://github.com/ohdair/)|5|
+|19|[ohdair](https://github.com/ohdair/)|6|
 |20|[ytw9699](https://github.com/ytw9699/)|4|
-|21|[kimpitang](https://github.com/kimpitang/)|3|
-|22|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|23|[seoyoungit](https://github.com/seoyoungit/)|3|
-|24|[aquamagic9](https://github.com/aquamagic9/)|3|
-|25|[hyunhye](https://github.com/zoepark21/)|3|
+|21|[hyunhye](https://github.com/zoepark21/)|4|
+|22|[kimpitang](https://github.com/kimpitang/)|3|
+|23|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|24|[seoyoungit](https://github.com/seoyoungit/)|3|
+|25|[aquamagic9](https://github.com/aquamagic9/)|3|
 |26|[kapitalismho](https://github.com/kapitalismho/)|2|
 |27|[yiy829](https://github.com/yiy829/)|2|
 |28|[mhjoon99](https://github.com/mhjoon99/)|1|
