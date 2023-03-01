@@ -273,8 +273,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |17|[soobak](https://github.com/soo-bak)|9|
 |18|[ohdair](https://github.com/ohdair/)|7|
 |19|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|6|
-|21|[hyunhye](https://github.com/zoepark21/)|5|
-|20|[ytw9699](https://github.com/ytw9699/)|4|
+|20|[hyunhye](https://github.com/zoepark21/)|5|
+|21|[ytw9699](https://github.com/ytw9699/)|4|
 |22|[kimpitang](https://github.com/kimpitang/)|3|
 |23|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |24|[seoyoungit](https://github.com/seoyoungit/)|3|
