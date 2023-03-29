@@ -33,9 +33,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
+## 2023 2Q meet up list
+
+- [124th, 2023-04-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/219), will be open
+
 ## 2023 1Q meet up list
 
-- [123th, 2023-03-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/217), will be open
+- [123th, 2023-03-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/217), joined 6
 - [122th, 2023-03-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/215), joined 3
 - [121th, 2023-03-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/213), joined 3
 - [120th, 2023-03-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/211), joined 5
@@ -48,7 +52,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [113th, 2023-01-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/197), joined 8
 - [112th, 2023-01-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195), joined 7
 
-## 2022 4Q meet up list
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2022년 4Q</summary>
+<p>
 
 - [111th, 2022-12-31](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/193), joined 5
 - [110th, 2022-12-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/191), joined 4
@@ -65,10 +75,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [99th, 2022-10-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/167), joined 4
 - [98th, 2022-10-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/166), joined 2
 
-
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2022년 3Q</summary>
