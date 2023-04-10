@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2023 2Q meet up list
 
-- [125th, 2023-04-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/221), will be open
+- [126th, 2023-04-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/223), will be open
+- [125th, 2023-04-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/221), joined 3
 - [124th, 2023-04-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/219), joined 3
 
 ## 2023 1Q meet up list
@@ -251,12 +252,12 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|12|
-|2|[Ji Yoon Choi](https://github.com/chichoon)|12|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|13|
+|2|[Ji Yoon Choi](https://github.com/chichoon)|13|
 |3|[Jeongan Lee](https://github.com/fkdl0048/)|9|
 |4|[ohdair](https://github.com/ohdair/)|9|
-|5|[hyunhye](https://github.com/zoepark21/)|7|
-|6|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|7|
+|5|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|8|
+|6|[hyunhye](https://github.com/zoepark21/)|7|
 |7|[yeslee-v](https://github.com/yeslee-v/)|3|
 |8|[Byun Jihye](https://github.com/wisdom08/)|1|
 |9|[silqwer](https://github.com/silqwer)|1|
@@ -266,8 +267,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|122|
-|2|[chichoon](https://github.com/chichoon)|54|
+|1|[jongfeel](https://github.com/jongfeel/)|123|
+|2|[chichoon](https://github.com/chichoon)|55|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
@@ -284,7 +285,7 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |16|[ellen310](https://github.com/ellen310/)|11|
 |17|[ohdair](https://github.com/ohdair/)|10|
 |18|[soobak](https://github.com/soo-bak)|9|
-|19|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|8|
+|19|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|9|
 |20|[hyunhye](https://github.com/zoepark21/)|7|
 |21|[ytw9699](https://github.com/ytw9699/)|4|
 |22|[kimpitang](https://github.com/kimpitang/)|3|

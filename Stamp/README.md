@@ -22,6 +22,14 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2023 2Q, 04-01 (124th) ~ 06-24 (136th)
+
+| Name    | 04-01 (124th) | 04-08 (125th) | 04-15 (126th) | 04-22 (127th) | 04-29 (128th) | 05-06 (129th) | 05-13 (130th) | 05-20 (131th) | 05-27 (132th) | 06-03 (133th) | 06-10 (134th) | 06-17 (135th) | 06-24 (136th) |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/219#issuecomment-1492789582"><img src="approved_2021_2Q.png"/></a> | 
+| [Ji Yoon Choi](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/219#issuecomment-1492151449"><img src="approved_2021_2Q.png"/><img src="Starbucks_americano.JPG"/></a> | 
+| [TaeHyoung Kwon](https://github.com/TaeHyoungKwon/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/219#issuecomment-1491492965"><img src="approved_2021_2Q.png"/></a> | 
+
 ### 2023 1Q, 01-07 (112th) ~ 03-25 (123th)
 
 | Name    | 01-07 (112th) | 01-14 (113th) | 01-21 (114th) | 10-28 (115th) | 02-04 (116th) | 02-11 (117th) | 02-18 (118th) | 02-25 (119th) | 03-04 (120th) | 03-11 (121th) | 03-18 (122th) | 03-25 (123th) |
