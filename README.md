@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2023 2Q meet up list
 
-- [129th, 2023-05-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/230), will be open
+- [130th, 2023-05-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/232), will be open
+- [129th, 2023-05-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/230), joined 6
 - [128th, 2023-04-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/228), joined 5
 - [127th, 2023-04-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/224), joined 5
 - [126th, 2023-04-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/223), joined 3
@@ -255,17 +256,17 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|16|
-|2|[Ji Yoon Choi](https://github.com/chichoon)|15|
-|3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|11|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|17|
+|2|[Ji Yoon Choi](https://github.com/chichoon)|16|
+|3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|12|
 |4|[ohdair](https://github.com/ohdair/)|10|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|9|
 |6|[hyunhye](https://github.com/zoepark21/)|8|
-|7|[yeslee-v](https://github.com/yeslee-v/)|3|
-|8|[Byun Jihye](https://github.com/wisdom08/)|1|
-|9|[silqwer](https://github.com/silqwer)|1|
-|10|[JSY8869](https://github.com/JSY8869/)|1|
-|11|[park7628](https://github.com/park7628/)|1|
+|7|[yeslee-v](https://github.com/yeslee-v/)|4|
+|8|[park7628](https://github.com/park7628/)|2|
+|9|[Byun Jihye](https://github.com/wisdom08/)|1|
+|10|[silqwer](https://github.com/silqwer)|1|
+|11|[JSY8869](https://github.com/JSY8869/)|1|
 
 ### All from first to present
 
