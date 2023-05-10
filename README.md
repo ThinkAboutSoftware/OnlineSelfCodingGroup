@@ -256,14 +256,14 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|17|
-|2|[Ji Yoon Choi](https://github.com/chichoon)|16|
-|3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|12|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|18|
+|2|[Ji Yoon Choi](https://github.com/chichoon)|17|
+|3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|13|
 |4|[ohdair](https://github.com/ohdair/)|10|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|9|
-|6|[hyunhye](https://github.com/zoepark21/)|8|
-|7|[yeslee-v](https://github.com/yeslee-v/)|4|
-|8|[park7628](https://github.com/park7628/)|2|
+|6|[hyunhye](https://github.com/zoepark21/)|9|
+|7|[yeslee-v](https://github.com/yeslee-v/)|5|
+|8|[park7628](https://github.com/park7628/)|3|
 |9|[Byun Jihye](https://github.com/wisdom08/)|1|
 |10|[silqwer](https://github.com/silqwer)|1|
 |11|[JSY8869](https://github.com/JSY8869/)|1|
@@ -272,8 +272,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|126|
-|2|[chichoon](https://github.com/chichoon)|57|
+|1|[jongfeel](https://github.com/jongfeel/)|127|
+|2|[chichoon](https://github.com/chichoon)|58|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
@@ -284,26 +284,26 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |10|[JSY8869](https://github.com/JSY8869/)|17|
 |11|[yoonucho](https://github.com/yoonucho/)|14|
 |12|[wisdom08](https://github.com/wisdom08/)|14|
-|13|[yeslee-v](https://github.com/yeslee-v/)|12|
-|14|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|12|
+|13|[yeslee-v](https://github.com/yeslee-v/)|13|
+|14|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|13|
 |15|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |16|[ErigoLee](https://github.com/ErigoLee/)|11|
 |17|[ellen310](https://github.com/ellen310/)|11|
 |18|[ohdair](https://github.com/ohdair/)|11|
 |19|[soobak](https://github.com/soo-bak)|9|
-|20|[hyunhye](https://github.com/zoepark21/)|8|
+|20|[hyunhye](https://github.com/zoepark21/)|9|
 |21|[ytw9699](https://github.com/ytw9699/)|4|
 |22|[kimpitang](https://github.com/kimpitang/)|3|
 |23|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |24|[seoyoungit](https://github.com/seoyoungit/)|3|
 |25|[aquamagic9](https://github.com/aquamagic9/)|3|
-|26|[kapitalismho](https://github.com/kapitalismho/)|2|
-|27|[yiy829](https://github.com/yiy829/)|2|
-|28|[mhjoon99](https://github.com/mhjoon99/)|1|
-|29|[CokeLee777](https://github.com/CokeLee777/)|1|
-|30|[zoops](https://github.com/zoops/)|1|
-|31|[silqwer](https://github.com/silqwer)|1|
-|32|[park7628](https://github.com/park7628/)|1|
+|26|[park7628](https://github.com/park7628/)|3|
+|27|[kapitalismho](https://github.com/kapitalismho/)|2|
+|28|[yiy829](https://github.com/yiy829/)|2|
+|29|[mhjoon99](https://github.com/mhjoon99/)|1|
+|30|[CokeLee777](https://github.com/CokeLee777/)|1|
+|31|[zoops](https://github.com/zoops/)|1|
+|32|[silqwer](https://github.com/silqwer)|1|
 
 ### Ranking history
 
