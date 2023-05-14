@@ -273,8 +273,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|127|
-|2|[chichoon](https://github.com/chichoon)|58|
+|1|[jongfeel](https://github.com/jongfeel/)|128|
+|2|[chichoon](https://github.com/chichoon)|59|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
@@ -285,8 +285,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |10|[JSY8869](https://github.com/JSY8869/)|17|
 |11|[yoonucho](https://github.com/yoonucho/)|14|
 |12|[wisdom08](https://github.com/wisdom08/)|14|
-|13|[yeslee-v](https://github.com/yeslee-v/)|13|
-|14|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|13|
+|13|[yeslee-v](https://github.com/yeslee-v/)|14|
+|14|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|14|
 |15|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |16|[ErigoLee](https://github.com/ErigoLee/)|11|
 |17|[ellen310](https://github.com/ellen310/)|11|
