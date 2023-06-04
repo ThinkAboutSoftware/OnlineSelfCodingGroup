@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2023 2Q meet up list
 
-- [133th, 2023-06-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/238), will be open
+- [134th, 2023-06-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/239), will be open
+- [133th, 2023-06-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/238), joined 5
 - [132th, 2023-05-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/236), joined 5
 - [131th, 2023-05-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/234), joined 6
 - [130th, 2023-05-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/232), joined 4
