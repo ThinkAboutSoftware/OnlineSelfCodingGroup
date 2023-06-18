@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2023 2Q meet up list
 
-- [135th, 2023-06-17](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/242), will be open
+- [136th, 2023-06-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/243), will be open
+- [135th, 2023-06-17](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/242), joined 2
 - [134th, 2023-06-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/239), joined 3
 - [133th, 2023-06-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/238), joined 5
 - [132th, 2023-05-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/236), joined 5
@@ -261,9 +262,9 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|22|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|21|
-|3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|15|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|23|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|22|
+|3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|12|
 |5|[ohdair](https://github.com/ohdair/)|10|
 |6|[hyunhye](https://github.com/zoepark21/)|10|
@@ -280,8 +281,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|132|
-|2|[chichoon](https://github.com/chichoon)|63|
+|1|[jongfeel](https://github.com/jongfeel/)|133|
+|2|[chichoon](https://github.com/chichoon)|64|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
@@ -290,7 +291,7 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |8|[exgs](https://github.com/exgs)|19|
 |9|[fora22](https://github.com/fora22/)|19|
 |10|[JSY8869](https://github.com/JSY8869/)|17|
-|11|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|16|
+|11|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
 |12|[yoonucho](https://github.com/yoonucho/)|14|
 |13|[wisdom08](https://github.com/wisdom08/)|14|
 |14|[yeslee-v](https://github.com/yeslee-v/)|14|
