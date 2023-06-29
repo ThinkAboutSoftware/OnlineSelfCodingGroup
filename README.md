@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2023 2Q meet up list
 
-- [136th, 2023-06-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/243), will be open
+- [137th, 2023-07-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246), will be open
+- [136th, 2023-06-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/243), joined 6
 - [135th, 2023-06-17](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/242), joined 2
 - [134th, 2023-06-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/239), joined 3
 - [133th, 2023-06-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/238), joined 5
@@ -262,8 +263,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|23|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|22|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|24|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|23|
 |3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|12|
 |5|[ohdair](https://github.com/ohdair/)|10|
@@ -281,8 +282,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|133|
-|2|[chichoon](https://github.com/chichoon)|64|
+|1|[jongfeel](https://github.com/jongfeel/)|134|
+|2|[chichoon](https://github.com/chichoon)|65|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
