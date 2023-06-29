@@ -263,27 +263,29 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|24|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|23|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|25|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|24|
 |3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|12|
 |5|[ohdair](https://github.com/ohdair/)|10|
 |6|[hyunhye](https://github.com/zoepark21/)|10|
-|7|[yeslee-v](https://github.com/yeslee-v/)|5|
-|8|[park7628](https://github.com/park7628/)|3|
-|9|[IWON LEE](https://github.com/walnutpie314/)|3|
+|7|[yeslee-v](https://github.com/yeslee-v/)|6|
+|8|[IWON LEE](https://github.com/walnutpie314/)|4|
+|9|[park7628](https://github.com/park7628/)|3|
 |10|[yonii2](https://github.com/yonii2/)|2|
 |11|[Byun Jihye](https://github.com/wisdom08/)|1|
 |12|[silqwer](https://github.com/silqwer/)|1|
 |13|[JSY8869](https://github.com/JSY8869/)|1|
 |14|[Nayun Kwak](https://github.com/nayunz/)|1|
+|15|[jhjgenius](https://github.com/jhjgenius/)|1|
+|16|[eunbbin](https://github.com/eunbbin/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|134|
-|2|[chichoon](https://github.com/chichoon)|65|
+|1|[jongfeel](https://github.com/jongfeel/)|135|
+|2|[chichoon](https://github.com/chichoon)|66|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
@@ -293,9 +295,9 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |9|[fora22](https://github.com/fora22/)|19|
 |10|[JSY8869](https://github.com/JSY8869/)|17|
 |11|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|12|[yoonucho](https://github.com/yoonucho/)|14|
-|13|[wisdom08](https://github.com/wisdom08/)|14|
-|14|[yeslee-v](https://github.com/yeslee-v/)|14|
+|12|[yeslee-v](https://github.com/yeslee-v/)|15|
+|13|[yoonucho](https://github.com/yoonucho/)|14|
+|14|[wisdom08](https://github.com/wisdom08/)|14|
 |15|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |16|[ErigoLee](https://github.com/ErigoLee/)|11|
 |17|[ellen310](https://github.com/ellen310/)|11|
@@ -303,12 +305,12 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |19|[hyunhye](https://github.com/zoepark21/)|10|
 |20|[soobak](https://github.com/soo-bak)|9|
 |21|[ytw9699](https://github.com/ytw9699/)|4|
-|22|[kimpitang](https://github.com/kimpitang/)|3|
-|23|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|24|[seoyoungit](https://github.com/seoyoungit/)|3|
-|25|[aquamagic9](https://github.com/aquamagic9/)|3|
-|26|[park7628](https://github.com/park7628/)|3|
-|27|[IWON LEE](https://github.com/walnutpie314/)|3|
+|22|[IWON LEE](https://github.com/walnutpie314/)|4|
+|23|[kimpitang](https://github.com/kimpitang/)|3|
+|24|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|25|[seoyoungit](https://github.com/seoyoungit/)|3|
+|26|[aquamagic9](https://github.com/aquamagic9/)|3|
+|27|[park7628](https://github.com/park7628/)|3|
 |28|[kapitalismho](https://github.com/kapitalismho/)|2|
 |29|[yiy829](https://github.com/yiy829/)|2|
 |30|[yonii2](https://github.com/yonii2/)|2|
@@ -317,6 +319,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |33|[zoops](https://github.com/zoops/)|1|
 |34|[silqwer](https://github.com/silqwer)|1|
 |35|[Nayun Kwak](https://github.com/nayunz/)|1|
+|36|[jhjgenius](https://github.com/jhjgenius/)|1|
+|37|[eunbbin](https://github.com/eunbbin/)|1|
 
 ### Ranking history
 
