@@ -33,9 +33,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
+## 2023 3Q meet up list
+
+- [138th, 2023-07-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/248), will be open
+- [137th, 2023-07-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246), joined 6
+
 ## 2023 2Q meet up list
 
-- [137th, 2023-07-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246), will be open
 - [136th, 2023-06-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/243), joined 6
 - [135th, 2023-06-17](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/242), joined 2
 - [134th, 2023-06-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/239), joined 3
@@ -50,7 +54,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [125th, 2023-04-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/221), joined 3
 - [124th, 2023-04-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/219), joined 3
 
-## 2023 1Q meet up list
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2023년 1Q</summary>
+<p>
 
 - [123th, 2023-03-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/217), joined 6
 - [122th, 2023-03-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/215), joined 3
@@ -65,9 +75,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [113th, 2023-01-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/197), joined 8
 - [112th, 2023-01-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/195), joined 7
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2022년 4Q</summary>
@@ -263,27 +272,29 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|24|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|23|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|25|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|24|
 |3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|12|
 |5|[ohdair](https://github.com/ohdair/)|10|
 |6|[hyunhye](https://github.com/zoepark21/)|10|
-|7|[yeslee-v](https://github.com/yeslee-v/)|5|
-|8|[park7628](https://github.com/park7628/)|3|
-|9|[IWON LEE](https://github.com/walnutpie314/)|3|
+|7|[yeslee-v](https://github.com/yeslee-v/)|6|
+|8|[IWON LEE](https://github.com/walnutpie314/)|4|
+|9|[park7628](https://github.com/park7628/)|3|
 |10|[yonii2](https://github.com/yonii2/)|2|
 |11|[Byun Jihye](https://github.com/wisdom08/)|1|
 |12|[silqwer](https://github.com/silqwer/)|1|
 |13|[JSY8869](https://github.com/JSY8869/)|1|
 |14|[Nayun Kwak](https://github.com/nayunz/)|1|
+|15|[jhjgenius](https://github.com/jhjgenius/)|1|
+|16|[eunbbin](https://github.com/eunbbin/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|134|
-|2|[chichoon](https://github.com/chichoon)|65|
+|1|[jongfeel](https://github.com/jongfeel/)|135|
+|2|[chichoon](https://github.com/chichoon)|66|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
@@ -293,9 +304,9 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |9|[fora22](https://github.com/fora22/)|19|
 |10|[JSY8869](https://github.com/JSY8869/)|17|
 |11|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|12|[yoonucho](https://github.com/yoonucho/)|14|
-|13|[wisdom08](https://github.com/wisdom08/)|14|
-|14|[yeslee-v](https://github.com/yeslee-v/)|14|
+|12|[yeslee-v](https://github.com/yeslee-v/)|15|
+|13|[yoonucho](https://github.com/yoonucho/)|14|
+|14|[wisdom08](https://github.com/wisdom08/)|14|
 |15|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |16|[ErigoLee](https://github.com/ErigoLee/)|11|
 |17|[ellen310](https://github.com/ellen310/)|11|
@@ -303,12 +314,12 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |19|[hyunhye](https://github.com/zoepark21/)|10|
 |20|[soobak](https://github.com/soo-bak)|9|
 |21|[ytw9699](https://github.com/ytw9699/)|4|
-|22|[kimpitang](https://github.com/kimpitang/)|3|
-|23|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|24|[seoyoungit](https://github.com/seoyoungit/)|3|
-|25|[aquamagic9](https://github.com/aquamagic9/)|3|
-|26|[park7628](https://github.com/park7628/)|3|
-|27|[IWON LEE](https://github.com/walnutpie314/)|3|
+|22|[IWON LEE](https://github.com/walnutpie314/)|4|
+|23|[kimpitang](https://github.com/kimpitang/)|3|
+|24|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|25|[seoyoungit](https://github.com/seoyoungit/)|3|
+|26|[aquamagic9](https://github.com/aquamagic9/)|3|
+|27|[park7628](https://github.com/park7628/)|3|
 |28|[kapitalismho](https://github.com/kapitalismho/)|2|
 |29|[yiy829](https://github.com/yiy829/)|2|
 |30|[yonii2](https://github.com/yonii2/)|2|
@@ -317,6 +328,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |33|[zoops](https://github.com/zoops/)|1|
 |34|[silqwer](https://github.com/silqwer)|1|
 |35|[Nayun Kwak](https://github.com/nayunz/)|1|
+|36|[jhjgenius](https://github.com/jhjgenius/)|1|
+|37|[eunbbin](https://github.com/eunbbin/)|1|
 
 ### Ranking history
 
