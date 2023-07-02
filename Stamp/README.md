@@ -22,6 +22,17 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2023 3Q, 07-01 (137th) ~ 09-30 (150th)
+
+| Name    | 07-01 (137th) | 07-08 (138th) | 07-15 (139th) | 07-22 (140th) | 07-29 (141th) | 08-05 (142th) | 08-12 (143th) | 08-19 (144th) | 08-26 (145th) | 09-02 (146th) | 09-09 (147th) | 09-16 (148th) | 09-23 (149th) | 09-30 (150th) |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615364042"><img src="approved_2021_3Q.png"/></a> | 
+| [Ji Yoon Choi](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1613306999"><img src="approved_2021_3Q.png"/><img src="Starbucks_americano.JPG"/></a> | 
+| [IWON LEE](https://github.com/walnutpie314/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615273000"><img src="approved_2021_3Q.png"/></a> | 
+| [yeslee-v](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1609649347"><img src="approved_2021_3Q.png"/></a> | 
+| [Jeongan Lee](https://github.com/fkdl0048/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615370913"><img src="approved_2021_3Q.png"/><img src="Starbucks_americano.JPG"/></a> | 
+| [hyunhye](https://github.com/zoepark21/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615350339"><img src="approved_2021_3Q.png"/></a> | 
+
 ### 2023 2Q, 04-01 (124th) ~ 06-24 (136th)
 
 | Name    | 04-01 (124th) | 04-08 (125th) | 04-15 (126th) | 04-22 (127th) | 04-29 (128th) | 05-06 (129th) | 05-13 (130th) | 05-20 (131th) | 05-27 (132th) | 06-03 (133th) | 06-10 (134th) | 06-17 (135th) | 06-24 (136th) |
