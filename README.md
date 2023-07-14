@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2023 3Q meet up list
 
-- [138th, 2023-07-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/248), will be open
+- [139th, 2023-07-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/250), will be open
+- [138th, 2023-07-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/248), joined 5
 - [137th, 2023-07-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246), joined 6
 
 ## 2023 2Q meet up list
@@ -272,14 +273,14 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|25|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|24|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|26|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|25|
 |3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
-|4|[Jeongan Lee](https://github.com/fkdl0048/)|12|
-|5|[ohdair](https://github.com/ohdair/)|10|
-|6|[hyunhye](https://github.com/zoepark21/)|10|
-|7|[yeslee-v](https://github.com/yeslee-v/)|6|
-|8|[IWON LEE](https://github.com/walnutpie314/)|4|
+|4|[Jeongan Lee](https://github.com/fkdl0048/)|13|
+|5|[hyunhye](https://github.com/zoepark21/)|11|
+|6|[ohdair](https://github.com/ohdair/)|10|
+|7|[yeslee-v](https://github.com/yeslee-v/)|7|
+|8|[IWON LEE](https://github.com/walnutpie314/)|5|
 |9|[park7628](https://github.com/park7628/)|3|
 |10|[yonii2](https://github.com/yonii2/)|2|
 |11|[Byun Jihye](https://github.com/wisdom08/)|1|
@@ -293,28 +294,28 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|135|
-|2|[chichoon](https://github.com/chichoon)|66|
+|1|[jongfeel](https://github.com/jongfeel/)|136|
+|2|[chichoon](https://github.com/chichoon)|67|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
-|5|[eunyeong-so](https://github.com/eunyeong-so/)|21|
-|6|[fkdl0048](https://github.com/fkdl0048/)|21|
+|5|[fkdl0048](https://github.com/fkdl0048/)|22|
+|6|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |7|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |8|[exgs](https://github.com/exgs)|19|
 |9|[fora22](https://github.com/fora22/)|19|
 |10|[JSY8869](https://github.com/JSY8869/)|17|
 |11|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|12|[yeslee-v](https://github.com/yeslee-v/)|15|
+|12|[yeslee-v](https://github.com/yeslee-v/)|16|
 |13|[yoonucho](https://github.com/yoonucho/)|14|
 |14|[wisdom08](https://github.com/wisdom08/)|14|
 |15|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |16|[ErigoLee](https://github.com/ErigoLee/)|11|
 |17|[ellen310](https://github.com/ellen310/)|11|
 |18|[ohdair](https://github.com/ohdair/)|11|
-|19|[hyunhye](https://github.com/zoepark21/)|10|
+|19|[hyunhye](https://github.com/zoepark21/)|11|
 |20|[soobak](https://github.com/soo-bak)|9|
-|21|[ytw9699](https://github.com/ytw9699/)|4|
-|22|[IWON LEE](https://github.com/walnutpie314/)|4|
+|21|[IWON LEE](https://github.com/walnutpie314/)|5|
+|22|[ytw9699](https://github.com/ytw9699/)|4|
 |23|[kimpitang](https://github.com/kimpitang/)|3|
 |24|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |25|[seoyoungit](https://github.com/seoyoungit/)|3|
