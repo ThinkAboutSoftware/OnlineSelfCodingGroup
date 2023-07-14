@@ -26,12 +26,12 @@
 
 | Name    | 07-01 (137th) | 07-08 (138th) | 07-15 (139th) | 07-22 (140th) | 07-29 (141th) | 08-05 (142th) | 08-12 (143th) | 08-19 (144th) | 08-26 (145th) | 09-02 (146th) | 09-09 (147th) | 09-16 (148th) | 09-23 (149th) | 09-30 (150th) |
 |---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615364042"><img src="approved_2021_3Q.png"/></a> | 
-| [Ji Yoon Choi](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1613306999"><img src="approved_2021_3Q.png"/><img src="Starbucks_americano.JPG"/></a> | 
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615364042"><img src="approved_2021_3Q.png"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/248#issuecomment-1626450480"><img src="approved_2021_3Q.png"/></a> | 
+| [Ji Yoon Choi](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1613306999"><img src="approved_2021_3Q.png"/><img src="Starbucks_americano.JPG"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/248#issuecomment-1625581626"><img src="approved_2021_3Q.png"/></a> | 
+| [yeslee-v](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1609649347"><img src="approved_2021_3Q.png"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/248#issuecomment-1625578429"><img src="approved_2021_3Q.png"/></a> | 
+| [Jeongan Lee](https://github.com/fkdl0048/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615370913"><img src="approved_2021_3Q.png"/><img src="Starbucks_americano.JPG"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/248#issuecomment-1626406435"><img src="approved_2021_3Q.png"/></a> | 
+| [hyunhye](https://github.com/zoepark21/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615350339"><img src="approved_2021_3Q.png"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/248#issuecomment-1626419380"><img src="approved_2021_3Q.png"/><img src="Starbucks_americano.JPG"/></a> | 
 | [IWON LEE](https://github.com/walnutpie314/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615273000"><img src="approved_2021_3Q.png"/></a> | 
-| [yeslee-v](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1609649347"><img src="approved_2021_3Q.png"/></a> | 
-| [Jeongan Lee](https://github.com/fkdl0048/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615370913"><img src="approved_2021_3Q.png"/><img src="Starbucks_americano.JPG"/></a> | 
-| [hyunhye](https://github.com/zoepark21/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/246#issuecomment-1615350339"><img src="approved_2021_3Q.png"/></a> | 
 
 ### 2023 2Q, 04-01 (124th) ~ 06-24 (136th)
 
