@@ -274,13 +274,13 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|27|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|26|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|28|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|27|
 |3|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|14|
 |5|[hyunhye](https://github.com/zoepark21/)|12|
 |6|[ohdair](https://github.com/ohdair/)|10|
-|7|[yeslee-v](https://github.com/yeslee-v/)|8|
+|7|[yeslee-v](https://github.com/yeslee-v/)|9|
 |8|[IWON LEE](https://github.com/walnutpie314/)|5|
 |9|[park7628](https://github.com/park7628/)|3|
 |10|[yonii2](https://github.com/yonii2/)|2|
@@ -295,8 +295,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|137|
-|2|[chichoon](https://github.com/chichoon)|68|
+|1|[jongfeel](https://github.com/jongfeel/)|138|
+|2|[chichoon](https://github.com/chichoon)|69|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
 |5|[fkdl0048](https://github.com/fkdl0048/)|23|
@@ -304,9 +304,9 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |7|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |8|[exgs](https://github.com/exgs)|19|
 |9|[fora22](https://github.com/fora22/)|19|
-|10|[JSY8869](https://github.com/JSY8869/)|17|
-|11|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|12|[yeslee-v](https://github.com/yeslee-v/)|17|
+|10|[yeslee-v](https://github.com/yeslee-v/)|18|
+|11|[JSY8869](https://github.com/JSY8869/)|17|
+|12|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
 |13|[yoonucho](https://github.com/yoonucho/)|14|
 |14|[wisdom08](https://github.com/wisdom08/)|14|
 |15|[hyunhye](https://github.com/zoepark21/)|12|
