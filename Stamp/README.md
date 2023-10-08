@@ -22,6 +22,13 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2023 4Q, 10-07 (151th) ~ 12-30 (163th)
+
+| Name    | 10-07 (151th) | 10-14 (152th) | 10-21 (153th) | 10-28 (154th) | 11-04 (155th) | 11-11 (156th) | 11-18 (157th) | 11-25 (158th) | 12-02 (159th) | 12-09 (160th) | [12-16 (161th)](https://github.com/ThinkAboutSoftware/HomeComingDay) | 12-23 (162th) | 12-30 (163th) | 09-30 (150th) |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/274#issuecomment-1751555476"><img src="approved.png"/></a> | 
+| [Ji Yoon Choi](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/274#issuecomment-1750832035"><img src="approved.png"/>book 1/20</a> | 
+
 ### 2023 3Q, 07-01 (137th) ~ 09-30 (150th)
 
 | Name    | 07-01 (137th) | 07-08 (138th) | 07-15 (139th) | 07-22 (140th) | 07-29 (141th) | 08-05 (142th) | 08-12 (143th) | 08-19 (144th) | 08-26 (145th) | 09-02 (146th) | 09-09 (147th) | 09-16 (148th) | 09-23 (149th) | 09-30 (150th) |
