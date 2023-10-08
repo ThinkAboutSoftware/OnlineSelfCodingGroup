@@ -24,8 +24,8 @@
 
 ### 2023 4Q, 10-07 (151th) ~ 12-30 (163th)
 
-| Name    | 10-07 (151th) | 10-14 (152th) | 10-21 (153th) | 10-28 (154th) | 11-04 (155th) | 11-11 (156th) | 11-18 (157th) | 11-25 (158th) | 12-02 (159th) | 12-09 (160th) | [12-16 (161th)](https://github.com/ThinkAboutSoftware/HomeComingDay) | 12-23 (162th) | 12-30 (163th) | 09-30 (150th) |
-|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Name    | 10-07 (151th) | 10-14 (152th) | 10-21 (153th) | 10-28 (154th) | 11-04 (155th) | 11-11 (156th) | 11-18 (157th) | 11-25 (158th) | 12-02 (159th) | 12-09 (160th) | [12-16 (161th)](https://github.com/ThinkAboutSoftware/HomeComingDay) | 12-23 (162th) | 12-30 (163th) |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/274#issuecomment-1751555476"><img src="approved.png"/></a> | 
 | [Ji Yoon Choi](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/274#issuecomment-1750832035"><img src="approved.png"/>book 1/20</a> | 
 
