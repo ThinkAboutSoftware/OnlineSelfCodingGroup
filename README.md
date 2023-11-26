@@ -301,19 +301,19 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|46|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|44|
-|3|[Jeongan Lee](https://github.com/fkdl0048/)|21|
-|4|[yeslee-v](https://github.com/yeslee-v/)|19|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|47|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|45|
+|3|[Jeongan Lee](https://github.com/fkdl0048/)|22|
+|4|[yeslee-v](https://github.com/yeslee-v/)|20|
 |5|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
 |6|[YeongKwonMo](https://github.com/momoci99/)|13|
 |7|[hyunhye](https://github.com/zoepark21/)|12|
 |8|[ohdair](https://github.com/ohdair/)|10|
 |9|[TaeWon](https://github.com/ytw9699/)|8|
 |10|[Arat5724](https://github.com/Arat5724/)|8|
-|11|[IWON LEE](https://github.com/walnutpie314/)|5|
-|12|[JSY8869](https://github.com/JSY8869/)|5|
-|13|[Byeongguk Ahn](https://github.com/nonoaa/)|5|
+|11|[Byeongguk Ahn](https://github.com/nonoaa/)|6|
+|12|[IWON LEE](https://github.com/walnutpie314/)|5|
+|13|[JSY8869](https://github.com/JSY8869/)|5|
 |14|[soo:bak](https://github.com/soo-bak/)|4|
 |15|[park7628](https://github.com/park7628/)|3|
 |16|[yonii2](https://github.com/yonii2/)|2|
@@ -331,12 +331,12 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|156|
-|2|[chichoon](https://github.com/chichoon)|86|
+|1|[jongfeel](https://github.com/jongfeel/)|157|
+|2|[chichoon](https://github.com/chichoon)|87|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|4|[hi-hyein](https://github.com/hi-hyein/)|30|
-|5|[Jeongan Lee](https://github.com/fkdl0048/)|30|
-|6|[yeslee-v](https://github.com/yeslee-v/)|28|
+|4|[Jeongan Lee](https://github.com/fkdl0048/)|31|
+|5|[hi-hyein](https://github.com/hi-hyein/)|30|
+|6|[yeslee-v](https://github.com/yeslee-v/)|29|
 |7|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |8|[JSY8869](https://github.com/JSY8869/)|21|
 |9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
@@ -354,8 +354,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |21|[ellen310](https://github.com/ellen310/)|11|
 |22|[ohdair](https://github.com/ohdair/)|11|
 |23|[Arat5724](https://github.com/Arat5724/)|8|
-|24|[IWON LEE](https://github.com/walnutpie314/)|5|
-|25|[Byeongguk Ahn](https://github.com/nonoaa/)|5|
+|24|[Byeongguk Ahn](https://github.com/nonoaa/)|6|
+|25|[IWON LEE](https://github.com/walnutpie314/)|5|
 |26|[kimpitang](https://github.com/kimpitang/)|3|
 |27|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |28|[seoyoungit](https://github.com/seoyoungit/)|3|
