@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2023 4Q meet up list
 
-- [158th, 2023-11-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/288), will be opne
+- [159th, 2023-12-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/291), will be open
+- [158th, 2023-11-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/288), joined 5
 - [157th, 2023-11-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/287), joined 5
 - [156th, 2023-11-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/285), joined 5
 - [155th, 2023-11-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/283), joined 4
@@ -300,9 +301,9 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|45|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|43|
-|3|[Jeongan Lee](https://github.com/fkdl0048/)|20|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|46|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|44|
+|3|[Jeongan Lee](https://github.com/fkdl0048/)|21|
 |4|[yeslee-v](https://github.com/yeslee-v/)|19|
 |5|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
 |6|[YeongKwonMo](https://github.com/momoci99/)|13|
@@ -312,8 +313,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |10|[Arat5724](https://github.com/Arat5724/)|8|
 |11|[IWON LEE](https://github.com/walnutpie314/)|5|
 |12|[JSY8869](https://github.com/JSY8869/)|5|
-|13|[soo:bak](https://github.com/soo-bak/)|4|
-|14|[Byeongguk Ahn](https://github.com/nonoaa/)|4|
+|13|[Byeongguk Ahn](https://github.com/nonoaa/)|5|
+|14|[soo:bak](https://github.com/soo-bak/)|4|
 |15|[park7628](https://github.com/park7628/)|3|
 |16|[yonii2](https://github.com/yonii2/)|2|
 |17|[Byun Jihye](https://github.com/wisdom08/)|1|
@@ -324,16 +325,17 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |22|[SooimChoi](https://github.com/leechoiswim1/)|1|
 |23|[cyhcyh100](https://github.com/cyhcyh100/)|1|
 |24|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
+|25|[Jiyun Yun](https://github.com/jeeyn)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|155|
-|2|[chichoon](https://github.com/chichoon)|85|
+|1|[jongfeel](https://github.com/jongfeel/)|156|
+|2|[chichoon](https://github.com/chichoon)|86|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[hi-hyein](https://github.com/hi-hyein/)|30|
-|5|[Jeongan Lee](https://github.com/fkdl0048/)|29|
+|5|[Jeongan Lee](https://github.com/fkdl0048/)|30|
 |6|[yeslee-v](https://github.com/yeslee-v/)|28|
 |7|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |8|[JSY8869](https://github.com/JSY8869/)|21|
@@ -353,7 +355,7 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |22|[ohdair](https://github.com/ohdair/)|11|
 |23|[Arat5724](https://github.com/Arat5724/)|8|
 |24|[IWON LEE](https://github.com/walnutpie314/)|5|
-|25|[Byeongguk Ahn](https://github.com/nonoaa/)|4|
+|25|[Byeongguk Ahn](https://github.com/nonoaa/)|5|
 |26|[kimpitang](https://github.com/kimpitang/)|3|
 |27|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |28|[seoyoungit](https://github.com/seoyoungit/)|3|
@@ -372,6 +374,7 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |41|[SooimChoi](https://github.com/leechoiswim1/)|1|
 |42|[cyhcyh100](https://github.com/cyhcyh100/)|1|
 |43|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
+|44|[Jiyun Yun](https://github.com/jeeyn)|1|
 
 ### Ranking history
 
