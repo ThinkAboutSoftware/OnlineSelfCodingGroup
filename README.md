@@ -303,51 +303,51 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|48|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|46|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|49|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|47|
 |3|[Jeongan Lee](https://github.com/fkdl0048/)|23|
-|4|[yeslee-v](https://github.com/yeslee-v/)|21|
+|4|[yeslee-v](https://github.com/yeslee-v/)|22|
 |5|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
-|6|[YeongKwonMo](https://github.com/momoci99/)|14|
+|6|[YeongKwonMo](https://github.com/momoci99/)|15|
 |7|[hyunhye](https://github.com/zoepark21/)|12|
 |8|[ohdair](https://github.com/ohdair/)|10|
 |9|[TaeWon](https://github.com/ytw9699/)|8|
 |10|[Arat5724](https://github.com/Arat5724/)|8|
-|11|[Byeongguk Ahn](https://github.com/nonoaa/)|6|
+|11|[Byeongguk Ahn](https://github.com/nonoaa/)|7|
 |12|[IWON LEE](https://github.com/walnutpie314/)|5|
 |13|[JSY8869](https://github.com/JSY8869/)|5|
 |14|[soo:bak](https://github.com/soo-bak/)|4|
 |15|[park7628](https://github.com/park7628/)|3|
 |16|[yonii2](https://github.com/yonii2/)|2|
-|17|[Byun Jihye](https://github.com/wisdom08/)|1|
-|18|[silqwer](https://github.com/silqwer/)|1|
-|19|[Nayun Kwak](https://github.com/nayunz/)|1|
-|20|[jhjgenius](https://github.com/jhjgenius/)|1|
-|21|[eunbbin](https://github.com/eunbbin/)|1|
-|22|[SooimChoi](https://github.com/leechoiswim1/)|1|
-|23|[cyhcyh100](https://github.com/cyhcyh100/)|1|
-|24|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
-|25|[Jiyun Yun](https://github.com/jeeyn)|1|
+|17|[Jiyun Yun](https://github.com/jeeyn)|2|
+|18|[Byun Jihye](https://github.com/wisdom08/)|1|
+|19|[silqwer](https://github.com/silqwer/)|1|
+|20|[Nayun Kwak](https://github.com/nayunz/)|1|
+|21|[jhjgenius](https://github.com/jhjgenius/)|1|
+|22|[eunbbin](https://github.com/eunbbin/)|1|
+|23|[SooimChoi](https://github.com/leechoiswim1/)|1|
+|24|[cyhcyh100](https://github.com/cyhcyh100/)|1|
+|25|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|158|
-|2|[chichoon](https://github.com/chichoon)|88|
+|1|[jongfeel](https://github.com/jongfeel/)|159|
+|2|[chichoon](https://github.com/chichoon)|89|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|32|
+|6|[yeslee-v](https://github.com/yeslee-v/)|31|
 |5|[hi-hyein](https://github.com/hi-hyein/)|30|
-|6|[yeslee-v](https://github.com/yeslee-v/)|30|
 |7|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |8|[JSY8869](https://github.com/JSY8869/)|21|
 |9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |10|[exgs](https://github.com/exgs)|19|
 |11|[fora22](https://github.com/fora22/)|19|
 |12|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|13|[yoonucho](https://github.com/yoonucho/)|14|
-|14|[wisdom08](https://github.com/wisdom08/)|14|
-|15|[YeongKwonMo](https://github.com/momoci99/)|14|
+|13|[YeongKwonMo](https://github.com/momoci99/)|15|
+|14|[yoonucho](https://github.com/yoonucho/)|14|
+|15|[wisdom08](https://github.com/wisdom08/)|14|
 |16|[soo:bak](https://github.com/soo-bak)|13|
 |17|[hyunhye](https://github.com/zoepark21/)|12|
 |18|[TaeWon](https://github.com/ytw9699/)|12|
@@ -356,7 +356,7 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |21|[ellen310](https://github.com/ellen310/)|11|
 |22|[ohdair](https://github.com/ohdair/)|11|
 |23|[Arat5724](https://github.com/Arat5724/)|8|
-|24|[Byeongguk Ahn](https://github.com/nonoaa/)|6|
+|24|[Byeongguk Ahn](https://github.com/nonoaa/)|7|
 |25|[IWON LEE](https://github.com/walnutpie314/)|5|
 |26|[kimpitang](https://github.com/kimpitang/)|3|
 |27|[kiJiyeon](https://github.com/kiJiyeon/)|3|
@@ -366,17 +366,17 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |31|[kapitalismho](https://github.com/kapitalismho/)|2|
 |32|[yiy829](https://github.com/yiy829/)|2|
 |33|[yonii2](https://github.com/yonii2/)|2|
-|34|[mhjoon99](https://github.com/mhjoon99/)|1|
-|35|[CokeLee777](https://github.com/CokeLee777/)|1|
-|36|[zoops](https://github.com/zoops/)|1|
-|37|[silqwer](https://github.com/silqwer)|1|
-|38|[Nayun Kwak](https://github.com/nayunz/)|1|
-|39|[jhjgenius](https://github.com/jhjgenius/)|1|
-|40|[eunbbin](https://github.com/eunbbin/)|1|
-|41|[SooimChoi](https://github.com/leechoiswim1/)|1|
-|42|[cyhcyh100](https://github.com/cyhcyh100/)|1|
-|43|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
-|44|[Jiyun Yun](https://github.com/jeeyn)|1|
+|34|[Jiyun Yun](https://github.com/jeeyn)|2|
+|35|[mhjoon99](https://github.com/mhjoon99/)|1|
+|36|[CokeLee777](https://github.com/CokeLee777/)|1|
+|37|[zoops](https://github.com/zoops/)|1|
+|38|[silqwer](https://github.com/silqwer)|1|
+|39|[Nayun Kwak](https://github.com/nayunz/)|1|
+|40|[jhjgenius](https://github.com/jhjgenius/)|1|
+|41|[eunbbin](https://github.com/eunbbin/)|1|
+|42|[SooimChoi](https://github.com/leechoiswim1/)|1|
+|43|[cyhcyh100](https://github.com/cyhcyh100/)|1|
+|44|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
 
 ### Ranking history
 
