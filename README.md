@@ -305,17 +305,17 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|50|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|47|
-|3|[Jeongan Lee](https://github.com/fkdl0048/)|23|
-|4|[yeslee-v](https://github.com/yeslee-v/)|23|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|51|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|48|
+|3|[yeslee-v](https://github.com/yeslee-v/)|24|
+|4|[Jeongan Lee](https://github.com/fkdl0048/)|23|
 |5|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
 |6|[YeongKwonMo](https://github.com/momoci99/)|15|
 |7|[hyunhye](https://github.com/zoepark21/)|12|
 |8|[ohdair](https://github.com/ohdair/)|10|
 |9|[TaeWon](https://github.com/ytw9699/)|8|
 |10|[Arat5724](https://github.com/Arat5724/)|8|
-|11|[Byeongguk Ahn](https://github.com/nonoaa/)|7|
+|11|[Byeongguk Ahn](https://github.com/nonoaa/)|8|
 |12|[IWON LEE](https://github.com/walnutpie314/)|5|
 |13|[JSY8869](https://github.com/JSY8869/)|5|
 |14|[soo:bak](https://github.com/soo-bak/)|4|
@@ -335,12 +335,12 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|160|
-|2|[chichoon](https://github.com/chichoon)|89|
+|1|[jongfeel](https://github.com/jongfeel/)|161|
+|2|[chichoon](https://github.com/chichoon)|90|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|4|[Jeongan Lee](https://github.com/fkdl0048/)|32|
-|6|[yeslee-v](https://github.com/yeslee-v/)|32|
-|5|[hi-hyein](https://github.com/hi-hyein/)|30|
+|4|[yeslee-v](https://github.com/yeslee-v/)|33|
+|5|[Jeongan Lee](https://github.com/fkdl0048/)|32|
+|6|[hi-hyein](https://github.com/hi-hyein/)|30|
 |7|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |8|[JSY8869](https://github.com/JSY8869/)|21|
 |9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
@@ -358,7 +358,7 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |21|[ellen310](https://github.com/ellen310/)|11|
 |22|[ohdair](https://github.com/ohdair/)|11|
 |23|[Arat5724](https://github.com/Arat5724/)|8|
-|24|[Byeongguk Ahn](https://github.com/nonoaa/)|7|
+|24|[Byeongguk Ahn](https://github.com/nonoaa/)|8|
 |25|[IWON LEE](https://github.com/walnutpie314/)|5|
 |26|[kimpitang](https://github.com/kimpitang/)|3|
 |27|[kiJiyeon](https://github.com/kiJiyeon/)|3|
