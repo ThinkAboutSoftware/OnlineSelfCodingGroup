@@ -314,9 +314,9 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|51|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|48|
-|3|[yeslee-v](https://github.com/yeslee-v/)|24|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|52|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|49|
+|3|[yeslee-v](https://github.com/yeslee-v/)|25|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|23|
 |5|[TaeHyoung Kwon](https://github.com/TaeHyoungKwon/)|16|
 |6|[YeongKwonMo](https://github.com/momoci99/)|15|
@@ -344,10 +344,10 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|161|
-|2|[chichoon](https://github.com/chichoon)|90|
+|1|[jongfeel](https://github.com/jongfeel/)|162|
+|2|[chichoon](https://github.com/chichoon)|91|
 |3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|4|[yeslee-v](https://github.com/yeslee-v/)|33|
+|4|[yeslee-v](https://github.com/yeslee-v/)|34|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|32|
 |6|[hi-hyein](https://github.com/hi-hyein/)|30|
 |7|[eunyeong-so](https://github.com/eunyeong-so/)|21|
