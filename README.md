@@ -309,9 +309,80 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## Ranking
 
-### Ranking 2023, 112th to 163th
+### Ranking 2024, 164th to 215th
+
+Top 2, 3, 4 ranked winner get prize from home coming day 2024
+and participate more than 30 online meetup, get the chicken gifticon.
+
+|Ranking|Name|Count|
+|-------|----|-----|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|1|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|1|
+|3|[yeslee-v](https://github.com/yeslee-v/)|1|
+|4|[YeongKwonMo](https://github.com/momoci99/)|1|
+|5|[TaeWon](https://github.com/ytw9699/)|1|
+|6|[Byeongguk Ahn](https://github.com/nonoaa/)|1|
+|7|[Jiyun Yun](https://github.com/jeeyn)|1|
+
+### All from first to present
+
+|Ranking|Name|Count|
+|-------|----|-----|
+|1|[jongfeel](https://github.com/jongfeel/)|163|
+|2|[chichoon](https://github.com/chichoon)|92|
+|3|[yeslee-v](https://github.com/yeslee-v/)|35|
+|4|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
+|5|[Jeongan Lee](https://github.com/fkdl0048/)|32|
+|6|[hi-hyein](https://github.com/hi-hyein/)|30|
+|7|[eunyeong-so](https://github.com/eunyeong-so/)|21|
+|8|[JSY8869](https://github.com/JSY8869/)|21|
+|9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
+|10|[exgs](https://github.com/exgs)|19|
+|11|[fora22](https://github.com/fora22/)|19|
+|12|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
+|13|[YeongKwonMo](https://github.com/momoci99/)|16|
+|14|[yoonucho](https://github.com/yoonucho/)|14|
+|15|[wisdom08](https://github.com/wisdom08/)|14|
+|16|[soo:bak](https://github.com/soo-bak)|13|
+|17|[TaeWon](https://github.com/ytw9699/)|13|
+|18|[hyunhye](https://github.com/zoepark21/)|12|
+|19|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
+|20|[ErigoLee](https://github.com/ErigoLee/)|11|
+|21|[ellen310](https://github.com/ellen310/)|11|
+|22|[ohdair](https://github.com/ohdair/)|11|
+|23|[Byeongguk Ahn](https://github.com/nonoaa/)|9|
+|24|[Arat5724](https://github.com/Arat5724/)|8|
+|25|[IWON LEE](https://github.com/walnutpie314/)|5|
+|26|[kimpitang](https://github.com/kimpitang/)|3|
+|27|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|28|[seoyoungit](https://github.com/seoyoungit/)|3|
+|29|[aquamagic9](https://github.com/aquamagic9/)|3|
+|30|[park7628](https://github.com/park7628/)|3|
+|31|[Jiyun Yun](https://github.com/jeeyn)|3|
+|32|[kapitalismho](https://github.com/kapitalismho/)|2|
+|33|[yiy829](https://github.com/yiy829/)|2|
+|34|[yonii2](https://github.com/yonii2/)|2|
+|35|[mhjoon99](https://github.com/mhjoon99/)|1|
+|36|[CokeLee777](https://github.com/CokeLee777/)|1|
+|37|[zoops](https://github.com/zoops/)|1|
+|38|[silqwer](https://github.com/silqwer)|1|
+|39|[Nayun Kwak](https://github.com/nayunz/)|1|
+|40|[jhjgenius](https://github.com/jhjgenius/)|1|
+|41|[eunbbin](https://github.com/eunbbin/)|1|
+|42|[SooimChoi](https://github.com/leechoiswim1/)|1|
+|43|[cyhcyh100](https://github.com/cyhcyh100/)|1|
+|44|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
+
+### Ranking history
+
+<details>
+<summary>2023, 112th to 163th</summary>
+<p>
 
 Top 2, 3, 4 ranked winner get prize from home coming day 2023
+1. Ji Yoon Choi get prize chicken gifticon item.
+2. Jeongan Lee get prize starbucks e-gift set item.
+3. yeslee-v get prize starbucks e-gift beverage item.
 
 |Ranking|Name|Count|
 |-------|----|-----|
@@ -341,56 +412,8 @@ Top 2, 3, 4 ranked winner get prize from home coming day 2023
 |24|[cyhcyh100](https://github.com/cyhcyh100/)|1|
 |25|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
 
-### All from first to present
-
-|Ranking|Name|Count|
-|-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|162|
-|2|[chichoon](https://github.com/chichoon)|91|
-|3|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|4|[yeslee-v](https://github.com/yeslee-v/)|34|
-|5|[Jeongan Lee](https://github.com/fkdl0048/)|32|
-|6|[hi-hyein](https://github.com/hi-hyein/)|30|
-|7|[eunyeong-so](https://github.com/eunyeong-so/)|21|
-|8|[JSY8869](https://github.com/JSY8869/)|21|
-|9|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
-|10|[exgs](https://github.com/exgs)|19|
-|11|[fora22](https://github.com/fora22/)|19|
-|12|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|13|[YeongKwonMo](https://github.com/momoci99/)|15|
-|14|[yoonucho](https://github.com/yoonucho/)|14|
-|15|[wisdom08](https://github.com/wisdom08/)|14|
-|16|[soo:bak](https://github.com/soo-bak)|13|
-|17|[hyunhye](https://github.com/zoepark21/)|12|
-|18|[TaeWon](https://github.com/ytw9699/)|12|
-|19|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
-|20|[ErigoLee](https://github.com/ErigoLee/)|11|
-|21|[ellen310](https://github.com/ellen310/)|11|
-|22|[ohdair](https://github.com/ohdair/)|11|
-|23|[Arat5724](https://github.com/Arat5724/)|8|
-|24|[Byeongguk Ahn](https://github.com/nonoaa/)|8|
-|25|[IWON LEE](https://github.com/walnutpie314/)|5|
-|26|[kimpitang](https://github.com/kimpitang/)|3|
-|27|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|28|[seoyoungit](https://github.com/seoyoungit/)|3|
-|29|[aquamagic9](https://github.com/aquamagic9/)|3|
-|30|[park7628](https://github.com/park7628/)|3|
-|31|[kapitalismho](https://github.com/kapitalismho/)|2|
-|32|[yiy829](https://github.com/yiy829/)|2|
-|33|[yonii2](https://github.com/yonii2/)|2|
-|34|[Jiyun Yun](https://github.com/jeeyn)|2|
-|35|[mhjoon99](https://github.com/mhjoon99/)|1|
-|36|[CokeLee777](https://github.com/CokeLee777/)|1|
-|37|[zoops](https://github.com/zoops/)|1|
-|38|[silqwer](https://github.com/silqwer)|1|
-|39|[Nayun Kwak](https://github.com/nayunz/)|1|
-|40|[jhjgenius](https://github.com/jhjgenius/)|1|
-|41|[eunbbin](https://github.com/eunbbin/)|1|
-|42|[SooimChoi](https://github.com/leechoiswim1/)|1|
-|43|[cyhcyh100](https://github.com/cyhcyh100/)|1|
-|44|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
-
-### Ranking history
+</p>
+</details>
 
 <details>
 <summary>2022, 59th to 111th</summary>
