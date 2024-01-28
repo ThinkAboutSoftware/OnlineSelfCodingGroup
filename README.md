@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2024 1Q meet up list
 
-- [167th, 2024-01-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/307), will be open
+- [168th, 2024-02-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/309), will be open
+- [167th, 2024-01-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/307), joined 6
 - [166th, 2024-01-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/305), joined 6
 - [165th, 2024-01-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/303), joined 5
 - [164th, 2024-01-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/301), joined 7
@@ -318,24 +319,24 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|2|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|2|
-|3|[yeslee-v](https://github.com/yeslee-v/)|2|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|3|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|3|
+|3|[yeslee-v](https://github.com/yeslee-v/)|3|
 |4|[YeongKwonMo](https://github.com/momoci99/)|2|
-|5|[TaeWon](https://github.com/ytw9699/)|2|
-|6|[Byeongguk Ahn](https://github.com/nonoaa/)|1|
-|7|[Jiyun Yun](https://github.com/jeeyn)|1|
-|8|[Jeongan Lee](https://github.com/fkdl0048/)|1|
+|5|[TaeWon](https://github.com/ytw9699/)|3|
+|6|[Jiyun Yun](https://github.com/jeeyn)|2|
+|7|[Jeongan Lee](https://github.com/fkdl0048/)|2|
+|8|[Byeongguk Ahn](https://github.com/nonoaa/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|164|
-|2|[chichoon](https://github.com/chichoon)|93|
-|3|[yeslee-v](https://github.com/yeslee-v/)|36|
+|1|[jongfeel](https://github.com/jongfeel/)|165|
+|2|[chichoon](https://github.com/chichoon)|94|
+|3|[yeslee-v](https://github.com/yeslee-v/)|37|
 |4|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|5|[Jeongan Lee](https://github.com/fkdl0048/)|33|
+|5|[Jeongan Lee](https://github.com/fkdl0048/)|34|
 |6|[hi-hyein](https://github.com/hi-hyein/)|30|
 |7|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |8|[JSY8869](https://github.com/JSY8869/)|21|
@@ -344,9 +345,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |11|[fora22](https://github.com/fora22/)|19|
 |12|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
 |13|[YeongKwonMo](https://github.com/momoci99/)|17|
-|14|[yoonucho](https://github.com/yoonucho/)|14|
-|15|[wisdom08](https://github.com/wisdom08/)|14|
-|16|[TaeWon](https://github.com/ytw9699/)|14|
+|14|[TaeWon](https://github.com/ytw9699/)|15|
+|15|[yoonucho](https://github.com/yoonucho/)|14|
+|16|[wisdom08](https://github.com/wisdom08/)|14|
 |17|[soo:bak](https://github.com/soo-bak)|13|
 |18|[hyunhye](https://github.com/zoepark21/)|12|
 |19|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
@@ -356,12 +357,12 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |23|[Byeongguk Ahn](https://github.com/nonoaa/)|9|
 |24|[Arat5724](https://github.com/Arat5724/)|8|
 |25|[IWON LEE](https://github.com/walnutpie314/)|5|
-|26|[kimpitang](https://github.com/kimpitang/)|3|
-|27|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|28|[seoyoungit](https://github.com/seoyoungit/)|3|
-|29|[aquamagic9](https://github.com/aquamagic9/)|3|
-|30|[park7628](https://github.com/park7628/)|3|
-|31|[Jiyun Yun](https://github.com/jeeyn)|3|
+|26|[Jiyun Yun](https://github.com/jeeyn)|4|
+|27|[kimpitang](https://github.com/kimpitang/)|3|
+|28|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|29|[seoyoungit](https://github.com/seoyoungit/)|3|
+|30|[aquamagic9](https://github.com/aquamagic9/)|3|
+|31|[park7628](https://github.com/park7628/)|3|
 |32|[kapitalismho](https://github.com/kapitalismho/)|2|
 |33|[yiy829](https://github.com/yiy829/)|2|
 |34|[yonii2](https://github.com/yonii2/)|2|
@@ -492,7 +493,7 @@ hi-hyein, Joseph-Cha, eunyeong-so get prize starbucks e-gift item.
   - [추가 업데이트) 2021-10-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/86)
   - 참석 하신 분이 한 분 혹은 두 분 이라면 그 분에게는 스탬프를 2장 드립니다!
 - 스탬프 4장을 모으신 분은 저의 사비를 털어 스타벅스 아메리카노 쿠폰을 드립니다.
-- 기념이 될 만한 회차 ([10회](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18), [50회](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/88), 100회 등)에 참여하신 분은 쿠폰이 업그레이드 됩니다!
+- 기념이 될 만한 회차 ([10회](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18), [50회](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/88), [100회](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/169) 등)에 참여하신 분은 쿠폰이 업그레이드 됩니다!
 - 인증 절차
   - 아래 모든 내용은 제가 확인하고 진행합니다.
   - 10시 30분 ~ 10시 40분 사이 입장, 각자 자기 소개 혹은 할 내용에 대해 소개 하신 분
