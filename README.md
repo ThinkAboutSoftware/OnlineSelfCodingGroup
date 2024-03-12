@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2024 1Q meet up list
 
-- [171th, 2024-02-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/314), will be open
+- [172th, 2024-03-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/315), will be open
+- [171th, 2024-02-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/314), joined 4
 - [170th, 2024-02-17](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/313), joined 7
 - [169th, 2024-02-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/311), joined 5
 - [168th, 2024-02-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/309), joined 5
@@ -322,21 +323,21 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|7|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|7|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|8|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|8|
 |3|[yeslee-v](https://github.com/yeslee-v/)|7|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|6|
-|5|[TaeWon](https://github.com/ytw9699/)|5|
+|5|[TaeWon](https://github.com/ytw9699/)|6|
 |6|[Jiyun Yun](https://github.com/jeeyn)|5|
 |7|[YeongKwonMo](https://github.com/momoci99/)|4|
-|8|[Byeongguk Ahn](https://github.com/nonoaa/)|1|
+|8|[Byeongguk Ahn](https://github.com/nonoaa/)|2|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|169|
-|2|[chichoon](https://github.com/chichoon)|98|
+|1|[jongfeel](https://github.com/jongfeel/)|170|
+|2|[chichoon](https://github.com/chichoon)|99|
 |3|[yeslee-v](https://github.com/yeslee-v/)|41|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|38|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
@@ -347,8 +348,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |10|[exgs](https://github.com/exgs)|19|
 |11|[fora22](https://github.com/fora22/)|19|
 |12|[YeongKwonMo](https://github.com/momoci99/)|19|
-|13|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|14|[TaeWon](https://github.com/ytw9699/)|17|
+|13|[TaeWon](https://github.com/ytw9699/)|18|
+|14|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
 |15|[yoonucho](https://github.com/yoonucho/)|14|
 |16|[wisdom08](https://github.com/wisdom08/)|14|
 |17|[soo:bak](https://github.com/soo-bak)|13|
@@ -357,7 +358,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |20|[ErigoLee](https://github.com/ErigoLee/)|11|
 |21|[ellen310](https://github.com/ellen310/)|11|
 |22|[ohdair](https://github.com/ohdair/)|11|
-|23|[Byeongguk Ahn](https://github.com/nonoaa/)|9|
+|23|[Byeongguk Ahn](https://github.com/nonoaa/)|10|
 |24|[Arat5724](https://github.com/Arat5724/)|8|
 |25|[Jiyun Yun](https://github.com/jeeyn)|7|
 |26|[IWON LEE](https://github.com/walnutpie314/)|5|
