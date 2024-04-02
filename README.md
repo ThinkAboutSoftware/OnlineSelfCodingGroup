@@ -1,6 +1,6 @@
 # OnlineSelfCodingGroup
 
-Online coding and study group at every saturday at 10 am.
+Online coding and study group at every saturday at 10:30 🕥 am.
 
 Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
