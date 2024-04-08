@@ -22,6 +22,17 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2024 2Q, 04-06 (164th) ~ 03-30 (176th)
+
+| Name    | 04-06 (177th) | 04-13 (178th) | 04-20 (179th) | 04-27 (180th) | 05-04 (181th) | 05-11 (182th) | 05-18 (183th) | 05-25 (184th) | 06-01 (185th) | 06-08 (186th) | 06-15 (187th) | 06-22 (188th) | 06-29 (189th) |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/328#issuecomment-2039192368"><img src="approved_2021_2Q.png"/></a> | 
+| [Ji Yoon Choi](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/328#issuecomment-2040835560"><img src="approved_2021_2Q.png"/>book 6/20</a> | 
+| [TaeWon](https://github.com/ytw9699/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/328#issuecomment-2040827151"><img src="approved_2021_2Q.png"/><img src="Starbucks_americano.JPG"/>book 14/20</a> | 
+| [yeslee-v](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/328#issuecomment-2040838983"><img src="approved_2021_2Q.png"/><img src="Starbucks_tarro_latte.jpg"/>book 18/20</a> | 
+| [Byeongguk Ahn](https://github.com/nonoaa/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/328#issuecomment-2040843812"><img src="approved_2021_2Q.png"/>book 14/20</a> | 
+| [soo:bak](https://github.com/soo-bak/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/328#issuecomment-2035970224"><img src="approved_2021_2Q.png"/>book 2/20</a> | 
+
 ### 2024 1Q, 01-06 (164th) ~ 03-30 (176th)
 
 | Name    | 01-06 (164th) | 01-13 (165th) | 01-20 (166th) | 01-27 (167th) | 02-03 (168th) | 02-10 (169th) | 02-17 (170th) | 02-24 (171th) | 03-02 (172th) | 03-09 (173th) | 03-16 (174th) | 03-23 (175th) | 03-30 (176th) |
