@@ -33,12 +33,15 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
-## 2024 1Q meet up list
+## 2024 2Q meet up list
 
 - [180th, 2024-04-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/334), will be open
 - [179th, 2024-04-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/332), joined 6
 - [178th, 2024-04-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/330), joined 5
 - [177th, 2024-04-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/328), joined 6
+
+## 2024 1Q meet up list
+
 - [176th, 2024-03-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/326), joined 6
 - [175th, 2024-03-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/324), joined 7
 - [174th, 2024-03-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/321), joined 6
@@ -53,7 +56,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [165th, 2024-01-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/303), joined 5
 - [164th, 2024-01-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/301), joined 7
 
-## 2023 4Q meet up list
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2023년 4Q</summary>
+<p>
 
 - [163th, 2023-12-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/299), joined 3
 - [162th, 2023-12-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/297), joined 4
@@ -69,9 +78,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [152th, 2023-10-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/277), joined 6
 - [151th, 2023-10-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/274), joined 2
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2023년 3Q</summary>
@@ -331,38 +339,38 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|15|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|15|
-|3|[TaeWon](https://github.com/ytw9699/)|13|
-|4|[yeslee-v](https://github.com/yeslee-v/)|11|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|16|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|16|
+|3|[TaeWon](https://github.com/ytw9699/)|14|
+|4|[yeslee-v](https://github.com/yeslee-v/)|12|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|10|
 |6|[Jiyun Yun](https://github.com/jeeyn)|9|
-|7|[Byeongguk Ahn](https://github.com/nonoaa/)|6|
-|8|[YeongKwonMo](https://github.com/momoci99/)|5|
+|7|[Byeongguk Ahn](https://github.com/nonoaa/)|7|
+|8|[YeongKwonMo](https://github.com/momoci99/)|6|
 |9|[soo:bak](https://github.com/soo-bak)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|176|
-|2|[chichoon](https://github.com/chichoon)|105|
-|3|[yeslee-v](https://github.com/yeslee-v/)|45|
+|1|[jongfeel](https://github.com/jongfeel/)|177|
+|2|[chichoon](https://github.com/chichoon)|106|
+|3|[yeslee-v](https://github.com/yeslee-v/)|46|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|41|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |6|[hi-hyein](https://github.com/hi-hyein/)|30|
-|7|[TaeWon](https://github.com/ytw9699/)|24|
+|7|[TaeWon](https://github.com/ytw9699/)|25|
 |8|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |9|[JSY8869](https://github.com/JSY8869/)|21|
-|10|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
-|11|[YeongKwonMo](https://github.com/momoci99/)|20|
+|10|[YeongKwonMo](https://github.com/momoci99/)|21|
+|11|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |12|[exgs](https://github.com/exgs)|19|
 |13|[fora22](https://github.com/fora22/)|19|
 |14|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|15|[yoonucho](https://github.com/yoonucho/)|14|
-|16|[wisdom08](https://github.com/wisdom08/)|14|
-|17|[soo:bak](https://github.com/soo-bak)|14|
-|18|[Byeongguk Ahn](https://github.com/nonoaa/)|14|
+|15|[Byeongguk Ahn](https://github.com/nonoaa/)|15|
+|16|[yoonucho](https://github.com/yoonucho/)|14|
+|17|[wisdom08](https://github.com/wisdom08/)|14|
+|18|[soo:bak](https://github.com/soo-bak)|14|
 |19|[hyunhye](https://github.com/zoepark21/)|12|
 |20|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |21|[ErigoLee](https://github.com/ErigoLee/)|11|
