@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2024 2Q meet up list
 
-- [180th, 2024-04-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/334), will be open
+- [181th, 2024-05-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/336), will be open
+- [180th, 2024-04-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/334), joined 3
 - [179th, 2024-04-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/332), joined 6
 - [178th, 2024-04-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/330), joined 5
 - [177th, 2024-04-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/328), joined 6
@@ -339,9 +340,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|16|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|16|
-|3|[TaeWon](https://github.com/ytw9699/)|14|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|17|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|17|
+|3|[TaeWon](https://github.com/ytw9699/)|15|
 |4|[yeslee-v](https://github.com/yeslee-v/)|12|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|10|
 |6|[Jiyun Yun](https://github.com/jeeyn)|9|
@@ -353,13 +354,13 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|177|
-|2|[chichoon](https://github.com/chichoon)|106|
+|1|[jongfeel](https://github.com/jongfeel/)|178|
+|2|[chichoon](https://github.com/chichoon)|107|
 |3|[yeslee-v](https://github.com/yeslee-v/)|46|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|41|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |6|[hi-hyein](https://github.com/hi-hyein/)|30|
-|7|[TaeWon](https://github.com/ytw9699/)|25|
+|7|[TaeWon](https://github.com/ytw9699/)|26|
 |8|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |9|[JSY8869](https://github.com/JSY8869/)|21|
 |10|[YeongKwonMo](https://github.com/momoci99/)|21|
