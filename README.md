@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2024 2Q meet up list
 
-- [181th, 2024-05-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/336), will be open
+- [182th, 2024-05-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/338), will be open
+- [181th, 2024-05-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/336), joined 7
 - [180th, 2024-04-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/334), joined 3
 - [179th, 2024-04-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/332), joined 6
 - [178th, 2024-04-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/330), joined 5
@@ -340,44 +341,44 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|17|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|17|
-|3|[TaeWon](https://github.com/ytw9699/)|15|
-|4|[yeslee-v](https://github.com/yeslee-v/)|12|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|18|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|18|
+|3|[TaeWon](https://github.com/ytw9699/)|16|
+|4|[yeslee-v](https://github.com/yeslee-v/)|13|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|10|
-|6|[Jiyun Yun](https://github.com/jeeyn)|9|
-|7|[Byeongguk Ahn](https://github.com/nonoaa/)|7|
-|8|[YeongKwonMo](https://github.com/momoci99/)|6|
+|6|[Jiyun Yun](https://github.com/jeeyn)|10|
+|7|[Byeongguk Ahn](https://github.com/nonoaa/)|8|
+|8|[YeongKwonMo](https://github.com/momoci99/)|7|
 |9|[soo:bak](https://github.com/soo-bak)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|178|
-|2|[chichoon](https://github.com/chichoon)|107|
-|3|[yeslee-v](https://github.com/yeslee-v/)|46|
+|1|[jongfeel](https://github.com/jongfeel/)|179|
+|2|[chichoon](https://github.com/chichoon)|108|
+|3|[yeslee-v](https://github.com/yeslee-v/)|47|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|41|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |6|[hi-hyein](https://github.com/hi-hyein/)|30|
-|7|[TaeWon](https://github.com/ytw9699/)|26|
-|8|[eunyeong-so](https://github.com/eunyeong-so/)|21|
-|9|[JSY8869](https://github.com/JSY8869/)|21|
-|10|[YeongKwonMo](https://github.com/momoci99/)|21|
+|7|[TaeWon](https://github.com/ytw9699/)|27|
+|8|[YeongKwonMo](https://github.com/momoci99/)|22|
+|9|[eunyeong-so](https://github.com/eunyeong-so/)|21|
+|10|[JSY8869](https://github.com/JSY8869/)|21|
 |11|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |12|[exgs](https://github.com/exgs)|19|
 |13|[fora22](https://github.com/fora22/)|19|
 |14|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|15|[Byeongguk Ahn](https://github.com/nonoaa/)|15|
+|15|[Byeongguk Ahn](https://github.com/nonoaa/)|16|
 |16|[yoonucho](https://github.com/yoonucho/)|14|
 |17|[wisdom08](https://github.com/wisdom08/)|14|
 |18|[soo:bak](https://github.com/soo-bak)|14|
 |19|[hyunhye](https://github.com/zoepark21/)|12|
-|20|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
-|21|[ErigoLee](https://github.com/ErigoLee/)|11|
-|22|[ellen310](https://github.com/ellen310/)|11|
-|23|[ohdair](https://github.com/ohdair/)|11|
-|24|[Jiyun Yun](https://github.com/jeeyn)|11|
+|20|[Jiyun Yun](https://github.com/jeeyn)|12|
+|21|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
+|22|[ErigoLee](https://github.com/ErigoLee/)|11|
+|23|[ellen310](https://github.com/ellen310/)|11|
+|24|[ohdair](https://github.com/ohdair/)|11|
 |25|[Arat5724](https://github.com/Arat5724/)|8|
 |26|[IWON LEE](https://github.com/walnutpie314/)|5|
 |27|[kimpitang](https://github.com/kimpitang/)|3|
