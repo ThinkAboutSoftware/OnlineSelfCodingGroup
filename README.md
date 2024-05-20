@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2024 2Q meet up list
 
-- [183th, 2024-05-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/340), will be open
+- [184th, 2024-05-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/342), will be open
+- [183th, 2024-05-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/340), joined 5
 - [182th, 2024-05-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/338), joined 5
 - [181th, 2024-05-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/336), joined 7
 - [180th, 2024-04-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/334), joined 3
@@ -342,28 +343,28 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|18|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|18|
-|3|[TaeWon](https://github.com/ytw9699/)|16|
-|4|[yeslee-v](https://github.com/yeslee-v/)|13|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|19|
+|2|[Ji Yoon Choi](https://github.com/chichoon/)|19|
+|3|[TaeWon](https://github.com/ytw9699/)|17|
+|4|[yeslee-v](https://github.com/yeslee-v/)|14|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|10|
 |6|[Jiyun Yun](https://github.com/jeeyn)|10|
 |7|[Byeongguk Ahn](https://github.com/nonoaa/)|8|
-|8|[YeongKwonMo](https://github.com/momoci99/)|7|
+|8|[YeongKwonMo](https://github.com/momoci99/)|8|
 |9|[soo:bak](https://github.com/soo-bak)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|179|
-|2|[chichoon](https://github.com/chichoon)|108|
-|3|[yeslee-v](https://github.com/yeslee-v/)|47|
+|1|[jongfeel](https://github.com/jongfeel/)|180|
+|2|[chichoon](https://github.com/chichoon)|109|
+|3|[yeslee-v](https://github.com/yeslee-v/)|48|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|41|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |6|[hi-hyein](https://github.com/hi-hyein/)|30|
-|7|[TaeWon](https://github.com/ytw9699/)|27|
-|8|[YeongKwonMo](https://github.com/momoci99/)|22|
+|7|[TaeWon](https://github.com/ytw9699/)|28|
+|8|[YeongKwonMo](https://github.com/momoci99/)|23|
 |9|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |10|[JSY8869](https://github.com/JSY8869/)|21|
 |11|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
