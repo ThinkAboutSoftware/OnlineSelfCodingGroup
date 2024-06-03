@@ -345,23 +345,24 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|21|
-|2|[Ji Yoon Choi](https://github.com/chichoon/)|21|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|22|
+|2|[최지윤](https://github.com/chichoon/)|22|
 |3|[TaeWon](https://github.com/ytw9699/)|19|
-|4|[yeslee-v](https://github.com/yeslee-v/)|15|
+|4|[Yeshin Lee](https://github.com/yeslee-v/)|16|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|11|
 |6|[Jiyun Yun](https://github.com/jeeyn)|10|
-|7|[Byeongguk Ahn](https://github.com/nonoaa/)|9|
+|7|[Byeongguk Ahn](https://github.com/nonoaa/)|10|
 |8|[YeongKwonMo](https://github.com/momoci99/)|8|
 |9|[soo:bak](https://github.com/soo-bak)|1|
+|10|[Jaewoo Park](https://github.com/ohdair/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|182|
-|2|[chichoon](https://github.com/chichoon)|111|
-|3|[yeslee-v](https://github.com/yeslee-v/)|49|
+|1|[jongfeel](https://github.com/jongfeel/)|183|
+|2|[chichoon](https://github.com/chichoon)|112|
+|3|[yeslee-v](https://github.com/yeslee-v/)|50|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|42|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |6|[hi-hyein](https://github.com/hi-hyein/)|30|
@@ -372,17 +373,17 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |11|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |12|[exgs](https://github.com/exgs)|19|
 |13|[fora22](https://github.com/fora22/)|19|
-|14|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|15|[Byeongguk Ahn](https://github.com/nonoaa/)|17|
+|14|[Byeongguk Ahn](https://github.com/nonoaa/)|18|
+|15|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
 |16|[yoonucho](https://github.com/yoonucho/)|14|
 |17|[wisdom08](https://github.com/wisdom08/)|14|
 |18|[soo:bak](https://github.com/soo-bak)|14|
 |19|[hyunhye](https://github.com/zoepark21/)|12|
 |20|[Jiyun Yun](https://github.com/jeeyn)|12|
-|21|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
-|22|[ErigoLee](https://github.com/ErigoLee/)|11|
-|23|[ellen310](https://github.com/ellen310/)|11|
-|24|[ohdair](https://github.com/ohdair/)|11|
+|21|[ohdair](https://github.com/ohdair/)|12|
+|22|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
+|23|[ErigoLee](https://github.com/ErigoLee/)|11|
+|24|[ellen310](https://github.com/ellen310/)|11|
 |25|[Arat5724](https://github.com/Arat5724/)|8|
 |26|[IWON LEE](https://github.com/walnutpie314/)|5|
 |27|[kimpitang](https://github.com/kimpitang/)|3|
