@@ -347,40 +347,40 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|23|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|24|
 |2|[최지윤](https://github.com/chichoon/)|23|
-|3|[TaeWon](https://github.com/ytw9699/)|19|
-|4|[Yeshin Lee](https://github.com/yeslee-v/)|17|
+|3|[TaeWon](https://github.com/ytw9699/)|20|
+|4|[Yeshin Lee](https://github.com/yeslee-v/)|18|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|11|
-|6|[Jiyun Yun](https://github.com/jeeyn)|10|
-|7|[Byeongguk Ahn](https://github.com/nonoaa/)|10|
+|6|[Byeongguk Ahn](https://github.com/nonoaa/)|11|
+|7|[Jiyun Yun](https://github.com/jeeyn)|10|
 |8|[YeongKwonMo](https://github.com/momoci99/)|8|
-|9|[Jaewoo Park](https://github.com/ohdair/)|2|
-|10|[soo:bak](https://github.com/soo-bak)|1|
+|9|[Jaewoo Park](https://github.com/ohdair/)|3|
+|10|[soo:bak](https://github.com/soo-bak)|2|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|184|
+|1|[jongfeel](https://github.com/jongfeel/)|185|
 |2|[최지윤](https://github.com/chichoon)|113|
-|3|[yeslee-v](https://github.com/yeslee-v/)|51|
+|3|[yeslee-v](https://github.com/yeslee-v/)|52|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|42|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|6|[hi-hyein](https://github.com/hi-hyein/)|30|
-|7|[TaeWon](https://github.com/ytw9699/)|30|
+|6|[TaeWon](https://github.com/ytw9699/)|31|
+|7|[hi-hyein](https://github.com/hi-hyein/)|30|
 |8|[YeongKwonMo](https://github.com/momoci99/)|23|
 |9|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |10|[JSY8869](https://github.com/JSY8869/)|21|
 |11|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |12|[exgs](https://github.com/exgs)|19|
 |13|[fora22](https://github.com/fora22/)|19|
-|14|[Byeongguk Ahn](https://github.com/nonoaa/)|18|
+|14|[Byeongguk Ahn](https://github.com/nonoaa/)|19|
 |15|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|16|[yoonucho](https://github.com/yoonucho/)|14|
-|17|[wisdom08](https://github.com/wisdom08/)|14|
-|18|[soo:bak](https://github.com/soo-bak)|14|
-|19|[Jaewoo Park](https://github.com/ohdair/)|13|
+|16|[soo:bak](https://github.com/soo-bak)|15|
+|17|[yoonucho](https://github.com/yoonucho/)|14|
+|18|[wisdom08](https://github.com/wisdom08/)|14|
+|19|[Jaewoo Park](https://github.com/ohdair/)|14|
 |20|[hyunhye](https://github.com/zoepark21/)|12|
 |21|[Jiyun Yun](https://github.com/jeeyn)|12|
 |22|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
