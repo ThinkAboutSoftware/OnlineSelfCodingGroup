@@ -349,12 +349,12 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|25|
-|2|[최지윤](https://github.com/chichoon/)|24|
-|3|[TaeWon](https://github.com/ytw9699/)|21|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|26|
+|2|[최지윤](https://github.com/chichoon/)|25|
+|3|[TaeWon](https://github.com/ytw9699/)|22|
 |4|[Yeshin Lee](https://github.com/yeslee-v/)|19|
-|5|[Jeongan Lee](https://github.com/fkdl0048/)|11|
-|6|[Byeongguk Ahn](https://github.com/nonoaa/)|11|
+|5|[Byeongguk Ahn](https://github.com/nonoaa/)|12|
+|6|[Jeongan Lee](https://github.com/fkdl0048/)|11|
 |7|[Jiyun Yun](https://github.com/jeeyn)|10|
 |8|[YeongKwonMo](https://github.com/momoci99/)|8|
 |9|[Jaewoo Park](https://github.com/ohdair/)|3|
@@ -364,20 +364,20 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|186|
-|2|[최지윤](https://github.com/chichoon)|114|
+|1|[jongfeel](https://github.com/jongfeel/)|187|
+|2|[최지윤](https://github.com/chichoon)|115|
 |3|[yeslee-v](https://github.com/yeslee-v/)|53|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|42|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|6|[TaeWon](https://github.com/ytw9699/)|32|
+|6|[TaeWon](https://github.com/ytw9699/)|33|
 |7|[hi-hyein](https://github.com/hi-hyein/)|30|
 |8|[YeongKwonMo](https://github.com/momoci99/)|23|
 |9|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |10|[JSY8869](https://github.com/JSY8869/)|21|
 |11|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
-|12|[exgs](https://github.com/exgs)|19|
-|13|[fora22](https://github.com/fora22/)|19|
-|14|[Byeongguk Ahn](https://github.com/nonoaa/)|19|
+|12|[Byeongguk Ahn](https://github.com/nonoaa/)|20|
+|13|[exgs](https://github.com/exgs)|19|
+|14|[fora22](https://github.com/fora22/)|19|
 |15|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
 |16|[soo:bak](https://github.com/soo-bak)|15|
 |17|[yoonucho](https://github.com/yoonucho/)|14|
