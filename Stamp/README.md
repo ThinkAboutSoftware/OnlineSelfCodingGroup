@@ -26,9 +26,11 @@
 
 | Name | 07-06 (190th) | 07-13 (191th) | 07-20 (192th) | 07-27 (193th) | 08-03 (194th) | 08-10 (195th) | 08-17 (196th) | 08-24 (197th) | 08-31 (198th) | 09-07 (199th) | 09-14 (200th) | 09-21 (201th) | 09-28 (202th) |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/354#issuecomment-2211568040"><img src="approved_2021_3Q.png"/></a> | 
-| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/354#issuecomment-2211551673"><img src="approved_2021_3Q.png"/>book 18/20</a> | 
-| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/354#issuecomment-2210759316"><img src="approved_2021_3Q.png"/>book 8/20</a> | 
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/354#issuecomment-2211568040"><img src="approved_2021_3Q.png"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/356#issuecomment-2226695841"><img src="approved_2021_3Q.png"/></a> | 
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/354#issuecomment-2211551673"><img src="approved_2021_3Q.png"/>book 18/20</a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/356#issuecomment-2226671128"><img src="approved_2021_3Q.png"/>book 19/20</a> | 
+| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/354#issuecomment-2210759316"><img src="approved_2021_3Q.png"/>book 8/20</a> | <a href="hhttps://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/356#issuecomment-2217440852"><img src="approved_2021_3Q.png"/>book 9/20</a> | 
+| [Byeongguk Ahn](https://github.com/nonoaa/) | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/356#issuecomment-2226671504"><img src="approved_2021_3Q.png"/>book 1/20</a> | 
+| [Jeongan Lee](https://github.com/fkdl0048/) | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/356#issuecomment-2226292371"><img src="approved_2021_3Q.png"/>book 17/20</a> | 
 | [Jaewoo Park](https://github.com/ohdair/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/354#issuecomment-2211552137"><img src="approved_2021_3Q.png"/>book 4/20</a> | 
 
 ### 2024 2Q, 04-06 (177th) ~ 06-29 (189th)
