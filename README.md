@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2024 3Q meetup list
 
-- [193th, 2024-07-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/359), will be open
+- [194th, 2024-08-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/362), will be open
+- [193th, 2024-07-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/359), joined 5
 - [192th, 2024-07-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/358), joined 4
 - [191th, 2024-07-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/356), joined 5
 - [190th, 2024-07-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/354), joined 4
@@ -360,10 +361,10 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|28|
-|2|[최지윤](https://github.com/chichoon/)|27|
-|3|[TaeWon](https://github.com/ytw9699/)|22|
-|4|[Yeshin Lee](https://github.com/yeslee-v/)|21|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|29|
+|2|[최지윤](https://github.com/chichoon/)|28|
+|3|[TaeWon](https://github.com/ytw9699/)|23|
+|4|[Yeshin Lee](https://github.com/yeslee-v/)|22|
 |5|[Byeongguk Ahn](https://github.com/nonoaa/)|13|
 |6|[Jeongan Lee](https://github.com/fkdl0048/)|12|
 |7|[Jiyun Yun](https://github.com/jeeyn)|10|
@@ -375,12 +376,12 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|189|
-|2|[최지윤](https://github.com/chichoon)|117|
-|3|[yeslee-v](https://github.com/yeslee-v/)|55|
+|1|[jongfeel](https://github.com/jongfeel/)|190|
+|2|[최지윤](https://github.com/chichoon)|118|
+|3|[yeslee-v](https://github.com/yeslee-v/)|56|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|43|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|6|[TaeWon](https://github.com/ytw9699/)|33|
+|6|[TaeWon](https://github.com/ytw9699/)|34|
 |7|[hi-hyein](https://github.com/hi-hyein/)|30|
 |8|[YeongKwonMo](https://github.com/momoci99/)|23|
 |9|[eunyeong-so](https://github.com/eunyeong-so/)|21|
