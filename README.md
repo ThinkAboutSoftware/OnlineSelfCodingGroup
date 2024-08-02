@@ -361,11 +361,11 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|29|
-|2|[최지윤](https://github.com/chichoon/)|28|
-|3|[TaeWon](https://github.com/ytw9699/)|23|
-|4|[Yeshin Lee](https://github.com/yeslee-v/)|22|
-|5|[Byeongguk Ahn](https://github.com/nonoaa/)|13|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|30|
+|2|[최지윤](https://github.com/chichoon/)|29|
+|3|[TaeWon](https://github.com/ytw9699/)|24|
+|4|[Yeshin Lee](https://github.com/yeslee-v/)|23|
+|5|[Byeongguk Ahn](https://github.com/nonoaa/)|14|
 |6|[Jeongan Lee](https://github.com/fkdl0048/)|12|
 |7|[Jiyun Yun](https://github.com/jeeyn)|10|
 |8|[YeongKwonMo](https://github.com/momoci99/)|8|
@@ -376,17 +376,17 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|190|
-|2|[최지윤](https://github.com/chichoon)|118|
-|3|[yeslee-v](https://github.com/yeslee-v/)|56|
+|1|[jongfeel](https://github.com/jongfeel/)|191|
+|2|[최지윤](https://github.com/chichoon)|119|
+|3|[yeslee-v](https://github.com/yeslee-v/)|57|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|43|
 |5|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|6|[TaeWon](https://github.com/ytw9699/)|34|
+|6|[TaeWon](https://github.com/ytw9699/)|35|
 |7|[hi-hyein](https://github.com/hi-hyein/)|30|
 |8|[YeongKwonMo](https://github.com/momoci99/)|23|
-|9|[eunyeong-so](https://github.com/eunyeong-so/)|21|
-|10|[JSY8869](https://github.com/JSY8869/)|21|
-|11|[Byeongguk Ahn](https://github.com/nonoaa/)|21|
+|9|[Byeongguk Ahn](https://github.com/nonoaa/)|22|
+|10|[eunyeong-so](https://github.com/eunyeong-so/)|21|
+|11|[JSY8869](https://github.com/JSY8869/)|21|
 |12|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |13|[exgs](https://github.com/exgs)|19|
 |14|[fora22](https://github.com/fora22/)|19|
