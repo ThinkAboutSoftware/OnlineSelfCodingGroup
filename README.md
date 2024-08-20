@@ -364,25 +364,26 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|32|
-|2|[최지윤](https://github.com/chichoon/)|31|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|33|
+|2|[최지윤](https://github.com/chichoon/)|32|
 |3|[TaeWon](https://github.com/ytw9699/)|25|
-|4|[Yeshin Lee](https://github.com/yeslee-v/)|24|
+|4|[Yeshin Lee](https://github.com/yeslee-v/)|25|
 |5|[Byeongguk Ahn](https://github.com/nonoaa/)|15|
 |6|[Jeongan Lee](https://github.com/fkdl0048/)|13|
 |7|[Jiyun Yun](https://github.com/jeeyn)|10|
 |8|[YeongKwonMo](https://github.com/momoci99/)|8|
 |9|[Jaewoo Park](https://github.com/ohdair/)|5|
 |10|[soo:bak](https://github.com/soo-bak)|2|
-|11|[hyuncho](https://github.com/aquamagic9)|1|
+|11|[hyuncho](https://github.com/aquamagic9)|2|
+|12|[진태영](https://github.com/jintaeyeong)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|193|
-|2|[최지윤](https://github.com/chichoon)|121|
-|3|[yeslee-v](https://github.com/yeslee-v/)|58|
+|1|[jongfeel](https://github.com/jongfeel/)|194|
+|2|[최지윤](https://github.com/chichoon)|122|
+|3|[yeslee-v](https://github.com/yeslee-v/)|59|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|44|
 |5|[TaeWon](https://github.com/ytw9699/)|36|
 |6|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
@@ -406,7 +407,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |24|[ellen310](https://github.com/ellen310/)|11|
 |25|[Arat5724](https://github.com/Arat5724/)|8|
 |26|[IWON LEE](https://github.com/walnutpie314/)|5|
-|27|[hyuncho](https://github.com/aquamagic9/)|4|
+|27|[hyuncho](https://github.com/aquamagic9/)|5|
 |28|[kimpitang](https://github.com/kimpitang/)|3|
 |29|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |30|[seoyoungit](https://github.com/seoyoungit/)|3|
@@ -424,6 +425,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |42|[SooimChoi](https://github.com/leechoiswim1/)|1|
 |43|[cyhcyh100](https://github.com/cyhcyh100/)|1|
 |44|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
+|45|[진태영](https://github.com/jintaeyeong)|1|
 
 ### Ranking history
 
