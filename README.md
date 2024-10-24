@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2024 4Q meetup list
 
-- [205th, 2024-10-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/383), will be open
+- [206th, 2024-10-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/386), will be open
+- [205th, 2024-10-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/383), joined 3
 - [204th, 2024-10-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/382), joined 6
 - [203th, 2024-10-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/380), joined 6
 
@@ -380,15 +381,15 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|41|
-|2|[최지윤](https://github.com/chichoon/)|39|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|42|
+|2|[최지윤](https://github.com/chichoon/)|40|
 |3|[Yeshin Lee](https://github.com/yeslee-v/)|33|
 |4|[TaeWon](https://github.com/ytw9699/)|25|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|17|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|17|
 |7|[Jiyun Yun](https://github.com/jeeyn)|10|
 |8|[Jaewoo Park](https://github.com/ohdair/)|10|
-|9|[hyuncho](https://github.com/aquamagic9)|9|
+|9|[hyuncho](https://github.com/aquamagic9)|10|
 |10|[YeongKwonMo](https://github.com/momoci99/)|8|
 |11|[soo:bak](https://github.com/soo-bak)|2|
 |12|[진태영](https://github.com/jintaeyeong)|3|
@@ -398,8 +399,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|202|
-|2|[최지윤](https://github.com/chichoon)|129|
+|1|[jongfeel](https://github.com/jongfeel/)|203|
+|2|[최지윤](https://github.com/chichoon)|130|
 |3|[yeslee-v](https://github.com/yeslee-v/)|67|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|48|
 |5|[TaeWon](https://github.com/ytw9699/)|36|
@@ -417,9 +418,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |17|[soo:bak](https://github.com/soo-bak)|15|
 |18|[yoonucho](https://github.com/yoonucho/)|14|
 |19|[wisdom08](https://github.com/wisdom08/)|14|
-|20|[hyunhye](https://github.com/zoepark21/)|12|
-|21|[Jiyun Yun](https://github.com/jeeyn)|12|
-|22|[hyuncho](https://github.com/aquamagic9/)|12|
+|20|[hyuncho](https://github.com/aquamagic9/)|13|
+|21|[hyunhye](https://github.com/zoepark21/)|12|
+|22|[Jiyun Yun](https://github.com/jeeyn)|12|
 |23|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |24|[ErigoLee](https://github.com/ErigoLee/)|11|
 |25|[ellen310](https://github.com/ellen310/)|11|
