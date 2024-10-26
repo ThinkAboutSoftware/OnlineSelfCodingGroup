@@ -22,7 +22,7 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
-### 2024 3Q, 07-06 (190th) ~ 03-30 (176th)
+### 2024 4Q, 10-05 (203th) ~ 12-28 (215th)
 
 | Name | 10-05 (203th) | 10-12 (204th) | 10-19 (205th) | 10-26 (206th) | 11-02 (207th) | 11-09 (208th) | 11-16 (209th) | 11-23 (210th) | 11-30 (211th) | 12-07 (212th) | [12-14 (213th)](https://github.com/ThinkAboutSoftware/HomeComingDay/issues/50) | 12-21 (214th) | 12-28 (215th) |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
@@ -34,7 +34,7 @@
 | [Park ChulHwan](https://github.com/Chul-Hwan) | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/382#issuecomment-2406926668"><img src="approved.png"/>book 1/20</a> |
 | [Byeongguk Ahn](https://github.com/nonoaa/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/380#issuecomment-2394850016"><img src="approved.png"/>book 5/20</a> |
 
-### 2024 3Q, 07-06 (190th) ~ 03-30 (176th)
+### 2024 3Q, 07-06 (190th) ~ 09-28 (202th)
 
 | Name | 07-06 (190th) | 07-13 (191th) | 07-20 (192th) | 07-27 (193th) | 08-03 (194th) | 08-10 (195th) | 08-17 (196th) | 08-24 (197th) | 08-31 (198th) | 09-07 (199th) | 09-14 (200th) | 09-21 (201th) | 09-28 (202th) |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
