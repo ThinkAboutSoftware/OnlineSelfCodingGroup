@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2024 4Q meetup list
 
-- [207th, 2024-11-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/389), will be open
+- [208th, 2024-11-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/391), will be open
+- [207th, 2024-11-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/389), joined 2
 - [206th, 2024-10-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/386), joined 3
 - [205th, 2024-10-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/383), joined 3
 - [204th, 2024-10-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/382), joined 6
@@ -382,15 +383,15 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|43|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|44|
 |2|[최지윤](https://github.com/chichoon/)|40|
 |3|[Yeshin Lee](https://github.com/yeslee-v/)|34|
 |4|[TaeWon](https://github.com/ytw9699/)|25|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|17|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|17|
-|7|[Jiyun Yun](https://github.com/jeeyn)|10|
-|8|[Jaewoo Park](https://github.com/ohdair/)|10|
-|9|[hyuncho](https://github.com/aquamagic9)|10|
+|7|[hyuncho](https://github.com/aquamagic9)|11|
+|8|[Jiyun Yun](https://github.com/jeeyn)|10|
+|9|[Jaewoo Park](https://github.com/ohdair/)|10|
 |10|[YeongKwonMo](https://github.com/momoci99/)|8|
 |11|[진태영](https://github.com/jintaeyeong)|4|
 |12|[soo:bak](https://github.com/soo-bak)|2|
@@ -400,7 +401,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|204|
+|1|[jongfeel](https://github.com/jongfeel/)|205|
 |2|[최지윤](https://github.com/chichoon)|130|
 |3|[yeslee-v](https://github.com/yeslee-v/)|68|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|48|
@@ -419,7 +420,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |17|[soo:bak](https://github.com/soo-bak)|15|
 |18|[yoonucho](https://github.com/yoonucho/)|14|
 |19|[wisdom08](https://github.com/wisdom08/)|14|
-|20|[hyuncho](https://github.com/aquamagic9/)|13|
+|20|[hyuncho](https://github.com/aquamagic9/)|14|
 |21|[hyunhye](https://github.com/zoepark21/)|12|
 |22|[Jiyun Yun](https://github.com/jeeyn)|12|
 |23|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
