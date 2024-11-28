@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2024 4Q meetup list
 
-- [210th, 2024-11-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/395), will be open
+- [211th, 2024-11-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/397), will be open
+- [210th, 2024-11-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/395), joined 4
 - [209th, 2024-11-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/393), joined 4
 - [208th, 2024-11-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/391), joined 4
 - [207th, 2024-11-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/389), joined 2
@@ -385,13 +386,13 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|46|
-|2|[최지윤](https://github.com/chichoon/)|41|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|36|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|47|
+|2|[최지윤](https://github.com/chichoon/)|42|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|37|
 |4|[TaeWon](https://github.com/ytw9699/)|25|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|17|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|17|
-|7|[hyuncho](https://github.com/aquamagic9)|13|
+|7|[hyuncho](https://github.com/aquamagic9)|14|
 |8|[Jaewoo Park](https://github.com/ohdair/)|11|
 |9|[Jiyun Yun](https://github.com/jeeyn)|10|
 |10|[YeongKwonMo](https://github.com/momoci99/)|8|
