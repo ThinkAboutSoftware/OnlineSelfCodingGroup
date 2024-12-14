@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2024 4Q meetup list
 
-- [211th, 2024-11-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/397), will be open
+- [212th, 2024-11-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/399), will be open
+- [211th, 2024-11-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/397), joined 5
 - [210th, 2024-11-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/395), joined 4
 - [209th, 2024-11-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/393), joined 4
 - [208th, 2024-11-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/391), joined 4
@@ -386,14 +387,14 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|47|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|48|
 |2|[최지윤](https://github.com/chichoon/)|42|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|37|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|39|
 |4|[TaeWon](https://github.com/ytw9699/)|25|
-|5|[Jeongan Lee](https://github.com/fkdl0048/)|17|
+|5|[Jeongan Lee](https://github.com/fkdl0048/)|18|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|17|
-|7|[hyuncho](https://github.com/aquamagic9)|14|
-|8|[Jaewoo Park](https://github.com/ohdair/)|11|
+|7|[hyuncho](https://github.com/aquamagic9)|13|
+|8|[Jaewoo Park](https://github.com/ohdair/)|12|
 |9|[Jiyun Yun](https://github.com/jeeyn)|10|
 |10|[YeongKwonMo](https://github.com/momoci99/)|8|
 |11|[진태영](https://github.com/jintaeyeong)|4|
@@ -404,23 +405,23 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|207|
+|1|[jongfeel](https://github.com/jongfeel/)|208|
 |2|[최지윤](https://github.com/chichoon)|131|
-|3|[yeslee-v](https://github.com/yeslee-v/)|70|
-|4|[Jeongan Lee](https://github.com/fkdl0048/)|48|
+|3|[yeslee-v](https://github.com/yeslee-v/)|71|
+|4|[Jeongan Lee](https://github.com/fkdl0048/)|49|
 |5|[TaeWon](https://github.com/ytw9699/)|36|
 |6|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |7|[hi-hyein](https://github.com/hi-hyein/)|30|
 |8|[Byeongguk Ahn](https://github.com/nonoaa/)|25|
 |9|[YeongKwonMo](https://github.com/momoci99/)|23|
-|10|[Jaewoo Park](https://github.com/ohdair/)|22|
+|10|[Jaewoo Park](https://github.com/ohdair/)|23|
 |11|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |12|[JSY8869](https://github.com/JSY8869/)|21|
 |13|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |14|[exgs](https://github.com/exgs)|19|
 |15|[fora22](https://github.com/fora22/)|19|
 |16|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|17|[hyuncho](https://github.com/aquamagic9/)|16|
+|17|[hyuncho](https://github.com/aquamagic9/)|17|
 |18|[soo:bak](https://github.com/soo-bak)|15|
 |19|[yoonucho](https://github.com/yoonucho/)|14|
 |20|[wisdom08](https://github.com/wisdom08/)|14|
