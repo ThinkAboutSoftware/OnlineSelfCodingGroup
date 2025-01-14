@@ -33,9 +33,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
+## 2025 1Q meetup list
+
+- [216th, 2024-01-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407), will be open
+
 ## 2024 4Q meetup list
 
-- [215th, 2024-12-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407), will be open
+- [215th, 2024-12-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/406), joined 5
 - [214th, 2024-12-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/405), joined 4
 - [213th, 2024-12-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/400), joined 2
 - [212th, 2024-12-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/399), joined 3
@@ -390,20 +394,21 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|51|
-|2|[최지윤](https://github.com/chichoon/)|44|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|52|
+|2|[최지윤](https://github.com/chichoon/)|45|
 |3|[Yeshin Lee](https://github.com/yeslee-v/)|39|
 |4|[TaeWon](https://github.com/ytw9699/)|25|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|18|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|18|
-|7|[hyuncho](https://github.com/aquamagic9)|15|
+|7|[hyuncho](https://github.com/aquamagic9)|16|
 |8|[Jaewoo Park](https://github.com/ohdair/)|12|
 |9|[Jiyun Yun](https://github.com/jeeyn)|10|
 |10|[YeongKwonMo](https://github.com/momoci99/)|8|
 |11|[진태영](https://github.com/jintaeyeong)|4|
 |12|[soo:bak](https://github.com/soo-bak)|2|
-|13|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
-|14|[김지수](https://github.com/tttghost)|1|
+|13|[김지수](https://github.com/tttghost)|2|
+|14|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
+|15|[junmokang](https://github.com/moaoh)|1|
 
 ### All from first to present
 
