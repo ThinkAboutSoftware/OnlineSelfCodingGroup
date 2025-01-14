@@ -22,6 +22,18 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2025 1Q, 01-04 (216th) ~ 03-30 (176th)
+
+| Name    | 01-04 (216th) | 01-11 (217th) | 01-18 (218th) | 01-25 (219th) | 02-01 (220th) | 02-08 (221th) | 02-15 (222th) | 02-22 (223th) | 03-01 (224th) | 03-08 (225th) | 03-15 (226th) | 03-22 (227th) | 03-29 (228th) |
+|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407#issuecomment-2566481827"><img src="approved_1Q.png"/></a> | 
+| [hyuncho](https://github.com/aquamagic9/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407#issuecomment-2569523121"><img src="approved_1Q.png"/>book 19/20</a> | 
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407#issuecomment-2569995188"><img src="approved_1Q.png"/>book 18/20</a> | 
+| [junmokang](https://github.com/moaoh/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407#issuecomment-2569986399"><img src="approved_1Q.png"/>book 2/20</a> | 
+| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407#issuecomment-2570009475"><img src="approved_1Q.png"/>book 7/20</a> | 
+| [Park ChulHwan](https://github.com/Chul-Hwan) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407#issuecomment-2569888758"><img src="approved_1Q.png"/>book 2/20</a> | 
+| [TaeWon](https://github.com/ytw9699/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407#issuecomment-2569989425"><img src="approved_1Q.png"/>book 8/20</a> | 
+
 ### 2024 4Q, 10-05 (203th) ~ 12-28 (215th)
 
 | Name | 10-05 (203th) | 10-12 (204th) | 10-19 (205th) | 10-26 (206th) | 11-02 (207th) | 11-09 (208th) | 11-16 (209th) | 11-23 (210th) | 11-30 (211th) | 12-07 (212th) | [12-14 (213th)](https://github.com/ThinkAboutSoftware/HomeComingDay/issues/50) | 12-21 (214th) | 12-28 (215th) |
