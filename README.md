@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2025 1Q meetup list
 
-- [216th, 2024-01-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407), will be open
+- [217th, 2024-01-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/408), will be open
+- [216th, 2024-01-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407), joined 7
 
 ## 2024 4Q meetup list
 
@@ -53,7 +54,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [204th, 2024-10-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/382), joined 6
 - [203th, 2024-10-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/380), joined 6
 
-## 2024 3Q meetup list
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2024년 3Q</summary>
+<p>
 
 - [202th, 2024-09-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/379), joined 6
 - [201th, 2024-09-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/377), joined 6
@@ -69,9 +76,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [191th, 2024-07-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/356), joined 5
 - [190th, 2024-07-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/354), joined 4
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2024년 2Q</summary>
@@ -387,28 +393,20 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## Ranking
 
-### Ranking 2024, 164th to 215th
+### Ranking 2025, 216th to 267th
 
-Top 2, 3, 4 ranked winner get prize from home coming day 2024
+Top 2, 3, 4 ranked winner get prize from home coming day 2025
 and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|52|
-|2|[최지윤](https://github.com/chichoon/)|45|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|39|
-|4|[TaeWon](https://github.com/ytw9699/)|25|
-|5|[Jeongan Lee](https://github.com/fkdl0048/)|18|
-|6|[Byeongguk Ahn](https://github.com/nonoaa/)|18|
-|7|[hyuncho](https://github.com/aquamagic9)|16|
-|8|[Jaewoo Park](https://github.com/ohdair/)|12|
-|9|[Jiyun Yun](https://github.com/jeeyn)|10|
-|10|[YeongKwonMo](https://github.com/momoci99/)|8|
-|11|[진태영](https://github.com/jintaeyeong)|4|
-|12|[soo:bak](https://github.com/soo-bak)|2|
-|13|[김지수](https://github.com/tttghost)|2|
-|14|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
-|15|[junmokang](https://github.com/moaoh)|1|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|1|
+|2|[최지윤](https://github.com/chichoon/)|1|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|1|
+|4|[TaeWon](https://github.com/ytw9699/)|1|
+|5|[hyuncho](https://github.com/aquamagic9)|1|
+|6|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
+|7|[junmokang](https://github.com/moaoh)|1|
 
 ### All from first to present
 
@@ -463,6 +461,40 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |47|[김지수](https://github.com/tttghost)|1|
 
 ### Ranking history
+
+<details>
+<summary>2024, 164th to 215th</summary>
+<p>
+
+Top 2, 3, 4 ranked winner get prize from home coming day 2024
+1. 최지윤 get prize starbucks e-gift set item.
+2. Yeshin Lee get prize starbucks e-gift set item.
+3. TaeWon get prize starbucks e-gift beverage item.
+
+Joined count over 30 from home coming day 2024
+1. 최지윤 joined count is 45, then get prize BBQ chicken set item.
+2. Yeshin Lee joined count is 39, then get prize BBQ chicken set item.
+
+|Ranking|Name|Count|
+|-------|----|-----|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|52|
+|2|[최지윤](https://github.com/chichoon/)|45|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|39|
+|4|[TaeWon](https://github.com/ytw9699/)|25|
+|5|[Jeongan Lee](https://github.com/fkdl0048/)|18|
+|6|[Byeongguk Ahn](https://github.com/nonoaa/)|18|
+|7|[hyuncho](https://github.com/aquamagic9)|16|
+|8|[Jaewoo Park](https://github.com/ohdair/)|12|
+|9|[Jiyun Yun](https://github.com/jeeyn)|10|
+|10|[YeongKwonMo](https://github.com/momoci99/)|8|
+|11|[진태영](https://github.com/jintaeyeong)|4|
+|12|[soo:bak](https://github.com/soo-bak)|2|
+|13|[김지수](https://github.com/tttghost)|2|
+|14|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
+|15|[junmokang](https://github.com/moaoh)|1|
+
+</p>
+</details>
 
 <details>
 <summary>2023, 112th to 163th</summary>
