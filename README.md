@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2025 1Q meetup list
 
-- [221th, 2024-02-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/417), will be open
+- [222th, 2024-02-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/418), will be open
+- [221th, 2024-02-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/417), joined 5
 - [220th, 2024-02-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/416), joined 4
 - [219th, 2024-01-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/415), joined 6
 - [218th, 2024-01-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/409), joined 4
@@ -404,11 +405,11 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|5|
-|2|[최지윤](https://github.com/chichoon/)|5|
-|3|[hyuncho](https://github.com/aquamagic9)|5|
-|4|[junmokang](https://github.com/moaoh)|5|
-|5|[Yeshin Lee](https://github.com/yeslee-v/)|3|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|6|
+|2|[최지윤](https://github.com/chichoon/)|6|
+|3|[hyuncho](https://github.com/aquamagic9)|6|
+|4|[junmokang](https://github.com/moaoh)|6|
+|5|[Yeshin Lee](https://github.com/yeslee-v/)|4|
 |6|[TaeWon](https://github.com/ytw9699/)|2|
 |7|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
 |8|[Byeongguk Ahn](https://github.com/nonoaa/)|1|
@@ -418,15 +419,15 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|218|
-|2|[최지윤](https://github.com/chichoon)|140|
-|3|[yeslee-v](https://github.com/yeslee-v/)|75|
+|1|[jongfeel](https://github.com/jongfeel/)|219|
+|2|[최지윤](https://github.com/chichoon)|141|
+|3|[yeslee-v](https://github.com/yeslee-v/)|76|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|49|
 |5|[TaeWon](https://github.com/ytw9699/)|39|
 |6|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |7|[hi-hyein](https://github.com/hi-hyein/)|30|
 |8|[Byeongguk Ahn](https://github.com/nonoaa/)|27|
-|9|[hyuncho](https://github.com/aquamagic9/)|25|
+|9|[hyuncho](https://github.com/aquamagic9/)|26|
 |10|[Jaewoo Park](https://github.com/ohdair/)|24|
 |11|[YeongKwonMo](https://github.com/momoci99/)|23|
 |12|[eunyeong-so](https://github.com/eunyeong-so/)|21|
@@ -444,7 +445,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |24|[ErigoLee](https://github.com/ErigoLee/)|11|
 |25|[ellen310](https://github.com/ellen310/)|11|
 |26|[Arat5724](https://github.com/Arat5724/)|8|
-|27|[junmokang](https://github.com/moaoh)|6|
+|27|[junmokang](https://github.com/moaoh)|7|
 |28|[IWON LEE](https://github.com/walnutpie314/)|5|
 |29|[진태영](https://github.com/jintaeyeong)|4|
 |30|[kimpitang](https://github.com/kimpitang/)|3|
