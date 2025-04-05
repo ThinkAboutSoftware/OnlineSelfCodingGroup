@@ -35,19 +35,20 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2025 1Q meetup list
 
-- [228th, 2024-03-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/432), will be open
-- [227th, 2024-03-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/431), joined 4
-- [226th, 2024-03-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/429), joined 3
-- [225th, 2024-03-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/426), joined 4
-- [224th, 2024-03-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/425), joined 5
-- [223th, 2024-02-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/423), joined 5
-- [222th, 2024-02-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/418), joined 3
-- [221th, 2024-02-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/417), joined 5
-- [220th, 2024-02-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/416), joined 4
-- [219th, 2024-01-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/415), joined 6
-- [218th, 2024-01-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/409), joined 4
-- [217th, 2024-01-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/408), joined 7
-- [216th, 2024-01-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407), joined 7
+- [229th, 2025-04-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/435), will be open
+- [228th, 2025-03-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/432), joined 5
+- [227th, 2025-03-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/431), joined 4
+- [226th, 2025-03-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/429), joined 3
+- [225th, 2025-03-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/426), joined 4
+- [224th, 2025-03-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/425), joined 5
+- [223th, 2025-02-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/423), joined 5
+- [222th, 2025-02-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/418), joined 3
+- [221th, 2025-02-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/417), joined 5
+- [220th, 2025-02-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/416), joined 4
+- [219th, 2025-01-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/415), joined 6
+- [218th, 2025-01-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/409), joined 4
+- [217th, 2025-01-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/408), joined 7
+- [216th, 2025-01-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407), joined 7
 
 ## 2024 4Q meetup list
 
@@ -411,11 +412,11 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|12|
-|2|[최지윤](https://github.com/chichoon/)|11|
-|3|[hyuncho](https://github.com/aquamagic9)|11|
-|4|[junmokang](https://github.com/moaoh)|10|
-|5|[Yeshin Lee](https://github.com/yeslee-v/)|6|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|13|
+|2|[최지윤](https://github.com/chichoon/)|12|
+|3|[hyuncho](https://github.com/aquamagic9)|12|
+|4|[junmokang](https://github.com/moaoh)|11|
+|5|[Yeshin Lee](https://github.com/yeslee-v/)|7|
 |6|[TaeWon](https://github.com/ytw9699/)|2|
 |7|[Jeongan Lee](https://github.com/fkdl0048/)|2|
 |8|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
@@ -426,14 +427,14 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|224|
-|2|[최지윤](https://github.com/chichoon)|145|
-|3|[yeslee-v](https://github.com/yeslee-v/)|78|
+|1|[jongfeel](https://github.com/jongfeel/)|225|
+|2|[최지윤](https://github.com/chichoon)|146|
+|3|[yeslee-v](https://github.com/yeslee-v/)|79|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|50|
 |5|[TaeWon](https://github.com/ytw9699/)|39|
 |6|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|7|[hi-hyein](https://github.com/hi-hyein/)|30|
-|8|[hyuncho](https://github.com/aquamagic9/)|30|
+|7|[hyuncho](https://github.com/aquamagic9/)|31|
+|8|[hi-hyein](https://github.com/hi-hyein/)|30|
 |9|[Byeongguk Ahn](https://github.com/nonoaa/)|27|
 |10|[Jaewoo Park](https://github.com/ohdair/)|24|
 |11|[YeongKwonMo](https://github.com/momoci99/)|23|
@@ -448,10 +449,10 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |20|[wisdom08](https://github.com/wisdom08/)|14|
 |21|[hyunhye](https://github.com/zoepark21/)|12|
 |22|[Jiyun Yun](https://github.com/jeeyn)|12|
-|23|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
-|24|[ErigoLee](https://github.com/ErigoLee/)|11|
-|25|[ellen310](https://github.com/ellen310/)|11|
-|26|[junmokang](https://github.com/moaoh)|11|
+|23|[junmokang](https://github.com/moaoh)|12|
+|24|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
+|25|[ErigoLee](https://github.com/ErigoLee/)|11|
+|26|[ellen310](https://github.com/ellen310/)|11|
 |27|[Arat5724](https://github.com/Arat5724/)|8|
 |28|[IWON LEE](https://github.com/walnutpie314/)|5|
 |29|[진태영](https://github.com/jintaeyeong)|4|
