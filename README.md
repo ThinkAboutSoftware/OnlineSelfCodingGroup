@@ -33,13 +33,17 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
-## 2025 1Q meetup list
+## 2025 2Q meetup list
 
-- [233th, 2025-05-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/441), will be open
+- [234th, 2025-05-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/443), will be open
+- [233th, 2025-05-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/441), joined 2
 - [232th, 2025-04-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/440), joined 3
 - [231th, 2025-04-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/439), joined 2
 - [230th, 2025-04-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/437), joined 6
 - [229th, 2025-04-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/435), joined 4
+
+## 2025 1Q meetup list
+
 - [228th, 2025-03-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/432), joined 5
 - [227th, 2025-03-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/431), joined 4
 - [226th, 2025-03-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/429), joined 3
@@ -54,7 +58,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [217th, 2025-01-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/408), joined 7
 - [216th, 2025-01-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/407), joined 7
 
-## 2024 4Q meetup list
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2024년 4Q</summary>
+<p>
 
 - [215th, 2024-12-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/406), joined 5
 - [214th, 2024-12-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/405), joined 4
@@ -70,9 +80,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [204th, 2024-10-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/382), joined 6
 - [203th, 2024-10-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/380), joined 6
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2024년 3Q</summary>
@@ -416,8 +425,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|17|
-|2|[최지윤](https://github.com/chichoon/)|16|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|18|
+|2|[최지윤](https://github.com/chichoon/)|17|
 |3|[hyuncho](https://github.com/aquamagic9)|14|
 |4|[junmokang](https://github.com/moaoh)|12|
 |5|[Yeshin Lee](https://github.com/yeslee-v/)|8|
@@ -431,8 +440,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|229|
-|2|[최지윤](https://github.com/chichoon)|150|
+|1|[jongfeel](https://github.com/jongfeel/)|230|
+|2|[최지윤](https://github.com/chichoon)|151|
 |3|[yeslee-v](https://github.com/yeslee-v/)|80|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|39|
