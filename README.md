@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2025 2Q meetup list
 
-- [236th, 2025-05-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/447), will be open
+- [237th, 2025-05-31](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/448), will be open
+- [236th, 2025-05-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/447), joined 2
 - [235th, 2025-05-17](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/444), joined 4
 - [234th, 2025-05-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/443), joined 4
 - [233th, 2025-05-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/441), joined 2
@@ -427,8 +428,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|20|
-|2|[최지윤](https://github.com/chichoon/)|19|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|21|
+|2|[최지윤](https://github.com/chichoon/)|20|
 |3|[hyuncho](https://github.com/aquamagic9)|14|
 |4|[junmokang](https://github.com/moaoh)|12|
 |5|[Yeshin Lee](https://github.com/yeslee-v/)|10|
@@ -442,8 +443,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|232|
-|2|[최지윤](https://github.com/chichoon)|153|
+|1|[jongfeel](https://github.com/jongfeel/)|233|
+|2|[최지윤](https://github.com/chichoon)|154|
 |3|[yeslee-v](https://github.com/yeslee-v/)|82|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|39|
