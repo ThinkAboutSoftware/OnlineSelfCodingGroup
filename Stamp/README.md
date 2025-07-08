@@ -22,6 +22,15 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2025 3Q, 07-05 (242th) ~ 09-27 (254th)
+
+| Name | 07-05 (242th) | 07-12 (243th) | 07-19 (244th) | 07-26 (245th) | 08-02 (246th) | 08-09 (247th) | 08-16 (248th) | 08-23 (249th) | 08-30 (250th) | 09-06 (251th) | 09-13 (252th) | 09-20 (253th) | 09-27 (254th) |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/459#issuecomment-3037666714"><img src="approved_2021_3Q.png"/></a> | 
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/459#issuecomment-3037611825"><img src="approved_2021_3Q.png"/>book 1/20</a> | 
+| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/459#issuecomment-3031149507"><img src="approved_2021_3Q.png"/><img src="Starbucks_iceamericano.png"/>book 20/20</a> | 
+| [KyungDong Yoo](https://github.com/yugd1211/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/459#issuecomment-3037479668"><img src="approved_2021_3Q.png"/>book 1/20</a> | 
+
 ### 2025 2Q, 04-05 (229th) ~ 06-28 (241th)
 
 | Name    | 04-05 (229th) | 04-12 (230th) | 04-19 (231th) | 04-26 (232th) | 05-03 (233th) | 05-10 (234th) | 05-17 (235th) | 05-24 (236th) | 05-31 (237th) | 06-07 (238th) | 06-14 (239th) | 06-21 (240th) | 06-28 (241th) |
