@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2025 3Q meetup list
 
-- [243th, 2025-07-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/461), will be open
+- [244th, 2025-07-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/465), will be open
+- [243th, 2025-07-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/461), joined 4
 - [242th, 2025-07-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/459), joined 4
 
 ## 2025 2Q meetup list
@@ -442,24 +443,25 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|26|
-|2|[최지윤](https://github.com/chichoon/)|23|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|27|
+|2|[최지윤](https://github.com/chichoon/)|24|
 |3|[hyuncho](https://github.com/aquamagic9)|14|
-|4|[Yeshin Lee](https://github.com/yeslee-v/)|13|
+|4|[Yeshin Lee](https://github.com/yeslee-v/)|14|
 |5|[junmokang](https://github.com/moaoh)|12|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|7|
 |7|[TaeWon](https://github.com/ytw9699/)|5|
 |8|[Jeongan Lee](https://github.com/fkdl0048/)|3|
 |9|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
 |10|[Jaewoo Park](https://github.com/ohdair/)|1|
+|11|[KyungDong Yoo](https://github.com/yugd1211/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|238|
-|2|[최지윤](https://github.com/chichoon)|157|
-|3|[yeslee-v](https://github.com/yeslee-v/)|85|
+|1|[jongfeel](https://github.com/jongfeel/)|239|
+|2|[최지윤](https://github.com/chichoon)|158|
+|3|[yeslee-v](https://github.com/yeslee-v/)|86|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|42|
 |6|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
@@ -505,6 +507,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |46|[SooimChoi](https://github.com/leechoiswim1/)|1|
 |47|[cyhcyh100](https://github.com/cyhcyh100/)|1|
 |48|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
+|49|[KyungDong Yoo](https://github.com/yugd1211/)|1|
 
 ### Ranking history
 
