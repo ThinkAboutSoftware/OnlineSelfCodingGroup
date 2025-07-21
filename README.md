@@ -444,8 +444,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|28|
-|2|[최지윤](https://github.com/chichoon/)|25|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|29|
+|2|[최지윤](https://github.com/chichoon/)|26|
 |3|[Yeshin Lee](https://github.com/yeslee-v/)|15|
 |4|[hyuncho](https://github.com/aquamagic9)|14|
 |5|[junmokang](https://github.com/moaoh)|12|
@@ -460,8 +460,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|240|
-|2|[최지윤](https://github.com/chichoon)|159|
+|1|[jongfeel](https://github.com/jongfeel/)|241|
+|2|[최지윤](https://github.com/chichoon)|160|
 |3|[yeslee-v](https://github.com/yeslee-v/)|87|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|42|
