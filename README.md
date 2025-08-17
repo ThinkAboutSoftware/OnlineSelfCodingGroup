@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2025 3Q meetup list
 
-- [247th, 2025-08-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/470), will be open
+- [247th, 2025-08-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/471), will be open
+- [247th, 2025-08-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/470), joined 4
 - [246th, 2025-08-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/469), joined 2
 - [245th, 2025-07-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/467), joined 2
 - [244th, 2025-07-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/465), joined 2
@@ -446,12 +447,12 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|31|
-|2|[최지윤](https://github.com/chichoon/)|26|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|17|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|32|
+|2|[최지윤](https://github.com/chichoon/)|27|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|18|
 |4|[hyuncho](https://github.com/aquamagic9)|14|
 |5|[junmokang](https://github.com/moaoh)|12|
-|6|[Byeongguk Ahn](https://github.com/nonoaa/)|8|
+|6|[Byeongguk Ahn](https://github.com/nonoaa/)|9|
 |7|[TaeWon](https://github.com/ytw9699/)|5|
 |8|[Jeongan Lee](https://github.com/fkdl0048/)|3|
 |9|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
@@ -462,13 +463,13 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|243|
-|2|[최지윤](https://github.com/chichoon)|160|
-|3|[yeslee-v](https://github.com/yeslee-v/)|89|
+|1|[jongfeel](https://github.com/jongfeel/)|244|
+|2|[최지윤](https://github.com/chichoon)|161|
+|3|[yeslee-v](https://github.com/yeslee-v/)|90|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|42|
-|6|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
-|7|[Byeongguk Ahn](https://github.com/nonoaa/)|34|
+|6|[Byeongguk Ahn](https://github.com/nonoaa/)|35|
+|7|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |8|[hyuncho](https://github.com/aquamagic9/)|33|
 |9|[hi-hyein](https://github.com/hi-hyein/)|30|
 |10|[Jaewoo Park](https://github.com/ohdair/)|24|
