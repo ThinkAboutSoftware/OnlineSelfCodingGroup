@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2025 3Q meetup list
 
-- [249th, 2025-08-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/473), will be open
+- [250th, 2025-08-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/477), will be open
+- [249th, 2025-08-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/473), joined 3
 - [248th, 2025-08-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/471), joined 2
 - [247th, 2025-08-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/470), joined 4
 - [246th, 2025-08-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/469), joined 2
