@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2025 3Q meetup list
 
-- [250th, 2025-08-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/477), will be open
+- [251th, 2025-09-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/479), will be open
+- [250th, 2025-08-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/477), joined 3
 - [249th, 2025-08-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/473), joined 3
 - [248th, 2025-08-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/471), joined 2
 - [247th, 2025-08-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/470), joined 4
@@ -66,7 +67,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 <p>
 
 <details>
-<summary>2024년 4Q</summary>
+<summary>2025년 1Q</summary>
 <p>
 
 - [228th, 2025-03-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/432), joined 5
@@ -449,13 +450,13 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|34|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|35|
 |2|[최지윤](https://github.com/chichoon/)|29|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|19|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|20|
 |4|[hyuncho](https://github.com/aquamagic9)|14|
 |5|[junmokang](https://github.com/moaoh)|12|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|9|
-|7|[TaeWon](https://github.com/ytw9699/)|5|
+|7|[TaeWon](https://github.com/ytw9699/)|6|
 |8|[Jeongan Lee](https://github.com/fkdl0048/)|3|
 |9|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
 |10|[Jaewoo Park](https://github.com/ohdair/)|1|
@@ -467,9 +468,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |-------|----|-----|
 |1|[jongfeel](https://github.com/jongfeel/)|246|
 |2|[최지윤](https://github.com/chichoon)|163|
-|3|[yeslee-v](https://github.com/yeslee-v/)|91|
+|3|[yeslee-v](https://github.com/yeslee-v/)|92|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
-|5|[TaeWon](https://github.com/ytw9699/)|42|
+|5|[TaeWon](https://github.com/ytw9699/)|43|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|35|
 |7|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |8|[hyuncho](https://github.com/aquamagic9/)|33|
