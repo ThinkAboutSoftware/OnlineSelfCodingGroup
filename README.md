@@ -33,9 +33,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
+## 2025 4Q meetup list
+
+- [255th, 2025-10-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485), will be open
+
 ## 2025 3Q meetup list
 
-- [254th, 2025-09-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/484), will be open
+- [254th, 2025-09-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/484), joined 3
 - [253th, 2025-09-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/483), joined 4
 - [252th, 2025-09-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/481), joined 4
 - [251th, 2025-09-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/479), joined 7
@@ -49,7 +53,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [243th, 2025-07-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/461), joined 4
 - [242th, 2025-07-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/459), joined 4
 
-## 2025 2Q meetup list
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2025년 2Q</summary>
+<p>
 
 - [241th, 2025-06-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/458), joined 4
 - [240th, 2025-06-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/457), joined 2
@@ -65,9 +75,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [230th, 2025-04-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/437), joined 6
 - [229th, 2025-04-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/435), joined 4
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2025년 1Q</summary>
@@ -453,16 +462,16 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|38|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|39|
 |2|[최지윤](https://github.com/chichoon/)|31|
 |3|[Yeshin Lee](https://github.com/yeslee-v/)|23|
 |4|[hyuncho](https://github.com/aquamagic9)|14|
 |5|[junmokang](https://github.com/moaoh)|12|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|10|
 |7|[TaeWon](https://github.com/ytw9699/)|7|
-|8|[Jeongan Lee](https://github.com/fkdl0048/)|3|
-|9|[Ahyun Lee](https://github.com/northmantar/)|3|
-|10|[kimpitang](https://github.com/kimpitang/)|2|
+|8|[Ahyun Lee](https://github.com/northmantar/)|4|
+|9|[Jeongan Lee](https://github.com/fkdl0048/)|3|
+|10|[kimpitang](https://github.com/kimpitang/)|3|
 |11|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
 |12|[Jaewoo Park](https://github.com/ohdair/)|1|
 |13|[KyungDong Yoo](https://github.com/yugd1211/)|1|
@@ -471,7 +480,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|249|
+|1|[jongfeel](https://github.com/jongfeel/)|250|
 |2|[최지윤](https://github.com/chichoon)|165|
 |3|[yeslee-v](https://github.com/yeslee-v/)|95|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
@@ -498,13 +507,13 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |25|[ErigoLee](https://github.com/ErigoLee/)|11|
 |26|[ellen310](https://github.com/ellen310/)|11|
 |27|[Arat5724](https://github.com/Arat5724/)|8|
-|28|[IWON LEE](https://github.com/walnutpie314/)|5|
-|29|[kimpitang](https://github.com/kimpitang/)|5|
+|28|[kimpitang](https://github.com/kimpitang/)|6|
+|29|[IWON LEE](https://github.com/walnutpie314/)|5|
 |30|[진태영](https://github.com/jintaeyeong)|4|
-|31|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|32|[seoyoungit](https://github.com/seoyoungit/)|3|
-|33|[park7628](https://github.com/park7628/)|3|
-|34|[Ahyun Lee](https://github.com/northmantar/)|3|
+|31|[Ahyun Lee](https://github.com/northmantar/)|4|
+|32|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|33|[seoyoungit](https://github.com/seoyoungit/)|3|
+|34|[park7628](https://github.com/park7628/)|3|
 |35|[김지수](https://github.com/tttghost)|2|
 |36|[Park ChulHwan](https://github.com/Chul-Hwan)|2|
 |37|[kapitalismho](https://github.com/kapitalismho/)|2|
