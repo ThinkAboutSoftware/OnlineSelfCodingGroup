@@ -22,6 +22,15 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2025 4Q, 10-04 (255th) ~ 12-27 (267th)
+
+| Name | 10-04 (255th) | 10-11 (256th) | 10-18 (257th) | 10-25 (258th) | 11-01 (259th) | 11-08 (260th) | 11-15 (261th) | 11-22 (262th) | 11-29 (263th) | 12-06 (264th) | [12-13 (265th)](https://github.com/ThinkAboutSoftware/HomeComingDay/issues/54) | 12-20 (266th) | 12-27 (267th) |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3354690077"><img src="approved.png"/></a> | 
+| [Ahyun Lee](https://github.com/northmantar/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3365375011"><img src="approved.png"/>book 5/20</a> | 
+| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3365649496"><img src="approved.png"/>book 10/20</a> 
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3367729284"><img src="approved.png"/>book 9/20</a> | 
+
 ### 2025 3Q, 07-05 (242th) ~ 09-27 (254th)
 
 | Name | 07-05 (242th) | 07-12 (243th) | 07-19 (244th) | 07-26 (245th) | 08-02 (246th) | 08-09 (247th) | 08-16 (248th) | 08-23 (249th) | 08-30 (250th) | 09-06 (251th) | 09-13 (252th) | 09-20 (253th) | 09-27 (254th) |
