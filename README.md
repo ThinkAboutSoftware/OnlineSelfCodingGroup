@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2025 4Q meetup list
 
-- [255th, 2025-10-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485), will be open
+- [256th, 2025-10-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485), will be open
+- [255th, 2025-10-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485), joined 4
 
 ## 2025 3Q meetup list
 
@@ -462,14 +463,14 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|39|
-|2|[최지윤](https://github.com/chichoon/)|31|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|23|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|40|
+|2|[최지윤](https://github.com/chichoon/)|32|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|24|
 |4|[hyuncho](https://github.com/aquamagic9)|14|
 |5|[junmokang](https://github.com/moaoh)|12|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|10|
 |7|[TaeWon](https://github.com/ytw9699/)|7|
-|8|[Ahyun Lee](https://github.com/northmantar/)|4|
+|8|[Ahyun Lee](https://github.com/northmantar/)|5|
 |9|[Jeongan Lee](https://github.com/fkdl0048/)|3|
 |10|[kimpitang](https://github.com/kimpitang/)|3|
 |11|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
@@ -480,9 +481,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|250|
-|2|[최지윤](https://github.com/chichoon)|165|
-|3|[yeslee-v](https://github.com/yeslee-v/)|95|
+|1|[jongfeel](https://github.com/jongfeel/)|251|
+|2|[최지윤](https://github.com/chichoon)|166|
+|3|[yeslee-v](https://github.com/yeslee-v/)|96|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|44|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|36|
@@ -509,8 +510,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |27|[Arat5724](https://github.com/Arat5724/)|8|
 |28|[kimpitang](https://github.com/kimpitang/)|6|
 |29|[IWON LEE](https://github.com/walnutpie314/)|5|
-|30|[진태영](https://github.com/jintaeyeong)|4|
-|31|[Ahyun Lee](https://github.com/northmantar/)|4|
+|30|[Ahyun Lee](https://github.com/northmantar/)|5|
+|31|[진태영](https://github.com/jintaeyeong)|4|
 |32|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |33|[seoyoungit](https://github.com/seoyoungit/)|3|
 |34|[park7628](https://github.com/park7628/)|3|
