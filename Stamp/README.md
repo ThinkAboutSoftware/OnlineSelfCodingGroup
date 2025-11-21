@@ -26,10 +26,10 @@
 
 | Name | 10-04 (255th) | 10-11 (256th) | 10-18 (257th) | 10-25 (258th) | 11-01 (259th) | 11-08 (260th) | 11-15 (261th) | 11-22 (262th) | 11-29 (263th) | 12-06 (264th) | [12-13 (265th)](https://github.com/ThinkAboutSoftware/HomeComingDay/issues/54) | 12-20 (266th) | 12-27 (267th) |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3354690077"><img src="approved.png"/></a> | 
-| [Ahyun Lee](https://github.com/northmantar/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3365375011"><img src="approved.png"/>book 5/20</a> | 
-| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3365649496"><img src="approved.png"/>book 10/20</a> 
-| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3367729284"><img src="approved.png"/>book 9/20</a> | 
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3354690077"><img src="approved.png"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/486#issuecomment-3417653581"><img src="approved.png"/></a> | 
+| [Ahyun Lee](https://github.com/northmantar/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3365375011"><img src="approved.png"/>book 5/20</a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/486#issuecomment-3390448143"><img src="approved.png"/>book 6/20</a> | 
+| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3365649496"><img src="approved.png"/>book 10/20</a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/486#issuecomment-3392740659"><img src="approved.png"/>book 11/20</a> | 
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485#issuecomment-3367729284"><img src="approved.png"/>book 9/20</a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/486#issuecomment-3392719783"><img src="approved.png"/>book 10/20</a> | 
 
 ### 2025 3Q, 07-05 (242th) ~ 09-27 (254th)
 
