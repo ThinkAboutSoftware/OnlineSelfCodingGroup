@@ -485,7 +485,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |11|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
 |12|[Jaewoo Park](https://github.com/ohdair/)|1|
 |13|[KyungDong Yoo](https://github.com/yugd1211/)|1|
-|14|[hyunhye](https://github.com/zoepark21/)|1|
+|14|[ARi](https://github.com/hyunhyee/)|1|
 
 ### All from first to present
 
@@ -512,7 +512,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |19|[yoonucho](https://github.com/yoonucho/)|14|
 |20|[wisdom08](https://github.com/wisdom08/)|14|
 |21|[junmokang](https://github.com/moaoh)|13|
-|22|[hyunhye](https://github.com/zoepark21/)|13|
+|22|[ARi](https://github.com/hyunhyee/)|13|
 |23|[Jiyun Yun](https://github.com/jeeyn)|12|
 |24|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |25|[ErigoLee](https://github.com/ErigoLee/)|11|
