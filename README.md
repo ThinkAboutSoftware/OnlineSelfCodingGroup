@@ -33,9 +33,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
+## 2026 1Q meetup list
+
+- [268th, 2026-01-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514), will be open
+
 ## 2025 4Q meetup list
 
-- [267th, 2025-12-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/511), will be open
+- [267th, 2025-12-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/511), joined 3
 - [266th, 2025-12-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/508), joined 3
 - [265th, 2025-12-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/504), joined 3
 - [264th, 2025-12-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/502), joined 3
@@ -49,7 +53,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [256th, 2025-10-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/486), joined 4
 - [255th, 2025-10-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485), joined 4
 
-## 2025 3Q meetup list
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2025년 3Q</summary>
+<p>
 
 - [254th, 2025-09-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/484), joined 3
 - [253th, 2025-09-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/483), joined 4
@@ -65,9 +75,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [243th, 2025-07-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/461), joined 4
 - [242th, 2025-07-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/459), joined 4
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2025년 2Q</summary>
@@ -474,9 +483,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|50|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|51|
 |2|[최지윤](https://github.com/chichoon/)|38|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|30|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|31|
 |4|[hyuncho](https://github.com/aquamagic9)|14|
 |5|[junmokang](https://github.com/moaoh)|12|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|11|
@@ -488,14 +497,15 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |12|[Jaewoo Park](https://github.com/ohdair/)|1|
 |13|[KyungDong Yoo](https://github.com/yugd1211/)|1|
 |14|[ARi](https://github.com/hyunhyee/)|1|
+|15|[LeeDaYeon](https://github.com/ErigoLee/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|261|
+|1|[jongfeel](https://github.com/jongfeel/)|262|
 |2|[최지윤](https://github.com/chichoon)|172|
-|3|[yeslee-v](https://github.com/yeslee-v/)|102|
+|3|[yeslee-v](https://github.com/yeslee-v/)|103|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|44|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|37|
@@ -516,8 +526,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |21|[junmokang](https://github.com/moaoh)|13|
 |22|[ARi](https://github.com/hyunhyee/)|13|
 |23|[Jiyun Yun](https://github.com/jeeyn)|12|
-|24|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
-|25|[ErigoLee](https://github.com/ErigoLee/)|11|
+|24|[LeeDaYeon](https://github.com/ErigoLee/)|12|
+|25|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |26|[ellen310](https://github.com/ellen310/)|11|
 |27|[Ahyun Lee](https://github.com/northmantar/)|10|
 |28|[Arat5724](https://github.com/Arat5724/)|8|
