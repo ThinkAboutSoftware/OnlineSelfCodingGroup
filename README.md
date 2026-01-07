@@ -483,9 +483,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|51|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|52|
 |2|[최지윤](https://github.com/chichoon/)|38|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|31|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|32|
 |4|[hyuncho](https://github.com/aquamagic9)|14|
 |5|[junmokang](https://github.com/moaoh)|12|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|11|
@@ -493,19 +493,19 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |8|[TaeWon](https://github.com/ytw9699/)|7|
 |9|[kimpitang](https://github.com/kimpitang/)|5|
 |10|[Jeongan Lee](https://github.com/fkdl0048/)|3|
-|11|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
-|12|[Jaewoo Park](https://github.com/ohdair/)|1|
-|13|[KyungDong Yoo](https://github.com/yugd1211/)|1|
-|14|[ARi](https://github.com/hyunhyee/)|1|
-|15|[LeeDaYeon](https://github.com/ErigoLee/)|1|
+|11|[LeeDaYeon](https://github.com/ErigoLee/)|2|
+|12|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
+|13|[Jaewoo Park](https://github.com/ohdair/)|1|
+|14|[KyungDong Yoo](https://github.com/yugd1211/)|1|
+|15|[ARi](https://github.com/hyunhyee/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|262|
+|1|[jongfeel](https://github.com/jongfeel/)|263|
 |2|[최지윤](https://github.com/chichoon)|172|
-|3|[yeslee-v](https://github.com/yeslee-v/)|103|
+|3|[yeslee-v](https://github.com/yeslee-v/)|104|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|44|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|37|
@@ -525,8 +525,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |20|[wisdom08](https://github.com/wisdom08/)|14|
 |21|[junmokang](https://github.com/moaoh)|13|
 |22|[ARi](https://github.com/hyunhyee/)|13|
-|23|[Jiyun Yun](https://github.com/jeeyn)|12|
-|24|[LeeDaYeon](https://github.com/ErigoLee/)|12|
+|23|[LeeDaYeon](https://github.com/ErigoLee/)|13|
+|24|[Jiyun Yun](https://github.com/jeeyn)|12|
 |25|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |26|[ellen310](https://github.com/ellen310/)|11|
 |27|[Ahyun Lee](https://github.com/northmantar/)|10|
