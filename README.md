@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 1Q meetup list
 
-- [268th, 2026-01-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514), will be open
+- [269th, 2026-01-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/515), will be open
+- [268th, 2026-01-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514), joined 4
 
 ## 2025 4Q meetup list
 
@@ -476,36 +477,25 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## Ranking
 
-### Ranking 2025, 216th to 267th
+### Ranking 2026, 268th to 319th
 
-Top 2, 3, 4 ranked winner get prize from home coming day 2025
+Top 2, 3, 4 ranked winner get prize from home coming day 2026
 and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|52|
-|2|[최지윤](https://github.com/chichoon/)|38|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|32|
-|4|[hyuncho](https://github.com/aquamagic9)|14|
-|5|[junmokang](https://github.com/moaoh)|12|
-|6|[Byeongguk Ahn](https://github.com/nonoaa/)|11|
-|7|[Ahyun Lee](https://github.com/northmantar/)|10|
-|8|[TaeWon](https://github.com/ytw9699/)|7|
-|9|[kimpitang](https://github.com/kimpitang/)|5|
-|10|[Jeongan Lee](https://github.com/fkdl0048/)|3|
-|11|[LeeDaYeon](https://github.com/ErigoLee/)|2|
-|12|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
-|13|[Jaewoo Park](https://github.com/ohdair/)|1|
-|14|[KyungDong Yoo](https://github.com/yugd1211/)|1|
-|15|[ARi](https://github.com/hyunhyee/)|1|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|1|
+|2|[최지윤](https://github.com/chichoon/)|1|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|1|
+|4|[LeeDaYeon](https://github.com/ErigoLee/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|263|
-|2|[최지윤](https://github.com/chichoon)|172|
-|3|[yeslee-v](https://github.com/yeslee-v/)|104|
+|1|[jongfeel](https://github.com/jongfeel/)|264|
+|2|[최지윤](https://github.com/chichoon)|173|
+|3|[yeslee-v](https://github.com/yeslee-v/)|105|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|44|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|37|
@@ -523,9 +513,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |18|[soo:bak](https://github.com/soo-bak)|15|
 |19|[yoonucho](https://github.com/yoonucho/)|14|
 |20|[wisdom08](https://github.com/wisdom08/)|14|
-|21|[junmokang](https://github.com/moaoh)|13|
-|22|[ARi](https://github.com/hyunhyee/)|13|
-|23|[LeeDaYeon](https://github.com/ErigoLee/)|13|
+|21|[LeeDaYeon](https://github.com/ErigoLee/)|14|
+|22|[junmokang](https://github.com/moaoh)|13|
+|23|[ARi](https://github.com/hyunhyee/)|13|
 |24|[Jiyun Yun](https://github.com/jeeyn)|12|
 |25|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |26|[ellen310](https://github.com/ellen310/)|11|
@@ -555,6 +545,43 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |50|[KyungDong Yoo](https://github.com/yugd1211/)|1|
 
 ### Ranking history
+
+<details>
+<summary>2025, 216th to 267th</summary>
+<p>
+
+Top 2, 3, 4 ranked winner get prize from home coming day 2025
+and participate more than 30 online meetup, get the chicken gifticon.
+
+Top 2, 3, 4 ranked winner get prize from home coming day 2024
+1. 최지윤 get prize starbucks e-gift set item.
+2. Yeshin Lee get prize starbucks e-gift set item.
+3. hyuncho get prize starbucks e-gift beverage item.
+
+Joined count over 30 from home coming day 2024
+1. 최지윤 joined count is 38, then get prize BBQ chicken set item.
+2. Yeshin Lee joined count is 32, then get prize BBQ chicken set item.
+
+|Ranking|Name|Count|
+|-------|----|-----|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|52|
+|2|[최지윤](https://github.com/chichoon/)|38|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|32|
+|4|[hyuncho](https://github.com/aquamagic9)|14|
+|5|[junmokang](https://github.com/moaoh)|12|
+|6|[Byeongguk Ahn](https://github.com/nonoaa/)|11|
+|7|[Ahyun Lee](https://github.com/northmantar/)|10|
+|8|[TaeWon](https://github.com/ytw9699/)|7|
+|9|[kimpitang](https://github.com/kimpitang/)|5|
+|10|[Jeongan Lee](https://github.com/fkdl0048/)|3|
+|11|[LeeDaYeon](https://github.com/ErigoLee/)|2|
+|12|[Park ChulHwan](https://github.com/Chul-Hwan)|1|
+|13|[Jaewoo Park](https://github.com/ohdair/)|1|
+|14|[KyungDong Yoo](https://github.com/yugd1211/)|1|
+|15|[ARi](https://github.com/hyunhyee/)|1|
+
+</p>
+</details>
 
 <details>
 <summary>2024, 164th to 215th</summary>
