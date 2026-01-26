@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 1Q meetup list
 
-- [269th, 2026-01-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/515), will be open
+- [270th, 2026-01-17](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/517), will be open
+- [269th, 2026-01-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/515), joined 4
 - [268th, 2026-01-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514), joined 4
 
 ## 2025 4Q meetup list
@@ -484,10 +485,11 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|1|
-|2|[최지윤](https://github.com/chichoon/)|1|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|1|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|2|
+|2|[최지윤](https://github.com/chichoon/)|2|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|2|
 |4|[LeeDaYeon](https://github.com/ErigoLee/)|1|
+|5|[Daewon Paeng](https://github.com/fora22/)|1|
 
 ### All from first to present
 
@@ -507,8 +509,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |12|[eunyeong-so](https://github.com/eunyeong-so/)|21|
 |13|[JSY8869](https://github.com/JSY8869/)|21|
 |14|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
-|15|[exgs](https://github.com/exgs)|19|
-|16|[fora22](https://github.com/fora22/)|19|
+|15|[Daewon Paeng](https://github.com/fora22/)|20|
+|16|[exgs](https://github.com/exgs)|19|
 |17|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
 |18|[soo:bak](https://github.com/soo-bak)|15|
 |19|[yoonucho](https://github.com/yoonucho/)|14|
