@@ -24,12 +24,14 @@
 
 ### 2026 1Q, 01-03 (268th) ~ 03-28 (280th)
 
-| Name | 01-03 (269th) | 01-10 (270th) | 01-17 (271th) | 01-24 (272th) | 01-31 (273th) | 02-07 (274th) | 02-14 (275th) | 02-21 (276th) | 02-28 (277th) | 03-07 (278th) | 03-14 (279th) | 03-21 (280th) | 03-28 (281th) |
+| Name | 01-03 (268th) | 01-10 (269th) | 01-17 (270th) | 01-24 (271th) | 01-31 (272th) | 02-07 (273th) | 02-14 (274th) | 02-21 (275th) | 02-28 (276th) | 03-07 (277th) | 03-14 (278th) | 03-21 (279th) | 03-28 (280th) |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3706592905"><img src="approved_1Q.png"/></a> | 
-| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3705171107"><img src="approved_1Q.png"/>book 19/20</a> | 
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3706592905"><img src="approved_1Q.png"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/515#issuecomment-3731404198"><img src="approved_1Q.png"/></a> | 
+| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3705171107"><img src="approved_1Q.png"/>book 19/20</a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/515#issuecomment-3731338037"><img src="approved_1Q.png"/>book 20/20</a> | 
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3706579591"><img src="approved_1Q.png"/>book 16/20</a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/515#issuecomment-3726416555"><img src="approved_1Q.png"/><img src="Starbucks_americano.JPG"/>book 17/20</a> | 
+| [Daewon Paeng](https://github.com/fora22/) | | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/515#issuecomment-3728093558"><img src="approved_1Q.png"/><img src="Starbucks_americano.JPG"/>book 1/20</a> | 
 | [LeeDaYeon](https://github.com/ErigoLee/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3706578972"><img src="approved_1Q.png"/><img src="Starbucks_americano.JPG"/>book 3/20</a> | 
-| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3706579591"><img src="approved_1Q.png"/>book 16/20</a> |
+
 
 ### 2025 4Q, 10-04 (255th) ~ 12-27 (267th)
 
