@@ -22,6 +22,15 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2026 1Q, 01-03 (268th) ~ 03-28 (280th)
+
+| Name | 01-03 (269th) | 01-10 (270th) | 01-17 (271th) | 01-24 (272th) | 01-31 (273th) | 02-07 (274th) | 02-14 (275th) | 02-21 (276th) | 02-28 (277th) | 03-07 (278th) | 03-14 (279th) | 03-21 (280th) | 03-28 (281th) |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3706592905"><img src="approved_1Q.png"/></a> | 
+| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3705171107"><img src="approved_1Q.png"/>book 19/20</a> | 
+| [LeeDaYeon](https://github.com/ErigoLee/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3706578972"><img src="approved_1Q.png"/><img src="Starbucks_americano.JPG"/>book 3/20</a> | 
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514#issuecomment-3706579591"><img src="approved_1Q.png"/>book 16/20</a> |
+
 ### 2025 4Q, 10-04 (255th) ~ 12-27 (267th)
 
 | Name | 10-04 (255th) | 10-11 (256th) | 10-18 (257th) | 10-25 (258th) | 11-01 (259th) | 11-08 (260th) | 11-15 (261th) | 11-22 (262th) | 11-29 (263th) | 12-06 (264th) | [12-13 (265th)](https://github.com/ThinkAboutSoftware/HomeComingDay/issues/54) | 12-20 (266th) | 12-27 (267th) |
