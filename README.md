@@ -35,7 +35,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 1Q meetup list
 
-- [272th, 2026-01-31](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/519), will be open
+- [273th, 2026-02-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/524), will be open
+- [272th, 2026-01-31](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/519), joined 5
 - [271th, 2026-01-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/518), joined 4
 - [270th, 2026-01-17](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/517), joined 4
 - [269th, 2026-01-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/515), joined 4
