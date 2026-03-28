@@ -12,6 +12,9 @@ jobs:
       issues: write
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
       - name: Calculate Next Issue Title and Content
         id: next_issue
         env:
