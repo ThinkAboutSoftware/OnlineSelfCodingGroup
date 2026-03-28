@@ -2,42 +2,55 @@ name: Weekly Meetup Issue Creator
 
 on:
   schedule:
-    - cron: '0 13 * * 0' # 매주 일요일 밤 10시 (KST)
-  workflow_dispatch: # 테스트 실행용
+    - cron: '0 13 * * 0' # 매주 일요일 13:00 UTC (22:00 KST)
+  workflow_dispatch:
 
 jobs:
-  create-next-meetup-issue:
+  create-meetup-issue:
     runs-on: ubuntu-latest
     permissions:
       issues: write
+      repository-projects: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
-      - name: Calculate Next Issue Title and Content
-        id: next_issue
+
+      - name: Calculate Values and Create Issue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 1. 가장 최근 이슈 정보 가져오기
-          LATEST_ISSUE=$(gh issue list --state all --limit 1 --json title,body)
-          ORIGINAL_TITLE=$(echo "$LATEST_ISSUE" | jq -r '.[0].title')
-          BODY=$(echo "$LATEST_ISSUE" | jq -r '.[0].body')
+          # 1. 기준 설정 (2026-03-28이 280회)
+          BASE_DATE="2026-03-28"
+          BASE_COUNT=280
 
-          # 2. 정규표현식을 사용하여 회차 숫자와 날짜 추출
-          # 형식 예: "280th online meetup, 2026-03-28"
-          COUNT=$(echo "$ORIGINAL_TITLE" | grep -oP '\d+(?=th)')
-          DATE_STR=$(echo "$ORIGINAL_TITLE" | grep -oP '\d{4}-\d{2}-\d{2}')
+          # 2. 타겟 날짜 계산 (일요일 실행 기준 +6일 = 다가오는 토요일)
+          TARGET_DATE=$(date -d "+6 days" +%Y-%m-%d)
+          
+          # 3. 회차(Count) 계산 (날짜 차이 이용)
+          # 기준일로부터 타겟일까지의 일수(days)를 계산합니다.
+          DAYS_DIFF=$(( ($(date -d "$TARGET_DATE" +%s) - $(date -d "$BASE_DATE" +%s)) / 86400 ))
+          WEEKS_DIFF=$(( DAYS_DIFF / 7 ))
+          
+          NEXT_COUNT=$(( BASE_COUNT + WEEKS_DIFF ))
 
-          # 3. 새로운 값 계산
-          NEXT_COUNT=$((COUNT + 1))
-          NEXT_DATE=$(date -d "$DATE_STR + 7 days" +%Y-%m-%d)
+          # 4. 연도, 분기, 프로젝트 이름 계산
+          YEAR=$(date -d "$TARGET_DATE" +'%Y')
+          MONTH=$(date -d "$TARGET_DATE" +%-m)
+          QUARTER=$(((MONTH - 1) / 3 + 1))
           
-          # 4. 새로운 제목 조합
-          NEXT_TITLE="${NEXT_COUNT}th online meetup, ${NEXT_DATE}"
-          
-          echo "Next Title: $NEXT_TITLE"
+          MILESTONE="${YEAR} ${QUARTER}Q"
+          PROJECT_NAME="${YEAR} Online study meetup"
+          NEXT_TITLE="${NEXT_COUNT}th online meetup, ${TARGET_DATE}"
+
+          echo "Target Title: $NEXT_TITLE"
+          echo "Milestone: $MILESTONE / Project: $PROJECT_NAME"
 
           # 5. 새 이슈 생성
-          gh issue create --title "$NEXT_TITLE" --body "$BODY"
+          gh issue create \
+            --title "$NEXT_TITLE" \
+            --body "## Weekly Online Study Meetup ($TARGET_DATE)\n자동 생성된 주간 미트업 이슈입니다." \
+            --assignee "@me" \
+            --label "$YEAR" \
+            --project "$PROJECT_NAME" \
+            --milestone "$MILESTONE"
