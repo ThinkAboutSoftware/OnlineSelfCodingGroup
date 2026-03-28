@@ -50,7 +50,7 @@ jobs:
           gh issue create \
             --title "$NEXT_TITLE" \
             --body "## Weekly Online Study Meetup ($TARGET_DATE)\n자동 생성된 주간 미트업 이슈입니다." \
-            --assignee "@me" \
+            --assignee "jongfeel" \
             --label "$YEAR" \
             --project "$PROJECT_NAME" \
             --milestone "$MILESTONE"
