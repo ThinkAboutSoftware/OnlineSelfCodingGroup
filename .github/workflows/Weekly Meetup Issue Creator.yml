@@ -3,7 +3,7 @@ name: Weekly Meetup Issue Creator
 on:
   schedule:
     - cron: '0 13 * * 0' # 매주 일요일 22:00 KST
-  workflow_dispatch: # 수동 테스트 가능
+  workflow_dispatch:
 
 jobs:
   create-meetup-issue:
@@ -28,7 +28,6 @@ jobs:
           TARGET_DATE=$(date -d "+6 days" +%Y-%m-%d)
           
           # 3. 회차(Count) 및 연도/분기/프로젝트명 계산
-          # 날짜 차이를 구한 뒤 7로 나누어 주차 계산
           DAYS_DIFF=$(( ($(date -d "$TARGET_DATE" +%s) - $(date -d "$BASE_DATE" +%s)) / 86400 ))
           WEEKS_DIFF=$(( DAYS_DIFF / 7 ))
           NEXT_COUNT=$(( BASE_COUNT + WEEKS_DIFF ))
@@ -41,8 +40,6 @@ jobs:
           PROJECT_NAME="${YEAR} Online study meetup"
           NEXT_TITLE="${NEXT_COUNT}th online meetup, ${TARGET_DATE}"
 
-          echo "Target Title: $NEXT_TITLE"
-
           # 4. 새 이슈 생성 (이슈 생성 후 URL을 변수에 저장)
           # --assignee는 본인 아이디인 'jongfeel'로 고정
           NEW_ISSUE_URL=$(gh issue create \
@@ -54,9 +51,18 @@ jobs:
           
           echo "Issue created: $NEW_ISSUE_URL"
 
-          # 5. 프로젝트에 이슈 추가
-          # --project 옵션 대신 gh project item-create를 사용하여 명시적으로 추가합니다.
-          # --owner를 지정해야 'not found' 에러를 방지할 수 있습니다.
-          gh project item-create "$PROJECT_NAME" \
-            --owner "${{ github.repository_owner }}" \
-            --url "$NEW_ISSUE_URL"
+          # 5. 프로젝트에 이슈 추가 (item-add 명령어 사용)
+          # 'item-create'는 드래프트 이슈를 만들 때 사용하며, 
+          # 기존 이슈를 연결할 때는 'item-add'와 '--url'을 사용해야 합니다.
+          # 프로젝트 번호를 모를 경우 이름으로 찾도록 구성했습니다.
+          
+          # 프로젝트 번호(Number) 추출
+          PROJECT_NUMBER=$(gh project list --owner "${{ github.repository_owner }}" --format json | jq -r ".projects[] | select(.title == \"$PROJECT_NAME\") | .number")
+          
+          if [ -z "$PROJECT_NUMBER" ] || [ "$PROJECT_NUMBER" == "null" ]; then
+            echo "Project '$PROJECT_NAME' not found."
+          else
+            gh project item-add "$PROJECT_NUMBER" \
+              --owner "${{ github.repository_owner }}" \
+              --url "$NEW_ISSUE_URL"
+          fi
