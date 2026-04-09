@@ -495,8 +495,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |-------|----|-----|
 |1|[Kim Jong Feel](https://github.com/jongfeel/)|10|
 |2|[최지윤](https://github.com/chichoon/)|10|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|7|
-|4|[LeeDaYeon](https://github.com/ErigoLee/)|4|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|6|
+|4|[LeeDaYeon](https://github.com/ErigoLee/)|5|
 |5|[TaeWon](https://github.com/ytw9699/)|4|
 |6|[Daewon Paeng](https://github.com/fora22/)|1|
 |7|[ARi](https://github.com/hyunhyee/)|1|
@@ -507,7 +507,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |-------|----|-----|
 |1|[jongfeel](https://github.com/jongfeel/)|271|
 |2|[최지윤](https://github.com/chichoon)|180|
-|3|[yeslee-v](https://github.com/yeslee-v/)|110|
+|3|[yeslee-v](https://github.com/yeslee-v/)|109|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|48|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|37|
@@ -521,8 +521,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |14|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |15|[Daewon Paeng](https://github.com/fora22/)|20|
 |16|[exgs](https://github.com/exgs)|19|
-|17|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
-|18|[LeeDaYeon](https://github.com/ErigoLee/)|17|
+|17|[LeeDaYeon](https://github.com/ErigoLee/)|18|
+|18|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
 |19|[soo:bak](https://github.com/soo-bak)|15|
 |20|[yoonucho](https://github.com/yoonucho/)|14|
 |21|[wisdom08](https://github.com/wisdom08/)|14|
