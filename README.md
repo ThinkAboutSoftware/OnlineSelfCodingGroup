@@ -35,7 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 1Q meetup list
 
-- [278th, 2026-03-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/531), will be open
+- [278th, 2026-03-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/531), joined 3
 - [277th, 2026-03-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/530), joined 5
 - [276th, 2026-02-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/528), joined 2
 - [275th, 2026-02-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/527), joined 2
@@ -493,20 +493,21 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|10|
-|2|[최지윤](https://github.com/chichoon/)|10|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|11|
+|2|[최지윤](https://github.com/chichoon/)|11|
 |3|[Yeshin Lee](https://github.com/yeslee-v/)|6|
 |4|[LeeDaYeon](https://github.com/ErigoLee/)|5|
 |5|[TaeWon](https://github.com/ytw9699/)|4|
 |6|[Daewon Paeng](https://github.com/fora22/)|1|
 |7|[ARi](https://github.com/hyunhyee/)|1|
+|8|[Harry Ho](https://github.com/hemil0102/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|271|
-|2|[최지윤](https://github.com/chichoon)|180|
+|1|[jongfeel](https://github.com/jongfeel/)|272|
+|2|[최지윤](https://github.com/chichoon)|181|
 |3|[yeslee-v](https://github.com/yeslee-v/)|109|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|48|
@@ -555,6 +556,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |48|[cyhcyh100](https://github.com/cyhcyh100/)|1|
 |49|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
 |50|[KyungDong Yoo](https://github.com/yugd1211/)|1|
+|51|[Harry Ho](https://github.com/hemil0102/)|1|
 
 ### Ranking history
 
