@@ -131,10 +131,7 @@ Add joined stamps for <N>th online meetup <YYYY-MM-DD>
 ## 4. Push & Pull Request
 
 ```bash
-# branch 이름: <issue_number>-<N>th-online-meetup-<YYYY-MM-DD>
-git checkout -b 531-278th-online-meetup-2026-03-14
-
-# push (jongfeel 계정 사용)
+# push (jongfeel 계정 사용, branch는 프롬프트에서 주어진 issue 기준으로 이미 생성됨)
 TOKEN=$(gh auth token --user jongfeel)
 git push "https://jongfeel:$TOKEN@github.com/ThinkAboutSoftware/OnlineSelfCodingGroup.git" <branch_name>
 
