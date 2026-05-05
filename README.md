@@ -33,6 +33,10 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - 아무 얘기도 안하고 들어왔을 경우라고 해도 아래 process에 대한 룰은 지켜야 합니다.
 - "XX 때문에 못와서 죄송합니다.", "다음에 꼭 참여할께요" 등 불필요한 변명은 안해도 됩니다. 자율 모임이라 누가 오던 안오던 상관 없는 모임입니다. 각자 알아서 하는 모임이니까요.
 
+## 2026 2Q meetup list
+
+- [281th, 2026-04-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/542), joined 3
+
 ## 2026 1Q meetup list
 
 - [280th, 2026-03-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/535), joined 3
@@ -495,9 +499,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|13|
-|2|[최지윤](https://github.com/chichoon/)|11|
-|3|[Yeshin Lee](https://github.com/yeslee-v/)|6|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|14|
+|2|[최지윤](https://github.com/chichoon/)|12|
+|3|[Yeshin Lee](https://github.com/yeslee-v/)|7|
 |4|[TaeWon](https://github.com/ytw9699/)|6|
 |5|[LeeDaYeon](https://github.com/ErigoLee/)|5|
 |6|[Daewon Paeng](https://github.com/fora22/)|1|
@@ -509,9 +513,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|274|
-|2|[최지윤](https://github.com/chichoon)|181|
-|3|[yeslee-v](https://github.com/yeslee-v/)|109|
+|1|[jongfeel](https://github.com/jongfeel/)|275|
+|2|[최지윤](https://github.com/chichoon)|182|
+|3|[yeslee-v](https://github.com/yeslee-v/)|110|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|50|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|37|
