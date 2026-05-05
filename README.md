@@ -53,7 +53,13 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [269th, 2026-01-10](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/515), joined 4
 - [268th, 2026-01-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/514), joined 4
 
-## 2025 4Q meetup list
+<details>
+<summary>Online meet up history</summary>
+<p>
+
+<details>
+<summary>2025년 4Q</summary>
+<p>
 
 - [267th, 2025-12-27](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/511), joined 3
 - [266th, 2025-12-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/508), joined 3
@@ -69,9 +75,8 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 - [256th, 2025-10-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/486), joined 4
 - [255th, 2025-10-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/485), joined 4
 
-<details>
-<summary>Online meet up history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2025년 3Q</summary>
