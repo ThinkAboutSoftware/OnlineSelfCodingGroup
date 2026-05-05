@@ -35,6 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 1Q meetup list
 
+- [280th, 2026-03-28](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/535), joined 3
 - [279th, 2026-03-21](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/533), joined 2
 - [278th, 2026-03-14](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/531), joined 3
 - [277th, 2026-03-07](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/530), joined 5
@@ -494,24 +495,25 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|12|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|13|
 |2|[최지윤](https://github.com/chichoon/)|11|
 |3|[Yeshin Lee](https://github.com/yeslee-v/)|6|
-|4|[LeeDaYeon](https://github.com/ErigoLee/)|5|
-|5|[TaeWon](https://github.com/ytw9699/)|5|
+|4|[TaeWon](https://github.com/ytw9699/)|6|
+|5|[LeeDaYeon](https://github.com/ErigoLee/)|5|
 |6|[Daewon Paeng](https://github.com/fora22/)|1|
 |7|[ARi](https://github.com/hyunhyee/)|1|
 |8|[Harry Ho](https://github.com/hemil0102/)|1|
+|9|[loginshin](https://github.com/loginshin/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|273|
+|1|[jongfeel](https://github.com/jongfeel/)|274|
 |2|[최지윤](https://github.com/chichoon)|181|
 |3|[yeslee-v](https://github.com/yeslee-v/)|109|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
-|5|[TaeWon](https://github.com/ytw9699/)|49|
+|5|[TaeWon](https://github.com/ytw9699/)|50|
 |6|[Byeongguk Ahn](https://github.com/nonoaa/)|37|
 |7|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |8|[hyuncho](https://github.com/aquamagic9/)|33|
@@ -558,6 +560,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |49|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
 |50|[KyungDong Yoo](https://github.com/yugd1211/)|1|
 |51|[Harry Ho](https://github.com/hemil0102/)|1|
+|52|[loginshin](https://github.com/loginshin/)|1|
 
 ### Ranking history
 
