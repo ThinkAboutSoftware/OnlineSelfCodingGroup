@@ -22,6 +22,14 @@
 
 스탬프를 클릭하면 해당 내용의 issue link로 갈 수 있습니다.
 
+### 2026 2Q, 04-04 (281th) ~ 06-27 (293th)
+
+| Name | 04-04 (281th) | 04-11 (282th) | 04-18 (283th) | 04-25 (284th) | 05-02 (285th) | 05-09 (286th) | 05-16 (287th) | 05-23 (288th) | 05-30 (289th) | 06-06 (290th) | 06-13 (291th) | 06-20 (292th) | 06-27 (293th) |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/542#issuecomment-4185964313"><img src="approved_2021_2Q.png"/></a> | | | | | | | | | | | | |
+| [Yeshin Lee](https://github.com/yeslee-v/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/542#issuecomment-4183362648"><img src="approved_2021_2Q.png"/><img src="Starbucks_americano.JPG"/><img src="approved_2021_2Q.png"/>book 5/20</a> | | | | | | | | | | | | |
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/542#issuecomment-4186186117"><img src="approved_2021_2Q.png"/><img src="approved_2021_2Q.png"/>book 7/20</a> | | | | | | | | | | | | |
+
 ### 2026 1Q, 01-03 (268th) ~ 03-28 (280th)
 
 | Name | 01-03 (268th) | 01-10 (269th) | 01-17 (270th) | 01-24 (271th) | 01-31 (272th) | 02-07 (273th) | 02-14 (274th) | 02-21 (275th) | 02-28 (276th) | 03-07 (277th) | 03-14 (278th) | 03-21 (279th) | 03-28 (280th) |
