@@ -759,7 +759,7 @@ hi-hyein, Joseph-Cha, eunyeong-so get prize starbucks e-gift item.
 - 2시간을 다 채우고 인증이 완료된 분에게 참석 스탬프 1장을 드립니다.
   - [추가 업데이트) 2021-10-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/86)
   - 참석 하신 분이 한 분 혹은 두 분 이라면 그 분에게는 스탬프를 2장 드립니다!
-- 스탬프 4장을 모으신 분은 저의 사비를 털어 스타벅스 아메리카노 쿠폰을 드립니다.
+- 스탬프 4장을 모으신 분은 저의 사비를 털어 네이버페이 5000원 상품권을 드립니다.
 - 기념이 될 만한 회차 ([10회](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/18), [50회](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/88), [100회](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/169) 등)에 참여하신 분은 쿠폰이 업그레이드 됩니다!
 - 인증 절차
   - 아래 모든 내용은 제가 확인하고 진행합니다.
