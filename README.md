@@ -35,6 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 2Q meetup list
 
+- [283th, 2026-04-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/546), joined 5
 - [282th, 2026-04-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/543), joined 5
 - [281th, 2026-04-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/542), joined 3
 
@@ -505,27 +506,27 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|15|
-|2|[최지윤](https://github.com/chichoon/)|13|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|16|
+|2|[최지윤](https://github.com/chichoon/)|14|
 |3|[Yeshin Lee](https://github.com/yeslee-v/)|7|
 |4|[TaeWon](https://github.com/ytw9699/)|7|
-|5|[LeeDaYeon](https://github.com/ErigoLee/)|6|
+|5|[LeeDaYeon](https://github.com/ErigoLee/)|7|
 |6|[Daewon Paeng](https://github.com/fora22/)|1|
 |7|[ARi](https://github.com/hyunhyee/)|1|
 |8|[Harry Ho](https://github.com/hemil0102/)|1|
-|9|[loginshin](https://github.com/loginshin/)|1|
-|10|[Byeongguk Ahn](https://github.com/nonoaa/)|1|
+|9|[loginshin](https://github.com/loginshin/)|2|
+|10|[Byeongguk Ahn](https://github.com/nonoaa/)|2|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|276|
-|2|[최지윤](https://github.com/chichoon)|183|
+|1|[jongfeel](https://github.com/jongfeel/)|277|
+|2|[최지윤](https://github.com/chichoon)|184|
 |3|[yeslee-v](https://github.com/yeslee-v/)|110|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|51|
-|6|[Byeongguk Ahn](https://github.com/nonoaa/)|38|
+|6|[Byeongguk Ahn](https://github.com/nonoaa/)|39|
 |7|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |8|[hyuncho](https://github.com/aquamagic9/)|33|
 |9|[hi-hyein](https://github.com/hi-hyein/)|30|
@@ -536,7 +537,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |14|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |15|[Daewon Paeng](https://github.com/fora22/)|20|
 |16|[exgs](https://github.com/exgs)|19|
-|17|[LeeDaYeon](https://github.com/ErigoLee/)|19|
+|17|[LeeDaYeon](https://github.com/ErigoLee/)|20|
 |18|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
 |19|[soo:bak](https://github.com/soo-bak)|15|
 |20|[yoonucho](https://github.com/yoonucho/)|14|
@@ -571,7 +572,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |49|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
 |50|[KyungDong Yoo](https://github.com/yugd1211/)|1|
 |51|[Harry Ho](https://github.com/hemil0102/)|1|
-|52|[loginshin](https://github.com/loginshin/)|1|
+|52|[loginshin](https://github.com/loginshin/)|2|
 
 ### Ranking history
 
