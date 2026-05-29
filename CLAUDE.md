@@ -40,6 +40,14 @@ gh issue view <issue_number> --repo ThinkAboutSoftware/OnlineSelfCodingGroup
 - 신규 참여자는 테이블 하단에 추가하고 Ranking 번호를 순서대로 부여합니다.
 - 신규 참여자의 초기 Count는 1입니다.
 
+### 1-4. 랭킹 순서 재정렬 규칙
+
+Count 변경 후 테이블 내 순서가 Count 내림차순과 맞지 않으면 행을 재배치하고 Ranking 번호를 다시 부여합니다.
+
+- Count가 높은 멤버가 낮은 멤버보다 위에 위치해야 합니다.
+- 동일한 Count인 경우 기존 순서를 유지합니다.
+- 두 랭킹 테이블(2026, All from first to present) 모두에 적용합니다.
+
 ---
 
 ## 2. Stamp/README.md 업데이트
