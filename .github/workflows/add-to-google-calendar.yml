@@ -25,11 +25,10 @@ jobs:
           GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_URL: ${{ github.event.issue.html_url }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
           python - <<'PYTHON'
-          import os
-          import json
-          import re
+          import os, json, re
           from datetime import datetime
           import pytz
           from google.oauth2 import service_account
@@ -41,9 +40,7 @@ jobs:
               print(f"Skipping: title doesn't match meetup format: {title}")
               exit(0)
 
-          meeting_num = match.group(1)
-          date_str = match.group(2)
-
+          meeting_num, date_str = match.group(1), match.group(2)
           tz = pytz.timezone('Asia/Seoul')
           date = datetime.strptime(date_str, '%Y-%m-%d')
           start = tz.localize(date.replace(hour=10, minute=30))
@@ -51,8 +48,7 @@ jobs:
 
           key_info = json.loads(os.environ['GOOGLE_SERVICE_ACCOUNT_KEY'])
           credentials = service_account.Credentials.from_service_account_info(
-              key_info,
-              scopes=['https://www.googleapis.com/auth/calendar']
+              key_info, scopes=['https://www.googleapis.com/auth/calendar']
           )
           service = build('calendar', 'v3', credentials=credentials)
 
@@ -65,11 +61,18 @@ jobs:
               ),
               'start': {'dateTime': start.isoformat(), 'timeZone': 'Asia/Seoul'},
               'end': {'dateTime': end.isoformat(), 'timeZone': 'Asia/Seoul'},
+              # issues: assigned 워크플로우에서 이 이벤트를 찾기 위해 이슈 번호를 저장
+              'extendedProperties': {
+                  'private': {
+                      'github_issue_number': os.environ['ISSUE_NUMBER']
+                  }
+              },
           }
 
           result = service.events().insert(
               calendarId=os.environ['GOOGLE_CALENDAR_ID'],
-              body=event
+              body=event,
+              sendUpdates='none',
           ).execute()
 
           print(f"Event created: {result.get('htmlLink')}")
