@@ -26,22 +26,34 @@ jobs:
           ASSIGNEE_LOGIN: ${{ github.event.assignee.login }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CALENDAR_EMAIL_MAP: ${{ vars.CALENDAR_EMAIL_MAP }}
         run: |
           python - <<'PYTHON'
           import os, json, time, subprocess
           from google.oauth2 import service_account
           from googleapiclient.discovery import build
 
-          # GitHub 계정의 public email 조회
           login = os.environ['ASSIGNEE_LOGIN']
+
+          # 1순위: GitHub 계정의 public email 조회
           result = subprocess.run(
               ['gh', 'api', f'/users/{login}', '--jq', '.email'],
               capture_output=True, text=True, env={**os.environ}
           )
           email = result.stdout.strip()
-          if not email or email == 'null':
-              print(f"Skipping {login}: public email not set on GitHub account")
-              exit(0)
+          if email == 'null':
+              email = ''
+
+          # 2순위: GitHub public email이 없으면 CALENDAR_EMAIL_MAP variable 확인
+          if not email:
+              email_map = json.loads(os.environ.get('CALENDAR_EMAIL_MAP') or '{}')
+              email = email_map.get(login, '')
+              if email:
+                  print(f"Using mapped email for {login}: {email}")
+              else:
+                  print(f"Skipping {login}: no email found. "
+                        f"Add '{login}: <email>' to CALENDAR_EMAIL_MAP variable to enable.")
+                  exit(0)
 
           key_info = json.loads(os.environ['GOOGLE_SERVICE_ACCOUNT_KEY'])
           credentials = service_account.Credentials.from_service_account_info(
