@@ -1,0 +1,101 @@
+name: Add Assignee to Google Calendar Event
+
+on:
+  issues:
+    types: [assigned]
+
+jobs:
+  add-assignee:
+    runs-on: ubuntu-latest
+    # 모각코 이슈 형식에만 실행 (예: "285th online meetup, 2026-05-02")
+    if: ${{ contains(github.event.issue.title, 'online meetup,') }}
+
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install google-auth google-api-python-client
+
+      - name: Add assignee as guest to calendar event
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
+          ASSIGNEE_LOGIN: ${{ github.event.assignee.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CALENDAR_EMAIL_MAP: ${{ vars.CALENDAR_EMAIL_MAP }}
+        run: |
+          python - <<'PYTHON'
+          import os, json, time, subprocess
+          from google.oauth2 import service_account
+          from googleapiclient.discovery import build
+
+          login = os.environ['ASSIGNEE_LOGIN']
+
+          # 1순위: GitHub 계정의 public email 조회
+          result = subprocess.run(
+              ['gh', 'api', f'/users/{login}', '--jq', '.email'],
+              capture_output=True, text=True, env={**os.environ}
+          )
+          email = result.stdout.strip()
+          if email == 'null':
+              email = ''
+
+          # 2순위: GitHub public email이 없으면 CALENDAR_EMAIL_MAP variable 확인
+          if not email:
+              email_map = json.loads(os.environ.get('CALENDAR_EMAIL_MAP') or '{}')
+              email = email_map.get(login, '')
+              if email:
+                  print(f"Using mapped email for {login}: {email}")
+              else:
+                  print(f"Skipping {login}: no email found. "
+                        f"Add '{login}: <email>' to CALENDAR_EMAIL_MAP variable to enable.")
+                  exit(0)
+
+          key_info = json.loads(os.environ['GOOGLE_SERVICE_ACCOUNT_KEY'])
+          credentials = service_account.Credentials.from_service_account_info(
+              key_info, scopes=['https://www.googleapis.com/auth/calendar']
+          )
+          service = build('calendar', 'v3', credentials=credentials)
+          calendar_id = os.environ['GOOGLE_CALENDAR_ID']
+          issue_number = os.environ['ISSUE_NUMBER']
+
+          # issues:opened 워크플로우와의 경쟁 조건 처리:
+          # 이슈 생성 시 opened와 assigned가 동시에 트리거되므로
+          # 캘린더 이벤트가 아직 생성 중일 수 있어 최대 3회 재시도
+          event = None
+          for attempt in range(3):
+              events = service.events().list(
+                  calendarId=calendar_id,
+                  privateExtendedProperty=f'github_issue_number={issue_number}'
+              ).execute()
+              items = events.get('items', [])
+              if items:
+                  event = items[0]
+                  break
+              print(f"Event not found yet, retrying in 15s... ({attempt + 1}/3)")
+              time.sleep(15)
+
+          if not event:
+              print(f"Calendar event not found for issue #{issue_number}")
+              exit(1)
+
+          # 중복 추가 방지
+          attendees = event.get('attendees', [])
+          if any(a.get('email') == email for a in attendees):
+              print(f"{login} ({email}) is already a guest")
+              exit(0)
+
+          attendees.append({'email': email})
+          service.events().patch(
+              calendarId=calendar_id,
+              eventId=event['id'],
+              body={'attendees': attendees},
+              sendUpdates='none',
+          ).execute()
+
+          print(f"Added {login} ({email}) as guest to the calendar event")
+          PYTHON
