@@ -35,6 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 2Q meetup list
 
+- [283th, 2026-04-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/546), joined 5
 - [282th, 2026-04-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/543), joined 5
 - [281th, 2026-04-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/542), joined 3
 
@@ -505,27 +506,27 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|15|
-|2|[최지윤](https://github.com/chichoon/)|13|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|16|
+|2|[최지윤](https://github.com/chichoon/)|14|
 |3|[Yeshin Lee](https://github.com/yeslee-v/)|7|
 |4|[TaeWon](https://github.com/ytw9699/)|7|
-|5|[LeeDaYeon](https://github.com/ErigoLee/)|6|
-|6|[Daewon Paeng](https://github.com/fora22/)|1|
-|7|[ARi](https://github.com/hyunhyee/)|1|
-|8|[Harry Ho](https://github.com/hemil0102/)|1|
-|9|[loginshin](https://github.com/loginshin/)|1|
-|10|[Byeongguk Ahn](https://github.com/nonoaa/)|1|
+|5|[LeeDaYeon](https://github.com/ErigoLee/)|7|
+|6|[loginshin](https://github.com/loginshin/)|2|
+|7|[Byeongguk Ahn](https://github.com/nonoaa/)|2|
+|8|[Daewon Paeng](https://github.com/fora22/)|1|
+|9|[ARi](https://github.com/hyunhyee/)|1|
+|10|[Harry Ho](https://github.com/hemil0102/)|1|
 
 ### All from first to present
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|276|
-|2|[최지윤](https://github.com/chichoon)|183|
+|1|[jongfeel](https://github.com/jongfeel/)|277|
+|2|[최지윤](https://github.com/chichoon)|184|
 |3|[yeslee-v](https://github.com/yeslee-v/)|110|
 |4|[Jeongan Lee](https://github.com/fkdl0048/)|51|
 |5|[TaeWon](https://github.com/ytw9699/)|51|
-|6|[Byeongguk Ahn](https://github.com/nonoaa/)|38|
+|6|[Byeongguk Ahn](https://github.com/nonoaa/)|39|
 |7|[Joseph-Cha](https://github.com/Joseph-Cha/)|34|
 |8|[hyuncho](https://github.com/aquamagic9/)|33|
 |9|[hi-hyein](https://github.com/hi-hyein/)|30|
@@ -535,8 +536,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |13|[JSY8869](https://github.com/JSY8869/)|21|
 |14|[wjrmffldrhrl](https://github.com/wjrmffldrhrl/)|20|
 |15|[Daewon Paeng](https://github.com/fora22/)|20|
-|16|[exgs](https://github.com/exgs)|19|
-|17|[LeeDaYeon](https://github.com/ErigoLee/)|19|
+|16|[LeeDaYeon](https://github.com/ErigoLee/)|20|
+|17|[exgs](https://github.com/exgs)|19|
 |18|[TaeHyoungKwon](https://github.com/TaeHyoungKwon/)|17|
 |19|[soo:bak](https://github.com/soo-bak)|15|
 |20|[yoonucho](https://github.com/yoonucho/)|14|
@@ -559,19 +560,19 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |37|[kapitalismho](https://github.com/kapitalismho/)|2|
 |38|[yiy829](https://github.com/yiy829/)|2|
 |39|[yonii2](https://github.com/yonii2/)|2|
-|40|[mhjoon99](https://github.com/mhjoon99/)|1|
-|41|[CokeLee777](https://github.com/CokeLee777/)|1|
-|42|[zoops](https://github.com/zoops/)|1|
-|43|[silqwer](https://github.com/silqwer)|1|
-|44|[Nayun Kwak](https://github.com/nayunz/)|1|
-|45|[jhjgenius](https://github.com/jhjgenius/)|1|
-|46|[eunbbin](https://github.com/eunbbin/)|1|
-|47|[SooimChoi](https://github.com/leechoiswim1/)|1|
-|48|[cyhcyh100](https://github.com/cyhcyh100/)|1|
-|49|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
-|50|[KyungDong Yoo](https://github.com/yugd1211/)|1|
-|51|[Harry Ho](https://github.com/hemil0102/)|1|
-|52|[loginshin](https://github.com/loginshin/)|1|
+|40|[loginshin](https://github.com/loginshin/)|2|
+|41|[mhjoon99](https://github.com/mhjoon99/)|1|
+|42|[CokeLee777](https://github.com/CokeLee777/)|1|
+|43|[zoops](https://github.com/zoops/)|1|
+|44|[silqwer](https://github.com/silqwer)|1|
+|45|[Nayun Kwak](https://github.com/nayunz/)|1|
+|46|[jhjgenius](https://github.com/jhjgenius/)|1|
+|47|[eunbbin](https://github.com/eunbbin/)|1|
+|48|[SooimChoi](https://github.com/leechoiswim1/)|1|
+|49|[cyhcyh100](https://github.com/cyhcyh100/)|1|
+|50|[3Cat-jaguar](https://github.com/3Cat-jaguar)|1|
+|51|[KyungDong Yoo](https://github.com/yugd1211/)|1|
+|52|[Harry Ho](https://github.com/hemil0102/)|1|
 
 ### Ranking history
 
