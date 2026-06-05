@@ -35,6 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 2Q meetup list
 
+- [286th, 2026-05-09](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/555), joined 3
 - [285th, 2026-05-02](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/550), joined 3
 - [284th, 2026-04-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/547), joined 4
 - [283th, 2026-04-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/546), joined 5
@@ -508,12 +509,12 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|18|
-|2|[최지윤](https://github.com/chichoon/)|16|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|19|
+|2|[최지윤](https://github.com/chichoon/)|17|
 |3|[TaeWon](https://github.com/ytw9699/)|8|
 |4|[Yeshin Lee](https://github.com/yeslee-v/)|7|
 |5|[LeeDaYeon](https://github.com/ErigoLee/)|7|
-|6|[loginshin](https://github.com/loginshin/)|3|
+|6|[loginshin](https://github.com/loginshin/)|4|
 |7|[Byeongguk Ahn](https://github.com/nonoaa/)|3|
 |8|[Daewon Paeng](https://github.com/fora22/)|1|
 |9|[ARi](https://github.com/hyunhyee/)|1|
@@ -523,8 +524,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|279|
-|2|[최지윤](https://github.com/chichoon)|186|
+|1|[jongfeel](https://github.com/jongfeel/)|280|
+|2|[최지윤](https://github.com/chichoon)|187|
 |3|[yeslee-v](https://github.com/yeslee-v/)|110|
 |4|[TaeWon](https://github.com/ytw9699/)|52|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|51|
@@ -554,10 +555,10 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |29|[kimpitang](https://github.com/kimpitang/)|8|
 |30|[IWON LEE](https://github.com/walnutpie314/)|5|
 |31|[진태영](https://github.com/jintaeyeong)|4|
-|32|[kiJiyeon](https://github.com/kiJiyeon/)|3|
-|33|[seoyoungit](https://github.com/seoyoungit/)|3|
-|34|[park7628](https://github.com/park7628/)|3|
-|35|[loginshin](https://github.com/loginshin/)|3|
+|32|[loginshin](https://github.com/loginshin/)|4|
+|33|[kiJiyeon](https://github.com/kiJiyeon/)|3|
+|34|[seoyoungit](https://github.com/seoyoungit/)|3|
+|35|[park7628](https://github.com/park7628/)|3|
 |36|[김지수](https://github.com/tttghost)|2|
 |37|[Park ChulHwan](https://github.com/Chul-Hwan)|2|
 |38|[kapitalismho](https://github.com/kapitalismho/)|2|
