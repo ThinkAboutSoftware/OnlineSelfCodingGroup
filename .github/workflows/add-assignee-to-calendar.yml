@@ -7,6 +7,8 @@ on:
 jobs:
   add-assignee:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     # 모각코 이슈 형식에만 실행 (예: "285th online meetup, 2026-05-02")
     if: ${{ contains(github.event.issue.title, 'online meetup,') }}
 
@@ -21,7 +23,9 @@ jobs:
 
       - name: Add assignee as guest to calendar event
         env:
-          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          GOOGLE_OAUTH2_CLIENT_ID: ${{ secrets.GOOGLE_OAUTH2_CLIENT_ID }}
+          GOOGLE_OAUTH2_CLIENT_SECRET: ${{ secrets.GOOGLE_OAUTH2_CLIENT_SECRET }}
+          GOOGLE_OAUTH2_REFRESH_TOKEN: ${{ secrets.GOOGLE_OAUTH2_REFRESH_TOKEN }}
           GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
           ASSIGNEE_LOGIN: ${{ github.event.assignee.login }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
@@ -30,7 +34,7 @@ jobs:
         run: |
           python - <<'PYTHON'
           import os, json, time, subprocess
-          from google.oauth2 import service_account
+          from google.oauth2.credentials import Credentials
           from googleapiclient.discovery import build
 
           login = os.environ['ASSIGNEE_LOGIN']
@@ -55,9 +59,12 @@ jobs:
                         f"Add '{login}: <email>' to CALENDAR_EMAIL_MAP variable to enable.")
                   exit(0)
 
-          key_info = json.loads(os.environ['GOOGLE_SERVICE_ACCOUNT_KEY'])
-          credentials = service_account.Credentials.from_service_account_info(
-              key_info, scopes=['https://www.googleapis.com/auth/calendar']
+          credentials = Credentials(
+              token=None,
+              refresh_token=os.environ['GOOGLE_OAUTH2_REFRESH_TOKEN'],
+              client_id=os.environ['GOOGLE_OAUTH2_CLIENT_ID'],
+              client_secret=os.environ['GOOGLE_OAUTH2_CLIENT_SECRET'],
+              token_uri='https://oauth2.googleapis.com/token',
           )
           service = build('calendar', 'v3', credentials=credentials)
           calendar_id = os.environ['GOOGLE_CALENDAR_ID']
