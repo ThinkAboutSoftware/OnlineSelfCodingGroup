@@ -3,6 +3,14 @@ name: Add Assignee to Google Calendar Event
 on:
   issues:
     types: [assigned]
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: 'Issue number'
+        required: true
+      assignee_login:
+        description: 'Assignee GitHub login'
+        required: true
 
 jobs:
   add-assignee:
@@ -10,7 +18,7 @@ jobs:
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     # 모각코 이슈 형식에만 실행 (예: "285th online meetup, 2026-05-02")
-    if: ${{ contains(github.event.issue.title, 'online meetup,') }}
+    if: ${{ github.event_name == 'workflow_dispatch' || contains(github.event.issue.title, 'online meetup,') }}
 
     steps:
       - name: Set up Python
@@ -27,8 +35,8 @@ jobs:
           GOOGLE_OAUTH2_CLIENT_SECRET: ${{ secrets.GOOGLE_OAUTH2_CLIENT_SECRET }}
           GOOGLE_OAUTH2_REFRESH_TOKEN: ${{ secrets.GOOGLE_OAUTH2_REFRESH_TOKEN }}
           GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
-          ASSIGNEE_LOGIN: ${{ github.event.assignee.login }}
-          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ASSIGNEE_LOGIN: ${{ github.event.assignee.login || inputs.assignee_login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number || inputs.issue_number }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CALENDAR_EMAIL_MAP: ${{ vars.CALENDAR_EMAIL_MAP }}
         run: |
