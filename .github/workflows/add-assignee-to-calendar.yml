@@ -7,6 +7,8 @@ on:
 jobs:
   add-assignee:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     # 모각코 이슈 형식에만 실행 (예: "285th online meetup, 2026-05-02")
     if: ${{ contains(github.event.issue.title, 'online meetup,') }}
 
