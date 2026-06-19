@@ -35,6 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 2Q meetup list
 
+- [290th, 2026-06-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/564), joined 3
 - [289th, 2026-05-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/561), joined 2
 - [288th, 2026-05-23](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/560), joined 2
 - [287th, 2026-05-16](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/559), joined 4
@@ -512,12 +513,12 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|22|
-|2|[최지윤](https://github.com/chichoon/)|19|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|23|
+|2|[최지윤](https://github.com/chichoon/)|20|
 |3|[TaeWon](https://github.com/ytw9699/)|8|
 |4|[Yeshin Lee](https://github.com/yeslee-v/)|7|
 |5|[LeeDaYeon](https://github.com/ErigoLee/)|7|
-|6|[loginshin](https://github.com/loginshin/)|5|
+|6|[loginshin](https://github.com/loginshin/)|6|
 |7|[Byeongguk Ahn](https://github.com/nonoaa/)|5|
 |8|[Daewon Paeng](https://github.com/fora22/)|1|
 |9|[ARi](https://github.com/hyunhyee/)|1|
@@ -527,8 +528,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|283|
-|2|[최지윤](https://github.com/chichoon)|189|
+|1|[jongfeel](https://github.com/jongfeel/)|284|
+|2|[최지윤](https://github.com/chichoon)|190|
 |3|[yeslee-v](https://github.com/yeslee-v/)|110|
 |4|[TaeWon](https://github.com/ytw9699/)|52|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|51|
@@ -556,8 +557,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |27|[Ahyun Lee](https://github.com/northmantar/)|10|
 |28|[Arat5724](https://github.com/Arat5724/)|8|
 |29|[kimpitang](https://github.com/kimpitang/)|8|
-|30|[IWON LEE](https://github.com/walnutpie314/)|5|
-|31|[loginshin](https://github.com/loginshin/)|5|
+|30|[loginshin](https://github.com/loginshin/)|6|
+|31|[IWON LEE](https://github.com/walnutpie314/)|5|
 |32|[진태영](https://github.com/jintaeyeong)|4|
 |33|[kiJiyeon](https://github.com/kiJiyeon/)|3|
 |34|[seoyoungit](https://github.com/seoyoungit/)|3|
