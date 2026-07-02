@@ -35,6 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 2Q meetup list
 
+- [292th, 2026-06-20](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/575), joined 2
 - [291th, 2026-06-13](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/569), joined 2
 - [290th, 2026-06-06](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/564), joined 3
 - [289th, 2026-05-30](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/561), joined 2
@@ -514,12 +515,12 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|24|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|25|
 |2|[최지윤](https://github.com/chichoon/)|20|
 |3|[TaeWon](https://github.com/ytw9699/)|8|
 |4|[Yeshin Lee](https://github.com/yeslee-v/)|7|
 |5|[LeeDaYeon](https://github.com/ErigoLee/)|7|
-|6|[loginshin](https://github.com/loginshin/)|6|
+|6|[loginshin](https://github.com/loginshin/)|7|
 |7|[Byeongguk Ahn](https://github.com/nonoaa/)|6|
 |8|[Daewon Paeng](https://github.com/fora22/)|1|
 |9|[ARi](https://github.com/hyunhyee/)|1|
@@ -529,7 +530,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|285|
+|1|[jongfeel](https://github.com/jongfeel/)|286|
 |2|[최지윤](https://github.com/chichoon)|190|
 |3|[yeslee-v](https://github.com/yeslee-v/)|110|
 |4|[TaeWon](https://github.com/ytw9699/)|52|
@@ -558,7 +559,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |27|[Ahyun Lee](https://github.com/northmantar/)|10|
 |28|[Arat5724](https://github.com/Arat5724/)|8|
 |29|[kimpitang](https://github.com/kimpitang/)|8|
-|30|[loginshin](https://github.com/loginshin/)|6|
+|30|[loginshin](https://github.com/loginshin/)|7|
 |31|[IWON LEE](https://github.com/walnutpie314/)|5|
 |32|[진태영](https://github.com/jintaeyeong)|4|
 |33|[kiJiyeon](https://github.com/kiJiyeon/)|3|
