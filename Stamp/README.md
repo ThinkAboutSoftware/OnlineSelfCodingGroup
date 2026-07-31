@@ -26,6 +26,14 @@
 
 2026-05-29 부터 스타벅스 커피 아이콘 대신 네이버페이 5000원 상품권 이미지로 대체합니다.
 
+### 2026 3Q, 07-04 (294th) ~ 09-26 (306th)
+
+| Name | 07-04 (294th) |
+|-|-|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/579#issuecomment-4880199709"><img src="approved_2021_3Q.png"/></a> |
+| [loginshin](https://github.com/loginshin/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/579#issuecomment-4880194659"><img src="approved_2021_3Q.png"/><img src="NPayPoint5000.png"/><img src="approved_2021_3Q.png"/>book 8/20</a> |
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/579#issuecomment-4880299145"><img src="approved_2021_3Q.png"/><img src="NPayPoint5000.png"/><img src="approved_2021_3Q.png"/>book 16/20</a> |
+
 ### 2026 2Q, 04-04 (281th) ~ 06-27 (293th)
 
 | Name | 04-04 (281th) | 04-11 (282th) | 04-18 (283th) | 04-25 (284th) | 05-02 (285th) | 05-09 (286th) | 05-16 (287th) | 05-23 (288th) | 05-30 (289th) | 06-06 (290th) | 06-13 (291th) | 06-20 (292th) | 06-27 (293th) |
