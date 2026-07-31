@@ -28,11 +28,11 @@
 
 ### 2026 3Q, 07-04 (294th) ~ 09-26 (306th)
 
-| Name | 07-04 (294th) |
-|-|-|
-| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/579#issuecomment-4880199709"><img src="approved_2021_3Q.png"/></a> |
-| [loginshin](https://github.com/loginshin/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/579#issuecomment-4880194659"><img src="approved_2021_3Q.png"/><img src="NPayPoint5000.png"/><img src="approved_2021_3Q.png"/>book 8/20</a> |
-| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/579#issuecomment-4880299145"><img src="approved_2021_3Q.png"/><img src="NPayPoint5000.png"/><img src="approved_2021_3Q.png"/>book 16/20</a> |
+| Name | 07-04 (294th) | 07-11 (295th) | 07-18 (296th) | 07-25 (297th) | 08-01 (298th) | 08-08 (299th) | 08-15 (300th) | 08-22 (301th) | 08-29 (302th) | 09-05 (303th) | 09-12 (304th) | 09-19 (305th) | 09-26 (306th) |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/579#issuecomment-4880199709"><img src="approved_2021_3Q.png"/></a> | | | | | | | | | | | | |
+| [loginshin](https://github.com/loginshin/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/579#issuecomment-4880194659"><img src="approved_2021_3Q.png"/><img src="NPayPoint5000.png"/><img src="approved_2021_3Q.png"/>book 8/20</a> | | | | | | | | | | | | |
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/579#issuecomment-4880299145"><img src="approved_2021_3Q.png"/><img src="NPayPoint5000.png"/><img src="approved_2021_3Q.png"/>book 16/20</a> | | | | | | | | | | | | |
 
 ### 2026 2Q, 04-04 (281th) ~ 06-27 (293th)
 
