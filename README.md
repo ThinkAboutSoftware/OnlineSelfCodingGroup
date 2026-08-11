@@ -35,6 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 3Q meetup list
 
+- [295th, 2026-07-11](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/581), joined 3
 - [294th, 2026-07-04](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/579), joined 3
 
 ## 2026 2Q meetup list
@@ -520,10 +521,10 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|27|
-|2|[최지윤](https://github.com/chichoon/)|21|
-|3|[TaeWon](https://github.com/ytw9699/)|8|
-|4|[loginshin](https://github.com/loginshin/)|8|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|28|
+|2|[최지윤](https://github.com/chichoon/)|22|
+|3|[loginshin](https://github.com/loginshin/)|9|
+|4|[TaeWon](https://github.com/ytw9699/)|8|
 |5|[Yeshin Lee](https://github.com/yeslee-v/)|7|
 |6|[LeeDaYeon](https://github.com/ErigoLee/)|7|
 |7|[Byeongguk Ahn](https://github.com/nonoaa/)|6|
@@ -535,8 +536,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|288|
-|2|[최지윤](https://github.com/chichoon)|191|
+|1|[jongfeel](https://github.com/jongfeel/)|289|
+|2|[최지윤](https://github.com/chichoon)|192|
 |3|[yeslee-v](https://github.com/yeslee-v/)|110|
 |4|[TaeWon](https://github.com/ytw9699/)|52|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|51|
@@ -562,9 +563,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |25|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |26|[ellen310](https://github.com/ellen310/)|11|
 |27|[Ahyun Lee](https://github.com/northmantar/)|10|
-|28|[Arat5724](https://github.com/Arat5724/)|8|
-|29|[kimpitang](https://github.com/kimpitang/)|8|
-|30|[loginshin](https://github.com/loginshin/)|8|
+|28|[loginshin](https://github.com/loginshin/)|9|
+|29|[Arat5724](https://github.com/Arat5724/)|8|
+|30|[kimpitang](https://github.com/kimpitang/)|8|
 |31|[IWON LEE](https://github.com/walnutpie314/)|5|
 |32|[진태영](https://github.com/jintaeyeong)|4|
 |33|[kiJiyeon](https://github.com/kiJiyeon/)|3|
