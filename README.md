@@ -35,6 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 3Q meetup list
 
+- [299th, 2026-08-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/587), joined 3
 - [298th, 2026-08-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/585), joined 2
 - [297th, 2026-07-25](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/584), joined 1
 - [296th, 2026-07-18](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/582), joined 2
@@ -524,9 +525,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|31|
-|2|[최지윤](https://github.com/chichoon/)|24|
-|3|[loginshin](https://github.com/loginshin/)|9|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|32|
+|2|[최지윤](https://github.com/chichoon/)|25|
+|3|[loginshin](https://github.com/loginshin/)|10|
 |4|[TaeWon](https://github.com/ytw9699/)|8|
 |5|[Yeshin Lee](https://github.com/yeslee-v/)|7|
 |6|[LeeDaYeon](https://github.com/ErigoLee/)|7|
@@ -539,8 +540,8 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|292|
-|2|[최지윤](https://github.com/chichoon)|194|
+|1|[jongfeel](https://github.com/jongfeel/)|293|
+|2|[최지윤](https://github.com/chichoon)|195|
 |3|[yeslee-v](https://github.com/yeslee-v/)|110|
 |4|[TaeWon](https://github.com/ytw9699/)|52|
 |5|[Jeongan Lee](https://github.com/fkdl0048/)|51|
@@ -566,7 +567,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |25|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
 |26|[ellen310](https://github.com/ellen310/)|11|
 |27|[Ahyun Lee](https://github.com/northmantar/)|10|
-|28|[loginshin](https://github.com/loginshin/)|9|
+|28|[loginshin](https://github.com/loginshin/)|10|
 |29|[Arat5724](https://github.com/Arat5724/)|8|
 |30|[kimpitang](https://github.com/kimpitang/)|8|
 |31|[IWON LEE](https://github.com/walnutpie314/)|5|
