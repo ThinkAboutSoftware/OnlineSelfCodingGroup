@@ -35,6 +35,7 @@ Join link: [Google meet](https://meet.google.com/jyx-mxnq-kpk)
 
 ## 2026 3Q meetup list
 
+- [301th, 2026-08-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/590), joined 2
 - [300th, 2026-08-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/588), joined 2
 - [299th, 2026-08-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/587), joined 3
 - [298th, 2026-08-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/585), joined 2
@@ -526,9 +527,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[Kim Jong Feel](https://github.com/jongfeel/)|33|
+|1|[Kim Jong Feel](https://github.com/jongfeel/)|34|
 |2|[최지윤](https://github.com/chichoon/)|25|
-|3|[loginshin](https://github.com/loginshin/)|11|
+|3|[loginshin](https://github.com/loginshin/)|12|
 |4|[TaeWon](https://github.com/ytw9699/)|8|
 |5|[Yeshin Lee](https://github.com/yeslee-v/)|7|
 |6|[LeeDaYeon](https://github.com/ErigoLee/)|7|
@@ -541,7 +542,7 @@ and participate more than 30 online meetup, get the chicken gifticon.
 
 |Ranking|Name|Count|
 |-------|----|-----|
-|1|[jongfeel](https://github.com/jongfeel/)|294|
+|1|[jongfeel](https://github.com/jongfeel/)|295|
 |2|[최지윤](https://github.com/chichoon)|195|
 |3|[yeslee-v](https://github.com/yeslee-v/)|110|
 |4|[TaeWon](https://github.com/ytw9699/)|52|
@@ -565,9 +566,9 @@ and participate more than 30 online meetup, get the chicken gifticon.
 |22|[ARi](https://github.com/hyunhyee/)|14|
 |23|[junmokang](https://github.com/moaoh)|13|
 |24|[Jiyun Yun](https://github.com/jeeyn)|12|
-|25|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
-|26|[ellen310](https://github.com/ellen310/)|11|
-|27|[loginshin](https://github.com/loginshin/)|11|
+|25|[loginshin](https://github.com/loginshin/)|12|
+|26|[ShimWooJeong](https://github.com/ShimWooJeong/)|11|
+|27|[ellen310](https://github.com/ellen310/)|11|
 |28|[Ahyun Lee](https://github.com/northmantar/)|10|
 |29|[Arat5724](https://github.com/Arat5724/)|8|
 |30|[kimpitang](https://github.com/kimpitang/)|8|
