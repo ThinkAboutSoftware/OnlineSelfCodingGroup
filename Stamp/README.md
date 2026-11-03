@@ -26,6 +26,14 @@
 
 2026-05-29 부터 스타벅스 커피 아이콘 대신 네이버페이 5000원 상품권 이미지로 대체합니다.
 
+### 2026 4Q, 10-03 (307th) ~ 12-26 (319th)
+
+| Name | 10-03 (307th) | 10-10 (308th) | 10-17 (309th) | 10-24 (310th) | 10-31 (311th) | 11-07 (312th) | 11-14 (313th) | 11-21 (314th) | 11-28 (315th) | 12-05 (316th) | 12-12 (317th) | 12-19 (318th) | 12-26 (319th) |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/602#issuecomment-5964312924"><img src="approved.png"/></a> | | | | | | | | | | | | |
+| [loginshin](https://github.com/loginshin/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/602#issuecomment-5964121050"><img src="approved.png"/><img src="NPayPoint5000.png"/><img src="approved.png"/>book 14/20</a> | | | | | | | | | | | | |
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/602#issuecomment-5964139369"><img src="approved.png"/><img src="approved.png"/>book 3/20</a> | | | | | | | | | | | | |
+
 ### 2026 3Q, 07-04 (294th) ~ 09-26 (306th)
 
 | Name | 07-04 (294th) | 07-11 (295th) | 07-18 (296th) | 07-25 (297th) | 08-01 (298th) | 08-08 (299th) | 08-15 (300th) | 08-22 (301th) | 08-29 (302th) | 09-05 (303th) | 09-12 (304th) | 09-19 (305th) | 09-26 (306th) |
