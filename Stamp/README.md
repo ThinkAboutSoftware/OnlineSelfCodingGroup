@@ -30,9 +30,9 @@
 
 | Name | 10-03 (307th) | 10-10 (308th) | 10-17 (309th) | 10-24 (310th) | 10-31 (311th) | 11-07 (312th) | 11-14 (313th) | 11-21 (314th) | 11-28 (315th) | 12-05 (316th) | 12-12 (317th) | 12-19 (318th) | 12-26 (319th) |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/602#issuecomment-5964312924"><img src="approved.png"/></a> | | | | | | | | | | | | |
+| [Kim Jong Feel](https://github.com/jongfeel/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/602#issuecomment-5964312924"><img src="approved.png"/></a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/604#issuecomment-6092319950"><img src="approved.png"/></a> | | | | | | | | | | | |
+| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/602#issuecomment-5964139369"><img src="approved.png"/><img src="approved.png"/>book 3/20</a> | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/604#issuecomment-6092767482"><img src="approved.png"/><img src="NPayPoint5000.png"/><img src="approved.png"/>book 4/20</a> | | | | | | | | | | | |
 | [loginshin](https://github.com/loginshin/) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/602#issuecomment-5964121050"><img src="approved.png"/><img src="NPayPoint5000.png"/><img src="approved.png"/>book 14/20</a> | | | | | | | | | | | | |
-| [최지윤](https://github.com/chichoon) | <a href="https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/602#issuecomment-5964139369"><img src="approved.png"/><img src="approved.png"/>book 3/20</a> | | | | | | | | | | | | |
 
 ### 2026 3Q, 07-04 (294th) ~ 09-26 (306th)
 
